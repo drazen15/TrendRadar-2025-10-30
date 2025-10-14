@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T06:13:22.984607+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2025-10-15T07:14:15.022541+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2169261",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "大雁塔玄奘铜像长满青苔系AI生成",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
@@ -38,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -127,11 +128,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
