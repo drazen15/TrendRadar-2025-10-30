@@ -1,12 +1,38 @@
 {
-  "generated_at": "2025-10-14T12:40:23.550498+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-10-14T13:13:57.115110+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 12,
       "titles": [
+        {
+          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
+          "url": "https://wallstreetcn.com/articles/3757107",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时13分]"
+        },
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 13时13分]"
+        },
         {
           "title": "OpenAI或将成为最大的无人公司",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
@@ -24,18 +50,6 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 12时40分]"
-        },
-        {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
           "url": "https://www.cls.cn/detail/2168170",
           "source": "财联社热门",
@@ -47,30 +61,6 @@
           "time_info": "11时59分"
         },
         {
-          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
-          "url": "https://wallstreetcn.com/articles/3757107",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时40分]"
-        },
-        {
-          "title": "微软遭遇反垄断集体诉讼，被指抬高ChatGPT价格",
-          "url": "https://flash.jin10.com/detail/20251014055122671800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
-        },
-        {
           "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
           "url": "https://www.cls.cn/detail/2168234",
           "source": "财联社热门",
@@ -79,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 13时13分]"
         },
         {
           "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
@@ -94,6 +84,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时25分]"
+        },
+        {
+          "title": "微软遭遇反垄断集体诉讼，被指抬高ChatGPT价格",
+          "url": "https://flash.jin10.com/detail/20251014055122671800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时21分]"
         },
         {
           "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
@@ -156,7 +158,7 @@
       ]
     },
     {
-      "keyword_group": "AI AI教育 陪伴机器人 AI学习机",
+      "keyword_group": "AI",
       "match_count": 12,
       "titles": [
         {
@@ -165,11 +167,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时13分]"
         },
         {
           "title": "库克抖音官宣iPhone Air中国发售",
@@ -181,8 +184,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时13分]"
+        },
+        {
+          "title": "苹果 CEO 库克宣布 iPhone Air 国行版 10 月 17 日开启预定，你会入手吗？",
+          "url": "https://www.zhihu.com/question/1961173701857907085",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 13时13分]"
         },
         {
           "title": "博通CEO：生成式AI将成为全球GDP的更大组成部分",
@@ -194,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "苹果 CEO 库克宣布 iPhone Air 国行版 10 月 17 日开启预定，你会入手吗？",
-          "url": "https://www.zhihu.com/question/1961173701857907085",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 12时40分]"
         },
         {
           "title": "纳微半导体盘后涨幅扩大至42%，公司表示支持英伟达AI平台。",
