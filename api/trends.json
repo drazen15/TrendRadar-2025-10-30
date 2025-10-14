@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T14:21:52.521275+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2025-10-14T15:16:20.810787+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 14时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 15时16分]"
         },
         {
           "title": "库克抖音官宣iPhone Air中国发售",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 15时16分]"
         },
         {
           "title": "博通CEO：生成式AI将成为全球GDP的更大组成部分",
@@ -155,7 +155,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -175,8 +175,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 15时16分]"
         },
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -188,8 +188,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 15时16分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
