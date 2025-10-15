@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T17:17:26.817730+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2025-10-15T18:15:21.506732+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,18 @@
           "time_info": "[01时13分 ~ 10时23分]"
         },
         {
+          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
+          "url": "https://www.cls.cn/detail/2169939",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时15分]"
+        },
+        {
           "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
           "url": "https://www.zhihu.com/question/658385796",
           "source": "知乎",
@@ -86,17 +98,6 @@
           "time_info": "[10时23分 ~ 13时15分]"
         },
         {
-          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
-          "url": "https://www.cls.cn/detail/2169939",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时17分]"
-        },
-        {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
           "url": "https://wallstreetcn.com/livenews/2987652",
           "source": "华尔街见闻-快讯",
@@ -106,6 +107,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
+          "url": "https://www.cls.cn/detail/2169746",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时15分]"
         },
         {
           "title": "中兴通讯完成IMT-2020（5G）推进组RAN AI关键技术测试",
@@ -154,18 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时17分]"
-        },
-        {
-          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
-          "url": "https://www.cls.cn/detail/2169746",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时17分]"
         },
         {
           "title": "鲍威尔：现在判断AI对招聘的（潜在）影响还言之过早。",
