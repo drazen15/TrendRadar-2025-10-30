@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T11:34:58.866549+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-10-16T12:17:11.911399+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,34 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 12时17分]"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 12时17分]"
+        },
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时57分 ~ 11时34分]"
+          "time_info": "[10时24分 ~ 12时17分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -30,31 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 02时19分]"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 11时34分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 11时34分]"
         },
         {
           "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
@@ -104,6 +105,17 @@
           "time_info": "[02时19分 ~ 03时11分]"
         },
         {
+          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 12时17分]"
+        },
+        {
           "title": "网络热门AI诈骗鉴定",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E8%AF%88%E9%AA%97%E9%89%B4%E5%AE%9A",
           "source": "bilibili 热搜",
@@ -113,17 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
         }
       ]
     },
@@ -147,11 +148,12 @@
           "url": "https://flash.jin10.com/detail/20251016105501420800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时17分]"
         }
       ]
     }
