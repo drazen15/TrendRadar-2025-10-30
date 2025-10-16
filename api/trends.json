@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T15:14:00.642170+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2025-10-16T16:20:53.192759+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 16时20分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -58,11 +58,12 @@
             16,
             13,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 16时20分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -151,7 +152,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -162,7 +163,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -173,7 +174,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -184,7 +185,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -195,7 +196,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
