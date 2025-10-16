@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T21:28:38.510270+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2025-10-16T22:14:00.151509+08:00",
+  "total_titles_processed": 2160,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             8,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时34分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[11时34分 ~ 22时14分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -55,6 +56,20 @@
           "time_info": "[10时24分 ~ 15时14分]"
         },
         {
+          "title": "UP主用AI教库克说中文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 22时14分]"
+        },
+        {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
           "url": "https://www.cls.cn/detail/2170822",
           "source": "财联社热门",
@@ -69,19 +84,6 @@
           "time_info": "[08时57分 ~ 13时14分]"
         },
         {
-          "title": "UP主用AI教库克说中文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时28分]"
-        },
-        {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
           "url": "https://wallstreetcn.com/articles/3757182",
           "source": "华尔街见闻",
@@ -91,6 +93,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 02时19分]"
+        },
+        {
+          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时14分]"
         },
         {
           "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
@@ -159,17 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时11分]"
-        },
-        {
-          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
@@ -363,7 +365,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
