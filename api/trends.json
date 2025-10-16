@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T08:58:01.252928+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2025-10-16T10:24:41.103667+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -19,26 +19,38 @@
           "time_info": "[00时15分 ~ 02时19分]"
         },
         {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 10时24分]"
+        },
+        {
           "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
           "url": "https://flash.jin10.com/detail/20251016084813725800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
         {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
+          "title": "央视主持人李梓萌遭AI仿冒带货",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
+          "source": "百度热搜",
           "ranks": [
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
@@ -50,6 +62,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 10时24分]"
         },
         {
           "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
@@ -75,17 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时11分]"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
         },
         {
           "title": "网络热门AI诈骗鉴定",
