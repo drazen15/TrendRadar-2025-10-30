@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T05:12:31.624205+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2025-10-17T06:12:16.080925+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时12分]"
+        },
+        {
+          "title": "UP主用AI教库克说中文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            25,
+            23,
+            24,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时12分]"
         },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -31,21 +47,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时14分]"
-        },
-        {
-          "title": "UP主用AI教库克说中文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            25,
-            23,
-            24,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时12分]"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
