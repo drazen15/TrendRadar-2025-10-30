@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T19:11:56.310710+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2025-10-16T20:27:41.981238+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
@@ -32,11 +32,12 @@
             10,
             8,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时34分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[11时34分 ~ 20时27分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -68,6 +69,19 @@
           "time_info": "[08时57分 ~ 13时14分]"
         },
         {
+          "title": "UP主用AI教库克说中文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时27分]"
+        },
+        {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
           "url": "https://wallstreetcn.com/articles/3757182",
           "source": "华尔街见闻",
@@ -77,18 +91,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 02时19分]"
-        },
-        {
-          "title": "UP主用AI教库克说中文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
@@ -111,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "影目科技发布新款AI眼镜INMO GO3 聚焦原生内容生态建设",
+          "url": "https://wallstreetcn.com/livenews/2988997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
@@ -205,6 +218,28 @@
           "time_info": "15时14分"
         },
         {
+          "title": "雷军：AI大模型将给智能网联汽车无限的想象空间",
+          "url": "https://wallstreetcn.com/livenews/2988978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "美联储理事沃勒：目前通胀率估计在2.5%左右，似乎没有什么迹象表明通胀会大幅上升。 褐皮书并未显示经济形势乐观和繁荣。 年底GDP可能走弱。 我认为关税问题最终会平息，不会有大碍。 对AI的担忧在于它是否会导致劳动力需求的结构性变化，而美联储的周期性工具无法解决这个问题。",
+          "url": "https://wallstreetcn.com/livenews/2988976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "台积电：现在讨论2026年还为时过早。 汇率波动将影响公司的利润率。 我们正处于AI应用的早期阶段。 非常关注终端客户。 对先进制程芯片的需求是真实存在的。",
           "url": "https://wallstreetcn.com/livenews/2988757",
           "source": "华尔街见闻-快讯",
@@ -214,6 +249,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "如何看待荣耀发布「ROBOT PHONE」？AI 机器人与影像融合，会是手机终极形态吗？",
+          "url": "https://www.zhihu.com/question/1962187888750989906",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "美联储理事沃勒：关税不确定性以及对AI对生产力可能影响的疑问，使得企业CEO招聘意愿不强。 企业投资主要集中在AI领域，并未广泛分布。 一旦扣掉AI，企业固定投资是下降的。 大量AI相关支出实际上是行业间的资源重新分配。 美国抵押贷款和汽车贷款利率很高，条件并不宽松。 如果美联储继续下调政策利率，抵押贷款应会面临下行压力。 如果宽松的金融环境将引发景气繁荣，那么劳动力市场应该会出现这种现象。 但目前为止，情况并非如此。",
+          "url": "https://wallstreetcn.com/livenews/2988974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "百度搜索上线AI短剧平台，今日开启公测",
@@ -247,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "AI全面落地天猫双11",
+          "url": "https://wallstreetcn.com/livenews/2988961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -276,6 +344,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Salesforce与谷歌扩大合作，将Gemini模型引入Agentforce 360平台。",
+          "url": "https://wallstreetcn.com/livenews/2988983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
