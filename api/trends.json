@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-18T01:17:59.318956+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-10-18T02:16:55.494742+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
           "url": "https://www.zhihu.com/question/1957708491813783087",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -27,8 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时16分]"
+        },
+        {
+          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
+          "url": "https://wallstreetcn.com/livenews/2989856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "国行iPhone Air上手体验",
@@ -38,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -47,11 +59,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
           "title": "高盛组建全球基础设施融资团队 押注AI与能源转型机遇",
