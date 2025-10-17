@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T20:24:29.797331+08:00",
-  "total_titles_processed": 1906,
+  "generated_at": "2025-10-17T21:25:00.939397+08:00",
+  "total_titles_processed": 2012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -36,6 +36,19 @@
           "time_info": "[10时21分 ~ 17时16分]"
         },
         {
+          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+          "url": "https://www.zhihu.com/question/1957708491813783087",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 21时25分]"
+        },
+        {
           "title": "国行iPhone Air上手体验",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -48,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时21分 ~ 20时24分]"
+          "appearance_count": 16,
+          "time_info": "[10时21分 ~ 21时25分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -63,11 +76,12 @@
             18,
             10,
             21,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时21分 ~ 20时24分]"
+          "appearance_count": 16,
+          "time_info": "[10时21分 ~ 21时25分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -80,24 +94,12 @@
             25,
             18,
             19,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时15分 ~ 20时24分]"
-        },
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 20时24分]"
+          "appearance_count": 14,
+          "time_info": "[12时15分 ~ 21时25分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -173,7 +175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -211,6 +213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时09分]"
+        },
+        {
+          "title": "最近你写的代码里，有多大比例是 AI 帮你搞定的？",
+          "url": "https://www.zhihu.com/question/1962231054061498522",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "iPhone Air全颜色开箱",
