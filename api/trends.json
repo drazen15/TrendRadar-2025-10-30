@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T16:18:20.279357+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2025-10-17T17:16:40.151853+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时21分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时21分 ~ 17时16分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时21分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时21分 ~ 17时16分]"
         },
         {
           "title": "大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海",
@@ -59,11 +59,12 @@
           "ranks": [
             11,
             10,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时21分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时21分 ~ 17时16分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -90,11 +91,12 @@
             2,
             21,
             20,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 17时16分]"
         },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -107,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时14分]"
+        },
+        {
+          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+          "url": "https://www.zhihu.com/question/1957708491813783087",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时16分]"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -131,15 +144,18 @@
           "time_info": "[00时46分 ~ 10时21分]"
         },
         {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
+          "title": "iPhone Air的eSIM办理教程",
+          "url": "https://www.douyin.com/hot/2272840",
+          "source": "抖音",
           "ranks": [
-            8
+            21,
+            17,
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 17时16分]"
         },
         {
           "title": "华泰证券：关注AI算力链业绩兑现 运营商预计稳健增长",
@@ -163,19 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 11时33分]"
-        },
-        {
-          "title": "iPhone Air的eSIM办理教程",
-          "url": "https://www.douyin.com/hot/2272840",
-          "source": "抖音",
-          "ranks": [
-            21,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 16时18分]"
         },
         {
           "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
@@ -259,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时16分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
