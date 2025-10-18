@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T21:20:29.720314+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-10-18T22:12:53.403343+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "国行iPhone Air测评",
@@ -38,6 +38,35 @@
           "time_info": "[00时17分 ~ 10时16分]"
         },
         {
+          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
+          "url": "https://www.cls.cn/detail/2172757",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时16分 ~ 22时12分]"
+        },
+        {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
           "url": "https://www.zhihu.com/question/1957708491813783087",
           "source": "知乎",
@@ -51,45 +80,18 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时16分 ~ 21时20分]"
-        },
-        {
-          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
-          "url": "https://www.cls.cn/detail/2172757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 21时20分]"
-        },
-        {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
           "url": "https://wallstreetcn.com/livenews/2990065",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时20分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "陈天桥用AIGC亲诉脑科学科普",
@@ -146,6 +148,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
+          "url": "https://flash.jin10.com/detail/20251018213151998800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
+          "url": "https://wallstreetcn.com/livenews/2990078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
@@ -265,9 +289,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时12分]"
         }
       ]
     },
