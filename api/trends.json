@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T11:24:21.968737+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-10-18T12:16:06.518231+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "国行iPhone Air测评",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "陈天桥用AIGC亲诉脑科学科普",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A4%A9%E6%A1%A5%E7%94%A8AIGC%E4%BA%B2%E8%AF%89%E8%84%91%E7%A7%91%E5%AD%A6%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
@@ -160,8 +171,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时13分 ~ 11时24分]"
+          "appearance_count": 8,
+          "time_info": "[06时13分 ~ 12时16分]"
         }
       ]
     }
