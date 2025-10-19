@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T02:17:57.173823+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-10-20T03:11:33.132065+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 03时11分]"
         },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 03时11分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 03时11分]"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 03时11分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -61,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 03时11分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -71,11 +71,12 @@
           "ranks": [
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 03时11分]"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
@@ -84,11 +85,12 @@
           "ranks": [
             20,
             23,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "特朗普发布辣眼AI视频引争议",
