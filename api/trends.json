@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T13:14:39.405469+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-10-19T14:18:51.901333+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 14时18分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -85,19 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 13时14分]"
-        },
-        {
-          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
-          "url": "https://v.ifeng.com/c/8nZizwGdefr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 14时18分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -106,11 +95,35 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 14时18分]"
+        },
+        {
+          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
+          "url": "https://v.ifeng.com/c/8nZizwGdefr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时18分]"
+        },
+        {
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时18分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -140,27 +153,17 @@
           "time_info": "[03时11分 ~ 06时12分]"
         },
         {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
           "title": "特朗普发AI视频挑衅抗议者",
           "url": "https://flash.jin10.com/detail/20251019112407399800",
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 14时18分]"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -206,11 +209,12 @@
           "ranks": [
             1,
             11,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时18分]"
         }
       ]
     }
