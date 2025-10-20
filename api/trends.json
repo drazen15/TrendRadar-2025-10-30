@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T01:12:14.993398+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-10-21T02:21:56.959495+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时21分]"
+        },
+        {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时21分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -26,20 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时12分]"
-        },
-        {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时21分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -47,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时21分]"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
@@ -62,8 +64,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时21分]"
         }
       ]
     },
@@ -79,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时21分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
