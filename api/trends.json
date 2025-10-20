@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T09:02:12.878536+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-10-20T10:48:00.806958+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 09时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 10时48分]"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -51,8 +51,24 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时48分]"
+        },
+        {
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 10时48分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -68,19 +84,16 @@
           "time_info": "[00时13分 ~ 09时02分]"
         },
         {
-          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
-          "source": "澎湃新闻",
+          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
+          "url": "https://www.cls.cn/detail/2173698",
+          "source": "财联社热门",
           "ranks": [
             13,
-            14,
-            15,
-            16,
-            17
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 10时48分]"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
@@ -95,17 +108,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 03时11分]"
-        },
-        {
-          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
-          "url": "https://www.cls.cn/detail/2173698",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "特朗普发布辣眼AI视频引争议",
