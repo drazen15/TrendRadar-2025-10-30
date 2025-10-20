@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T14:22:21.451700+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-10-20T15:15:07.552936+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时13分 ~ 14时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 15时15分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -68,11 +68,12 @@
             16,
             17,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 14时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 15时15分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -145,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        },
+        {
+          "title": "美国女子AI生成号码中10万美元彩票",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "中国AI的未来为何系于新疆",
