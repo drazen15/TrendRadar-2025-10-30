@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T10:48:00.806958+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-10-20T11:45:33.122206+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -48,11 +48,12 @@
           "url": "https://wallstreetcn.com/articles/3757451",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -67,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 10时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 10时48分]"
+        },
+        {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
