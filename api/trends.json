@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T20:26:03.956383+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2025-10-20T21:26:54.007105+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -89,20 +89,6 @@
           "time_info": "[00时13分 ~ 09时02分]"
         },
         {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 20时26分]"
-        },
-        {
           "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
           "url": "https://wallstreetcn.com/articles/3757473",
           "source": "华尔街见闻",
@@ -111,8 +97,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 21时26分]"
+        },
+        {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            5,
+            23,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 21时26分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -124,19 +125,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 21时26分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
           "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 21时26分]"
         },
         {
           "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
@@ -168,7 +170,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -300,6 +302,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "“今年双11 我的AI比我还忙”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "天猫用AI爆改八方来财",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A9%E7%8C%AB%E7%94%A8AI%E7%88%86%E6%94%B9%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D29%26pos%3D29%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%25A4%25A9%25E7%258C%25AB%25E7%2594%25A8AI%25E7%2588%2586%25E6%2594%25B9%25E5%2585%25AB%25E6%2596%25B9%25E6%259D%25A5%25E8%25B4%25A2%2523%26dgr%3D0%26realpos%3D29%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26display_time%3D1760948405%26pre_seqid%3D176094840517502726891149",
           "source": "微博",
@@ -333,11 +346,12 @@
           "url": "https://www.cls.cn/detail/2174516",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 21时26分]"
         },
         {
           "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
