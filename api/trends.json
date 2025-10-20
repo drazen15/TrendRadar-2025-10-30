@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T03:11:33.505152+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-10-21T04:17:24.760312+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -26,11 +26,12 @@
             13,
             21,
             10,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -40,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -54,8 +55,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
@@ -85,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
