@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T02:21:56.959495+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-10-21T03:11:33.505152+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             21,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -49,11 +50,12 @@
           "ranks": [
             16,
             17,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
@@ -61,11 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         }
       ]
     },
@@ -78,11 +81,12 @@
           "url": "https://www.zhihu.com/question/1963642369963426172",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
