@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T03:13:31.966659+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2025-10-22T04:17:09.359160+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
         },
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -27,21 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
-        },
-        {
-          "title": "如何评价「AI 就是美国的城投」的观点？",
-          "url": "https://www.zhihu.com/question/1963543399295579410",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -52,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
         },
         {
           "title": "iPhone Air评测",
@@ -62,22 +50,26 @@
           "ranks": [
             13,
             16,
-            28
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
+        },
+        {
+          "title": "如何评价「AI 就是美国的城投」的观点？",
+          "url": "https://www.zhihu.com/question/1963543399295579410",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
-        },
-        {
-          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
-          "url": "https://wallstreetcn.com/livenews/2991379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "[01时14分 ~ 04时17分]"
         },
         {
           "title": "英伟达最强AI芯片“美国造”背后",
@@ -85,11 +77,24 @@
           "source": "今日头条",
           "ranks": [
             26,
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 04时17分]"
+        },
+        {
+          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
+          "url": "https://wallstreetcn.com/livenews/2991379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 04时17分]"
         },
         {
           "title": "Cohere Inc.首席执行官（CEO）Aidan Gomez称：很快将IPO。",
@@ -178,8 +183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -189,8 +194,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -199,11 +204,12 @@
           "ranks": [
             10,
             12,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -213,11 +219,12 @@
             17,
             24,
             25,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时17分]"
         }
       ]
     }
