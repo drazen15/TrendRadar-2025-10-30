@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T15:20:58.196508+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2025-10-22T16:26:21.503885+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[07时14分 ~ 16时26分]"
         },
         {
           "title": "如何评价「AI 就是美国的城投」的观点？",
@@ -118,7 +118,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -240,6 +240,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "“用AI流浪汉骗家人”走红 民警提醒",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%A8AI%E6%B5%81%E6%B5%AA%E6%B1%89%E9%AA%97%E5%AE%B6%E4%BA%BA%E2%80%9D%E8%B5%B0%E7%BA%A2+%E6%B0%91%E8%AD%A6%E6%8F%90%E9%86%92",
           "source": "百度热搜",
@@ -299,8 +310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时30分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时30分 ~ 16时26分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -479,11 +490,12 @@
           "ranks": [
             12,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 16时26分]"
         },
         {
           "title": "DeepSeek新模型速览",
