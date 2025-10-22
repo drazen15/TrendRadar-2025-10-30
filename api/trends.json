@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T11:41:03.558696+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-10-22T12:18:21.288590+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时18分]"
         },
         {
           "title": "AI时代需要什么样的程序员",
@@ -62,11 +62,12 @@
             24,
             26,
             9,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时18分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -78,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时18分]"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
@@ -90,8 +91,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 12时18分]"
+        },
+        {
+          "title": "曝iPhoneAir暂停生产",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D24%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26dgr%3D0%26band_rank%3D24%26flag%3D1%26pos%3D23%26stream_entry_id%3D31%26display_time%3D1761104409%26pre_seqid%3D17611044097470312270523",
+          "source": "微博",
+          "ranks": [
+            24,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时18分]"
         },
         {
           "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
@@ -166,17 +179,6 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
-          "title": "曝iPhoneAir暂停生产",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D24%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26dgr%3D0%26band_rank%3D24%26flag%3D1%26pos%3D23%26stream_entry_id%3D31%26display_time%3D1761104409%26pre_seqid%3D17611044097470312270523",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
           "title": "苹果国行iPhone Air正式发售",
           "url": "https://wallstreetcn.com/livenews/2991563",
           "source": "华尔街见闻-快讯",
@@ -205,7 +207,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -247,8 +249,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 12时18分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -259,8 +261,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 12时18分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -285,17 +287,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "阿里通义千问拿下爱彼迎，CEO公开力挺：比OpenAI好",
-          "url": "https://wallstreetcn.com/livenews/2991625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "OpenAI首个AI浏览器发布",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%A6%96%E4%B8%AAAI%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -305,6 +296,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
+          "url": "https://www.cls.cn/detail/2176367",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 12时18分]"
+        },
+        {
+          "title": "阿里通义千问拿下爱彼迎，CEO公开力挺：比OpenAI好",
+          "url": "https://wallstreetcn.com/livenews/2991625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时18分]"
         },
         {
           "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
@@ -317,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时18分]"
-        },
-        {
-          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
-          "url": "https://www.cls.cn/detail/2176367",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时41分]"
         },
         {
           "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
@@ -367,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时18分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
