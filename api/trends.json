@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T13:15:09.054512+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-10-22T14:20:32.446548+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 13时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "AI时代需要什么样的程序员",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时14分 ~ 13时15分]"
+          "appearance_count": 9,
+          "time_info": "[07时14分 ~ 14时20分]"
         },
         {
           "title": "如何评价「AI 就是美国的城投」的观点？",
@@ -79,8 +79,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 13时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -89,11 +89,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 13时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "曝iPhoneAir暂停生产",
@@ -104,19 +105,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时20分]"
         },
         {
           "title": "国内首款AI辅助新药MTS-004完成三期临床",
           "url": "https://wallstreetcn.com/livenews/2991669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时20分]"
         },
         {
           "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
@@ -213,6 +215,17 @@
           "time_info": "10时30分"
         },
         {
+          "title": "iPhoneAir京东新品首发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E4%BA%AC%E4%B8%9C%E6%96%B0%E5%93%81%E9%A6%96%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D18%26stream_entry_id%3D31%26q%3D%2523iPhoneAir%25E4%25BA%25AC%25E4%25B8%259C%25E6%2596%25B0%25E5%2593%2581%25E9%25A6%2596%25E5%258F%2591%2523%26lcate%3D5001%26flag%3D1%26band_rank%3D17%26display_time%3D1761113889%26pre_seqid%3D17611138890600147411155",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "“用AI流浪汉骗家人”走红 民警提醒",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%A8AI%E6%B5%81%E6%B5%AA%E6%B1%89%E9%AA%97%E5%AE%B6%E4%BA%BA%E2%80%9D%E8%B5%B0%E7%BA%A2+%E6%B0%91%E8%AD%A6%E6%8F%90%E9%86%92",
           "source": "百度热搜",
@@ -271,8 +284,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 14时20分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -395,8 +408,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 13时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -449,11 +462,12 @@
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 14时20分]"
         },
         {
           "title": "DeepSeek新模型速览",
@@ -479,7 +493,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
