@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T02:20:12.496914+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2025-10-24T03:12:09.359938+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -25,11 +25,12 @@
           "ranks": [
             14,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -50,8 +51,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "据知情人士透露，沙特主权财富基金PIF考虑在NEOM试点人工智能（AI）和高科技（项目）。（彭博）",
@@ -99,7 +100,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -110,7 +111,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
