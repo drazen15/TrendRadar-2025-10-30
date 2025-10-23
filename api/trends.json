@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:15:04.425342+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2025-10-23T18:15:00.512370+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时34分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时34分 ~ 18时15分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -29,11 +29,12 @@
             5,
             11,
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时34分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时34分 ~ 18时15分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -47,11 +48,12 @@
             18,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 17时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 18时15分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -103,6 +105,17 @@
           "time_info": "[04时16分 ~ 06时12分]"
         },
         {
+          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
+          "url": "https://www.zhihu.com/question/1964629313476358315",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
           "title": "经济日报：用好AI这个科研超级助手",
           "url": "https://wallstreetcn.com/livenews/2992186",
           "source": "华尔街见闻-快讯",
@@ -112,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2992520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
@@ -198,6 +222,18 @@
           "time_info": "[13时15分 ~ 14时21分]"
         },
         {
+          "title": "快手进军AI Coding，推出“工具+模型+平台”三位一体AI编程产品矩阵",
+          "url": "https://wallstreetcn.com/livenews/2992463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
+        },
+        {
           "title": "戚薇VOGUE出发图是AI做的",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%88%9A%E8%96%87VOGUE%E5%87%BA%E5%8F%91%E5%9B%BE%E6%98%AFAI%E5%81%9A%E7%9A%84&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26pos%3D23%26band_rank%3D22%26flag%3D1%26dgr%3D0%26q%3D%25E6%2588%259A%25E8%2596%2587VOGUE%25E5%2587%25BA%25E5%258F%2591%25E5%259B%25BE%25E6%2598%25AFAI%25E5%2581%259A%25E7%259A%2584%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D22%26display_time%3D1761207548%26pre_seqid%3D176120754829803673496136",
           "source": "微博",
@@ -262,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "快手进军AI Coding，推出“工具+模型+平台”三位一体AI编程产品矩阵",
-          "url": "https://wallstreetcn.com/livenews/2992463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
