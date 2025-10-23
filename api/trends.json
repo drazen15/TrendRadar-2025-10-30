@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T01:13:57.649492+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-10-24T02:20:12.496914+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -49,8 +50,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "据知情人士透露，沙特主权财富基金PIF考虑在NEOM试点人工智能（AI）和高科技（项目）。（彭博）",
@@ -70,7 +71,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }
@@ -78,7 +79,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI向丹麦医药公司Lundbeck提供ChatGPT Enterprise。",
@@ -90,6 +91,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "OpenAI收购苹果前员工创立的AI初创公司",
+          "url": "https://flash.jin10.com/detail/20251024011125273800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "OpenAI：已收购软件应用公司（Software Applications Incorporated）。",
+          "url": "https://flash.jin10.com/detail/20251024010353934800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     }
