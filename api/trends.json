@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T14:21:07.003731+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2025-10-23T15:13:43.748143+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,25 @@
             11,
             13,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 15时13分]"
+        },
+        {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 15时13分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -37,19 +51,6 @@
           "time_info": "[08时57分 ~ 14时21分]"
         },
         {
-          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
-          "url": "https://wallstreetcn.com/articles/3757698",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 14时21分]"
-        },
-        {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
           "source": "bilibili 热搜",
@@ -60,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 15时13分]"
         },
         {
           "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。",
@@ -81,7 +82,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
