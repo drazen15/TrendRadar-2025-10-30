@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T19:14:03.197587+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2025-10-24T20:27:29.560948+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
@@ -96,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时27分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
@@ -309,7 +309,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
