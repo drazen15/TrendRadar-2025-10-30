@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T14:20:57.441744+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2025-10-24T15:13:46.086546+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时16分 ~ 08时55分]"
+        },
+        {
+          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
+          "url": "https://www.cls.cn/detail/2179066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 15时13分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -43,23 +56,12 @@
           "ranks": [
             3,
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 14时20分]"
-        },
-        {
-          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
-          "url": "https://www.cls.cn/detail/2179066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 15时13分]"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -124,7 +126,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -184,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
+          "url": "https://www.zhihu.com/question/1964293577816408687",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "三星电子周五表示，已与软银公司签署谅解备忘录，共同研究和开发下一代通信技术，包括6G和基于人工智能的无线接入网络（AI-RAN）创新。",
