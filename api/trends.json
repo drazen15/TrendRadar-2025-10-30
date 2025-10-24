@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T20:27:29.560948+08:00",
-  "total_titles_processed": 1948,
+  "generated_at": "2025-10-24T21:35:32.094184+08:00",
+  "total_titles_processed": 2058,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             10,
             16,
             6,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 21时35分]"
         },
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -93,11 +94,12 @@
           "url": "https://wallstreetcn.com/articles/3757782",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 21时35分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
