@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T07:13:22.169227+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-10-25T08:58:04.015801+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3757782",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 08时58分]"
         },
         {
           "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
           "url": "https://wallstreetcn.com/articles/3757786",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时58分]"
         },
         {
           "title": "AI续写你的名字",
@@ -35,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 07时13分]"
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 08时58分]"
         },
         {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
@@ -75,11 +78,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
+          "appearance_count": 3,
+          "time_info": "[06时13分 ~ 08时58分]"
         }
       ]
     }
