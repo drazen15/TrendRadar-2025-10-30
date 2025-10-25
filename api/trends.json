@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T15:13:26.107931+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-10-25T16:15:55.160416+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 15时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 16时15分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时13分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时15分]"
         },
         {
           "title": "AI续写你的名字",
@@ -65,11 +65,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 16时15分]"
         },
         {
           "title": "AI时代的国际教育选择",
