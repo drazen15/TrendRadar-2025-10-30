@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T16:15:55.160416+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2025-10-25T17:14:07.987990+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,26 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 16时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 17时14分]"
+        },
+        {
+          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
+          "url": "https://www.cls.cn/detail/2180505",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 17时14分]"
         },
         {
           "title": "AI续写你的名字",
@@ -58,19 +73,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
-          "url": "https://www.cls.cn/detail/2180505",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 16时15分]"
         },
         {
           "title": "AI时代的国际教育选择",
