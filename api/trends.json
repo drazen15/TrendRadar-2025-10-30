@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T14:17:28.413433+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2025-10-26T15:13:17.269745+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             8,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时11分 ~ 14时17分]"
+          "appearance_count": 9,
+          "time_info": "[07时11分 ~ 15时13分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -69,23 +70,24 @@
           "time_info": "[09时02分 ~ 11时39分]"
         },
         {
+          "title": "iPhone Air刚上市就卖不动了",
+          "url": "https://www.toutiao.com/trending/7565363497312194084/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 15时13分]"
+        },
+        {
           "title": "华为Mate 70 Air超薄设计曝光",
           "url": "https://www.toutiao.com/trending/7564629715139543094/",
           "source": "今日头条",
           "ranks": [
             13,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 14时17分]"
-        },
-        {
-          "title": "iPhone Air刚上市就卖不动了",
-          "url": "https://www.toutiao.com/trending/7565363497312194084/",
-          "source": "今日头条",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -128,8 +130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时13分]"
         }
       ]
     }
