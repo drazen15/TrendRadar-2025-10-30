@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T19:11:32.141133+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-10-26T20:24:06.641576+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
@@ -37,6 +37,19 @@
           "time_info": "[00时14分 ~ 09时02分]"
         },
         {
+          "title": "AI把薯片误判为枪惊动八辆美国警车",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26pos%3D0%26band_rank%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26cate%3D5001%26dgr%3D0%26realpos%3D1%26display_time%3D1761473178%26pre_seqid%3D1761473178200032949662",
+          "source": "微博",
+          "ranks": [
+            1,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时24分]"
+        },
+        {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
           "url": "https://www.cls.cn/detail/2180505",
           "source": "财联社热门",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "AI把薯片误判为枪惊动八辆美国警车",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26pos%3D0%26band_rank%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26cate%3D5001%26dgr%3D0%26realpos%3D1%26display_time%3D1761473178%26pre_seqid%3D1761473178200032949662",
-          "source": "微博",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时12分 ~ 18时14分]"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "iPhone Air刚上市就卖不动了",
@@ -128,9 +140,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时24分]"
+        },
+        {
+          "title": "AI把玉米片判为枪惊动八辆美国警车",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         }
       ]
     },
@@ -164,8 +187,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时24分]"
         }
       ]
     },
