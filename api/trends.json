@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T13:13:12.298437+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-10-26T14:17:28.413433+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 14时17分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -73,11 +73,12 @@
           "url": "https://www.toutiao.com/trending/7564629715139543094/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 14时17分]"
         },
         {
           "title": "iPhone Air刚上市就卖不动了",
@@ -87,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 14时17分]"
         }
       ]
     },
