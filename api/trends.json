@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T10:43:16.129110+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2025-10-26T11:39:30.318213+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
+          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
+          "url": "https://wallstreetcn.com/articles/3757907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 11时39分]"
+        },
+        {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
@@ -43,19 +56,6 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
-          "url": "https://wallstreetcn.com/articles/3757907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时43分]"
-        },
-        {
           "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
           "url": "https://wallstreetcn.com/articles/3757825",
           "source": "华尔街见闻",
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时39分]"
         }
       ]
     },
