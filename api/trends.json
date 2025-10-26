@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T16:17:22.693513+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-10-26T17:12:43.563910+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
@@ -16,11 +16,12 @@
             8,
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时11分 ~ 16时17分]"
+          "appearance_count": 11,
+          "time_info": "[07时11分 ~ 17时12分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -68,6 +69,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 11时39分]"
+        },
+        {
+          "title": "图灵奖得主聊AI变革图景",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%8AAI%E5%8F%98%E9%9D%A9%E5%9B%BE%E6%99%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "华为Mate 70 Air超薄设计曝光",
@@ -132,8 +144,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 17时12分]"
         }
       ]
     }
