@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T07:12:18.329752+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2025-10-27T09:02:42.534438+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
+          "url": "https://www.cls.cn/detail/2180802",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时02分]"
         },
         {
           "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
@@ -40,19 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时12分]"
-        },
-        {
-          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
-          "url": "https://www.cls.cn/detail/2180802",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时02分]"
         },
         {
           "title": "GAI周延沧海一声笑",
