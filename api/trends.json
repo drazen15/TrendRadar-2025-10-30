@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:14:07.710335+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-10-27T20:26:00.110245+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -61,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时16分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时16分 ~ 20时26分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -90,6 +90,18 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 20时26分]"
+        },
+        {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
           "url": "https://wallstreetcn.com/articles/3757943",
           "source": "华尔街见闻",
@@ -101,16 +113,15 @@
           "time_info": "[14时22分 ~ 15时16分]"
         },
         {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时14分]"
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -152,7 +163,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
