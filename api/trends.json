@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T14:23:07.761105+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2025-10-27T15:16:48.011115+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -83,8 +83,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 15时16分]"
         },
         {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
@@ -94,8 +94,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时16分]"
+        },
+        {
+          "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
+          "url": "https://flash.jin10.com/detail/20251027145436636800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "蚂蚁集团投资AI科技硬件公司艾德未来智能",
