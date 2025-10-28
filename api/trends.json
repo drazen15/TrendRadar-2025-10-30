@@ -1,28 +1,12 @@
 {
-  "generated_at": "2025-10-28T14:22:39.868011+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-10-28T15:16:13.712358+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            9,
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 14时22分]"
-        },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
           "url": "https://www.cls.cn/detail/2182682",
@@ -34,8 +18,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 15时16分]"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            9,
+            11,
+            12,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 15时16分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -61,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 15时16分]"
         },
         {
           "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
@@ -77,6 +78,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时12分 ~ 13时14分]"
+        },
+        {
+          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
+          "url": "https://www.zhihu.com/question/1959993472921633455",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 15时16分]"
         },
         {
           "title": "红杉资本领投初创公司Rogo 押注AI工具取代初级银行家的前景",
@@ -112,18 +126,6 @@
           "time_info": "09时03分"
         },
         {
-          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
-          "url": "https://www.zhihu.com/question/1959993472921633455",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 14时22分]"
-        },
-        {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
           "url": "https://flash.jin10.com/detail/20251028034031282800",
           "source": "金十数据",
@@ -135,6 +137,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时12分]"
+        },
+        {
+          "title": "高通(QCOM.O)CEO兼总裁克里斯蒂亚诺·艾蒙在利雅得谈及AI时表示，我关注的是那些与消费者联系越来越紧密的公司。",
+          "url": "https://flash.jin10.com/detail/20251028145207778800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
@@ -281,17 +294,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
           "url": "https://flash.jin10.com/detail/20251028045401357800",
           "source": "金十数据",
@@ -314,6 +316,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时16分]"
         }
       ]
     }
