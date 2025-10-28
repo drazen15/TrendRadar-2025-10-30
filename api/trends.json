@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T21:26:43.203386+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2025-10-28T22:14:38.345142+08:00",
+  "total_titles_processed": 2061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时26分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[10时26分 ~ 22时14分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -141,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "黑石与沙特AI公司Humain签署30亿美元数据中心协议",
+          "url": "https://wallstreetcn.com/livenews/2995198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
@@ -320,7 +331,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "Adobe(ADBE.O)首席执行官：Adobe将OpenAI和谷歌AI模型加入Photoshop及其他工具。",
@@ -340,7 +351,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -364,7 +375,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -375,7 +386,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -445,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将持有OpenAI 27%的股权",
+          "url": "https://wallstreetcn.com/livenews/2995172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     }
