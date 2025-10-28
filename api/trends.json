@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T06:13:33.310271+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-10-29T07:13:52.363500+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时13分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -30,17 +30,6 @@
           "time_info": "02时20分"
         },
         {
-          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
-          "url": "https://wallstreetcn.com/livenews/2995394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
           "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
           "url": "https://flash.jin10.com/detail/20251029020259228800",
           "source": "金十数据",
@@ -50,6 +39,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
+          "url": "https://www.cls.cn/detail/2184071",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 07时13分]"
         },
         {
           "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
@@ -107,15 +109,27 @@
           "time_info": "01时23分"
         },
         {
-          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
-          "url": "https://wallstreetcn.com/livenews/2995385",
+          "title": "SK海力士利润创纪录，AI繁荣提振芯片需求，准备供应HBM4",
+          "url": "https://wallstreetcn.com/livenews/2995404",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时13分"
+        },
+        {
+          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
+          "url": "https://wallstreetcn.com/livenews/2995394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "英伟达将对诺基亚实施10亿美元股权投资，从而推动AI网络",
@@ -176,16 +190,28 @@
           "time_info": "[01时23分 ~ 02时20分]"
         },
         {
-          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
-          "url": "https://www.cls.cn/detail/2184071",
-          "source": "财联社热门",
+          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
+          "url": "https://wallstreetcn.com/livenews/2995385",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时13分]"
+          "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
+          "url": "https://flash.jin10.com/detail/20251029050455312800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "AI 会让编程初学者更快入门，还是更快迷失？",
@@ -209,17 +235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时13分]"
-        },
-        {
-          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
-          "url": "https://flash.jin10.com/detail/20251029050455312800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
         },
         {
           "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
@@ -399,11 +414,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时13分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
