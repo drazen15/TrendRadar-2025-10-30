@@ -1,154 +1,33 @@
 {
-  "generated_at": "2025-10-29T23:15:01.164271+08:00",
-  "total_titles_processed": 2241,
+  "generated_at": "2025-10-30T05:15:04.114582+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 53,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
-          "url": "https://www.cls.cn/detail/2184178",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 17时15分]"
-        },
-        {
-          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
-          "url": "https://wallstreetcn.com/articles/3758074",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时00分 ~ 18时15分]"
-        },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时14分 ~ 23时15分]"
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
         },
         {
-          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
-          "url": "https://www.cls.cn/detail/2184071",
-          "source": "财联社热门",
+          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            9,
-            3,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时12分 ~ 15时14分]"
-        },
-        {
-          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
-          "url": "https://www.cls.cn/detail/2184173",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 16时20分]"
-        },
-        {
-          "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
-          "url": "https://www.zhihu.com/question/1961814182115632287",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 17时15分]"
-        },
-        {
-          "title": "黄仁勋称美国AI芯片需要向中国出口，外交部回应",
-          "url": "https://www.cls.cn/detail/2184651",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 21时31分]"
-        },
-        {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时15分 ~ 23时15分]"
-        },
-        {
-          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
-          "url": "https://wallstreetcn.com/articles/3758110",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时31分 ~ 23时15分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
-          "url": "https://flash.jin10.com/detail/20251029020349283800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -158,623 +37,64 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时12分 ~ 23时15分]"
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
         },
         {
-          "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
-          "url": "https://flash.jin10.com/detail/20251029020259228800",
-          "source": "金十数据",
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
-          "url": "https://flash.jin10.com/detail/20251029005944952800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
-          "url": "https://flash.jin10.com/detail/20251029005937265800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "Wayfair收涨23%，创2022年4月份以来收盘新高。",
-          "url": "https://wallstreetcn.com/livenews/2995353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
-          "url": "https://wallstreetcn.com/livenews/2995302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：位于弗吉尼亚州的AI工厂研究中心将部署首套Vera Rubin基础设施，并为英伟达Omniverse DSX奠定基础。",
-          "url": "https://flash.jin10.com/detail/20251029005834402800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "SK海力士利润创纪录，AI繁荣提振芯片需求，准备供应HBM4",
-          "url": "https://wallstreetcn.com/livenews/2995404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
-          "url": "https://wallstreetcn.com/livenews/2995394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
-        },
+          "time_info": "[05时14分 ~ 05时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "英伟达将对诺基亚实施10亿美元股权投资，从而推动AI网络",
-          "url": "https://wallstreetcn.com/livenews/2995232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
-          "url": "https://wallstreetcn.com/livenews/2995333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时16分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)将与三星、现代公司达成AI合作。",
-          "url": "https://flash.jin10.com/detail/20251029005148492800",
+          "title": "Alphabet(GOOG.O)：Gemini应用程序的月活跃用户已超过6.5亿。",
+          "url": "https://flash.jin10.com/detail/20251030041555585800",
           "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "05时15分"
         },
         {
-          "title": "信用交易员们针对甲骨文债务违约（风险）买入保护产品，债券风险上涨。 摩根士丹利预计，该公司向人工智能（AI）投资（至少）数十亿美元之际，这样的势头将延续下去。",
-          "url": "https://wallstreetcn.com/livenews/2996068",
+          "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
+          "url": "https://wallstreetcn.com/livenews/2996201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
+          "url": "https://wallstreetcn.com/livenews/2996211",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
-          "url": "https://wallstreetcn.com/livenews/2995371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时13分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
-          "url": "https://wallstreetcn.com/livenews/2995268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时20分]"
-        },
-        {
-          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
-          "url": "https://wallstreetcn.com/livenews/2995385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "拿什么管住狂奔的AI？ “十五五”规划下，AI安全千亿级市场正在开启",
-          "url": "https://www.cls.cn/detail/2184531",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时27分]"
-        },
-        {
-          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
-          "url": "https://flash.jin10.com/detail/20251029050455312800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时14分 ~ 23时15分]"
-        },
-        {
-          "title": "AI 会让编程初学者更快入门，还是更快迷失？",
-          "url": "https://www.zhihu.com/question/1962181838035444178",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
-          "url": "https://wallstreetcn.com/livenews/2995353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时13分]"
-        },
-        {
-          "title": "张兴朝以为张艺兴跳五子棋是AI",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BC%A0%E5%85%B4%E6%9C%9D%E4%BB%A5%E4%B8%BA%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%B3%E4%BA%94%E5%AD%90%E6%A3%8B%E6%98%AFAI&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D24%26pos%3D24%26dgr%3D0%26q%3D%25E5%25BC%25A0%25E5%2585%25B4%25E6%259C%259D%25E4%25BB%25A5%25E4%25B8%25BA%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E8%25B7%25B3%25E4%25BA%2594%25E5%25AD%2590%25E6%25A3%258B%25E6%2598%25AFAI%26stream_entry_id%3D31%26realpos%3D24%26cate%3D5001%26display_time%3D1761729173%26pre_seqid%3D1761729173727026496425",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
-          "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
-          "url": "https://flash.jin10.com/detail/20251029023925864800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "黄仁勋勾勒AI宏伟蓝图",
-          "url": "https://www.toutiao.com/trending/7566173103559032851/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：与美国能源部构建AI超算合作伙伴关系。 将帮助打造七台超算。",
-          "url": "https://wallstreetcn.com/livenews/2995262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "创业黑马：与上海信弘签署战略合作框架协议，围绕NVIDIA的人工智能技术体系能力，基于创业黑马中小企业生态服务体系和上海信弘的技术能力，构建基于中小企业的人工智能应用服务平台，用普惠AI能力帮助中小企业成长。",
-          "url": "https://wallstreetcn.com/livenews/2995956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)及各行业合作伙伴计划将美国制造业迁回国内，打造充满机器人的AI工厂。",
-          "url": "https://flash.jin10.com/detail/20251029014416918800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋宣布，与Palantir在运转人工智能（AI）方面构建合作伙伴关系。 将企业数据转化为动态决策智能（DDI）。",
-          "url": "https://wallstreetcn.com/livenews/2995292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。 英伟达将投资10亿美元到诺基亚，从而加速AI-Ran Innovation，并主导从5G向6G过渡。",
-          "url": "https://wallstreetcn.com/livenews/2995260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "黄仁勋称美国AI芯片需要向中国出口，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/2995708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "黄仁勋驳斥AI泡沫论 新芯片将创造五千亿美元收入",
-          "url": "https://flash.jin10.com/detail/20251029031435879800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "礼来制药与英伟达合作，将针对药品发现与研发打造AI超算、AI工厂。",
-          "url": "https://wallstreetcn.com/livenews/2995315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：Palantir AIP平台也将支持英伟达面向政府参考设计的全新AI工厂。",
-          "url": "https://flash.jin10.com/detail/20251029013926234800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "沙特阿美与主权财富基金PIF达成共识，将对Humain持有少数股权。",
-          "url": "https://wallstreetcn.com/livenews/2995285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我将讨论人工智能（AI）、6G、量子计算、机器人技术。",
-          "url": "https://wallstreetcn.com/livenews/2995253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋拟访韩签约 将为三星现代供应AI芯片",
-          "url": "https://flash.jin10.com/detail/20251029013502568800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "阿波罗高管Scott Kleinman：人工智能（AI）技术取代劳动力是“最重要的问题”。 私募将在好几年的时间内按更慢的速度销售。",
-          "url": "https://wallstreetcn.com/livenews/2995215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "诺基亚(NOK.N)：此次投资是其在人工智能无线接入网（AI-RAN）战略合作及数据中心网络演进基础上的补充。",
-          "url": "https://flash.jin10.com/detail/20251028233408115800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋在GTC活动上发表讲话，称将讨论AI、6G、量子、机器人。",
-          "url": "https://flash.jin10.com/detail/20251029002918771800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "证监会：探索开展“AI+资本市场”金融科技创新专项试点",
-          "url": "https://wallstreetcn.com/livenews/2996021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "洛克希德马丁(LMT.N)向Saildrone投资5000万美元，以提升美国海军无人水面艇的能力。",
-          "url": "https://flash.jin10.com/detail/20251029210144874800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时45分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时46分 ~ 20时27分]"
-        },
-        {
-          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
-          "url": "https://www.cls.cn/detail/2183840",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时13分]"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251029015946232800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20251029015512703800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
-          "url": "https://wallstreetcn.com/livenews/2995318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时16分]"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
-          "url": "https://flash.jin10.com/detail/20251029024018931800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
-          "url": "https://flash.jin10.com/detail/20251028234022550800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "OpenAI首席财务官：对于算力交易，我们在融资方面需要与技术方面同样多的创新。",
-          "url": "https://flash.jin10.com/detail/20251029145842379800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "OpenAI首席财务官：（在被问及人工智能计算交易的高估值时）没有算力就等于没有收入，并且全球计算资源存在巨大瓶颈，因此需要投资。",
-          "url": "https://flash.jin10.com/detail/20251029145808653800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
-          "url": "https://wallstreetcn.com/livenews/2995218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
-          "url": "https://wallstreetcn.com/livenews/2995307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
-          "url": "https://flash.jin10.com/detail/20251029144659448800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "05时15分"
         }
       ]
     }
