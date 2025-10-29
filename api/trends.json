@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:14:34.804330+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2025-10-29T14:22:08.215337+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时12分 ~ 13时14分]"
+          "appearance_count": 11,
+          "time_info": "[05时12分 ~ 14时22分]"
         },
         {
           "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 14时22分]"
         },
         {
           "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 14时22分]"
         },
         {
           "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
@@ -69,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 14时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -137,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
+          "url": "https://www.zhihu.com/question/1961814182115632287",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "英伟达(NVDA.O)：位于弗吉尼亚州的AI工厂研究中心将部署首套Vera Rubin基础设施，并为英伟达Omniverse DSX奠定基础。",
@@ -475,6 +486,18 @@
           "time_info": "[00时18分 ~ 11时45分]"
         },
         {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 14时22分]"
+        },
+        {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
           "url": "https://www.cls.cn/detail/2183840",
           "source": "财联社热门",
@@ -485,18 +508,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 06时13分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 13时14分]"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
