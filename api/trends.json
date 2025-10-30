@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T16:19:13.348937+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-10-30T17:16:24.288771+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时14分 ~ 16时19分]"
+          "appearance_count": 18,
+          "time_info": "[05时14分 ~ 17时16分]"
         },
         {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
@@ -33,6 +33,20 @@
           "time_info": "[08时59分 ~ 13时13分]"
         },
         {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时16分]"
+        },
+        {
           "title": "外交部回应黄仁勋AI芯片言论",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
           "source": "bilibili 热搜",
@@ -44,20 +58,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时14分 ~ 09时00分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时19分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -258,11 +258,12 @@
           "url": "https://www.cls.cn/detail/2185897",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时16分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
