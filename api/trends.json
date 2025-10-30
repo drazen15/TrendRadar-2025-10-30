@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T15:15:15.529006+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-10-30T16:19:13.348937+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时14分 ~ 15时15分]"
+          "appearance_count": 17,
+          "time_info": "[05时14分 ~ 16时19分]"
         },
         {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
@@ -52,11 +52,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 16时19分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -172,7 +173,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -216,7 +217,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -224,7 +225,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -237,8 +238,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[08时59分 ~ 16时19分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -251,6 +252,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时59分 ~ 13时13分]"
+        },
+        {
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
