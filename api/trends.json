@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T13:13:57.371475+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-10-30T14:21:14.427427+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时14分 ~ 13时13分]"
+          "appearance_count": 14,
+          "time_info": "[05时14分 ~ 14时21分]"
         },
         {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
@@ -46,6 +46,18 @@
           "time_info": "[05时14分 ~ 09时00分]"
         },
         {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 14时21分]"
+        },
+        {
           "title": "网民用AI编造散播谣言被处罚",
           "url": "https://www.douyin.com/hot/2287291",
           "source": "抖音",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时14分 ~ 08时59分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
         },
         {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
@@ -117,6 +118,18 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "研究称对 AI 粗鲁提问准确率更高，真的是这样吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/1963343251323969618",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 14时21分]"
+        },
+        {
           "title": "黄金暴涨暴跌AI都被问冒烟了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8CAI%E9%83%BD%E8%A2%AB%E9%97%AE%E5%86%92%E7%83%9F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26realpos%3D25%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259A%25B4%25E6%25B6%25A8%25E6%259A%25B4%25E8%25B7%258CAI%25E9%2583%25BD%25E8%25A2%25AB%25E9%2597%25AE%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%2523%26pos%3D26%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26display_time%3D1761795343%26pre_seqid%3D1761795343004026496314",
           "source": "微博",
@@ -150,17 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "研究称对 AI 粗鲁提问准确率更高，真的是这样吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/1963343251323969618",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
         },
         {
           "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
@@ -211,8 +213,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[08时59分 ~ 14时21分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -266,11 +268,12 @@
           "url": "https://www.zhihu.com/question/1966652250177893275",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 14时21分]"
         }
       ]
     },
