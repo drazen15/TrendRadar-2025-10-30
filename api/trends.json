@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T18:16:04.335169+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-10-30T19:12:43.033914+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时14分 ~ 18时16分]"
+          "appearance_count": 21,
+          "time_info": "[05时14分 ~ 19时12分]"
         },
         {
           "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
@@ -219,7 +219,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -264,8 +264,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 18时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时12分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
