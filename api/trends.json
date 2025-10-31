@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:14:05.224640+08:00",
-  "total_titles_processed": 2034,
+  "generated_at": "2025-10-31T23:13:21.573072+08:00",
+  "total_titles_processed": 2120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时13分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -69,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时13分]"
         },
         {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
@@ -110,6 +110,28 @@
           "time_info": "04时15分"
         },
         {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
           "url": "https://wallstreetcn.com/livenews/2997155",
           "source": "华尔街见闻-快讯",
@@ -119,17 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
-          "url": "https://wallstreetcn.com/livenews/2997776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
         },
         {
           "title": "市场消息：AI初创公司Poolside融资轮获超10亿美元认购承诺。",
@@ -190,6 +201,17 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "亚马逊(AMZN.O)CEO：TRAINIUM 3 将于2025年底进行预览展示。",
           "url": "https://flash.jin10.com/detail/20251031053211799800",
           "source": "金十数据",
@@ -212,6 +234,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
+          "url": "https://wallstreetcn.com/livenews/2997776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时13分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
@@ -318,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/2997800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "澎湃AI晚新闻丨2025年10月30日",
@@ -471,8 +516,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 22时14分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 23时13分]"
         }
       ]
     }
