@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T17:15:08.972577+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-10-31T18:14:50.554847+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 17时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 18时14分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -411,8 +411,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 18时14分]"
         }
       ]
     }
