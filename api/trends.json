@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T14:20:05.413882+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-10-31T15:15:26.953655+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 14时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 15时15分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 15时15分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -250,6 +250,17 @@
           "time_info": "[11时42分 ~ 12时17分]"
         },
         {
+          "title": "英伟达(NVDA.O)与Naver Cloud、LG AI研究、SK电讯、NC AI和Upstage合作开发大型语言模型。",
+          "url": "https://flash.jin10.com/detail/20251031142445285800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "英伟达将对AI初创公司Poolside投资至多10亿美元。",
           "url": "https://wallstreetcn.com/livenews/2997098",
           "source": "华尔街见闻-快讯",
@@ -387,8 +398,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 15时15分]"
         }
       ]
     }
