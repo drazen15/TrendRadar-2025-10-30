@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T05:13:54.265883+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-11-01T06:13:24.947051+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -24,11 +24,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
+          "url": "https://wallstreetcn.com/articles/3758382",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -102,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时13分]"
         }
       ]
     }
