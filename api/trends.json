@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:16:06.727205+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-10-31T14:20:05.413882+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时20分]"
+        },
+        {
+          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
+          "url": "https://wallstreetcn.com/articles/3758276",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 14时20分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 13时16分]"
-        },
-        {
-          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
-          "url": "https://wallstreetcn.com/articles/3758276",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 13时16分]"
         },
         {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
@@ -383,11 +383,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时20分]"
         }
       ]
     }
