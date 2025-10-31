@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T03:10:30.006847+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-11-01T04:16:36.933274+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时16分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时16分]"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -97,11 +97,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时16分]"
         }
       ]
     }
