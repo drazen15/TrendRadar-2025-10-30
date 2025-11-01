@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T03:09:53.698501+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-02T04:14:21.172506+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时09分]"
-        },
-        {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -38,11 +27,23 @@
             14,
             13,
             12,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时14分]"
         }
       ]
     },
@@ -58,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     }
