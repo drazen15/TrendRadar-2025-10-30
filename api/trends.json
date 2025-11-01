@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T18:14:23.816283+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-11-01T19:11:59.683514+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 18时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 19时11分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 19时11分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -149,11 +150,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时14分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时11分]"
         }
       ]
     }
