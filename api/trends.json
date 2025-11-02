@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T17:12:49.009419+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-11-02T18:14:06.900908+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 17时12分]"
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 18时14分]"
         },
         {
           "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
@@ -43,11 +44,27 @@
             1,
             4,
             10,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 18时14分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            13,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 18时14分]"
         },
         {
           "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
@@ -58,20 +75,6 @@
             5,
             14,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 17时12分]"
-        },
-        {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            13,
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -142,11 +145,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 17时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时17分 ~ 18时14分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
