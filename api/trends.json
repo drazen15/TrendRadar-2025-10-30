@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T18:14:06.900908+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-02T19:11:08.627743+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[14时18分 ~ 19时11分]"
         },
         {
           "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
@@ -146,11 +146,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时17分 ~ 18时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 19时11分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
