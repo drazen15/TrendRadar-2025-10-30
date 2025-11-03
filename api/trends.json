@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T12:22:17.153642+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-11-03T13:14:48.560859+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时14分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -28,11 +28,12 @@
             9,
             5,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时14分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -40,11 +41,37 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 12时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 13时14分]"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 13时14分]"
+        },
+        {
+          "title": "韩国股市延续AI热潮涨势 SK海力士一度上涨10%",
+          "url": "https://flash.jin10.com/detail/20251103120809638800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时14分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -61,6 +88,17 @@
           "time_info": "[00时15分 ~ 04时14分]"
         },
         {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
           "url": "https://www.zhihu.com/question/1968223817403954668",
           "source": "知乎",
@@ -71,30 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 12时22分]"
-        },
-        {
-          "title": "韩国股市延续AI热潮涨势 SK海力士一度上涨10%",
-          "url": "https://flash.jin10.com/detail/20251103120809638800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 12时22分]"
         },
         {
           "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
@@ -114,7 +128,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -141,22 +155,24 @@
           "url": "https://wallstreetcn.com/livenews/2998342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时14分]"
         },
         {
           "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
           "url": "https://flash.jin10.com/detail/20251103120231849800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时14分]"
         },
         {
           "title": "奥尔特曼称OpenAI年收入远超130亿美元",
