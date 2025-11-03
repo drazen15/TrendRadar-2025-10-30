@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T09:01:22.452137+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-11-03T10:50:10.580378+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时50分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时50分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -40,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 10时50分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -64,9 +66,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 10时50分]"
         }
       ]
     },
@@ -93,7 +106,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
