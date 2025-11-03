@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-11-03T22:15:28.162564+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-11-03T23:14:55.258637+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时14分 ~ 22时15分]"
-        },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
@@ -51,6 +37,20 @@
           "time_info": "[00时15分 ~ 14时22分]"
         },
         {
+          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
+          "url": "https://www.cls.cn/detail/2189431",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时16分 ~ 23时14分]"
+        },
+        {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
           "url": "https://wallstreetcn.com/articles/3758501",
           "source": "华尔街见闻",
@@ -76,22 +76,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时19分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 23时14分]"
         },
         {
-          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
-          "url": "https://www.cls.cn/detail/2189431",
-          "source": "财联社热门",
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
           "ranks": [
-            8,
-            6,
-            4,
-            3
+            3,
+            2,
+            1,
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时16分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[13时14分 ~ 23时14分]"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -102,8 +103,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 23时14分]"
+        },
+        {
+          "title": "大摩：2026将是AI科技硬件之年",
+          "url": "https://wallstreetcn.com/articles/3758553",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时25分 ~ 23时14分]"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -119,19 +133,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时49分 ~ 16时19分]"
-        },
-        {
-          "title": "大摩：2026将是AI科技硬件之年",
-          "url": "https://wallstreetcn.com/articles/3758553",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 22时15分]"
         },
         {
           "title": "韩国股市延续AI热潮涨势 SK海力士一度上涨10%",
@@ -171,6 +172,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "花旗集团：预计2030年全球AI收入规模将达9750亿美元。",
+          "url": "https://flash.jin10.com/detail/20251103231059315800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
           "url": "https://www.zhihu.com/question/1968223817403954668",
           "source": "知乎",
@@ -205,6 +217,18 @@
           "time_info": "09时01分"
         },
         {
+          "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
+          "url": "https://www.cls.cn/detail/2189658",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时14分]"
+        },
+        {
           "title": "美国允许微软运输英伟达AI芯片以在阿联酋使用。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2998577",
           "source": "华尔街见闻-快讯",
@@ -229,6 +253,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时26分 ~ 22时15分]"
+        },
+        {
+          "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
+          "url": "https://wallstreetcn.com/livenews/2998642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
@@ -265,17 +300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时26分 ~ 21时27分]"
-        },
-        {
-          "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
-          "url": "https://www.cls.cn/detail/2189658",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
         },
         {
           "title": "Iren美股盘前涨超14%，报道称微软与澳大利亚的Iren签署97亿美元的AI云协议。",
@@ -380,18 +404,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "亚马逊与OpenAI签订价值380亿美元的协议，将供应英伟达芯片提供的算力",
-          "url": "https://wallstreetcn.com/livenews/2998620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -402,7 +415,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -413,7 +426,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -424,9 +437,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "亚马逊与OpenAI签订价值380亿美元的协议，将供应英伟达芯片提供的算力",
+          "url": "https://wallstreetcn.com/livenews/2998620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时14分]"
         },
         {
           "title": "OpenAI：此次合作涉及380亿美元投资承诺，OpenAI将借助亚马逊云服务（AWS）的价格优势、卓越性能、扩展能力与安全保障大幅提升算力规模。",
@@ -435,7 +460,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -470,7 +495,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
