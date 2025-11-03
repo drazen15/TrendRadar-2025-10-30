@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T14:22:20.030593+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2025-11-03T15:16:53.714921+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时12分 ~ 14时22分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 15时16分]"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -57,22 +58,24 @@
             12,
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时16分]"
         },
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
           "url": "https://www.zhihu.com/question/1968223817403954668",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时16分]"
         },
         {
           "title": "韩国股市延续AI热潮涨势 SK海力士一度上涨10%",
