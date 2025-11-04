@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T12:16:25.842487+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2025-11-04T13:14:44.250906+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 13时14分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时15分 ~ 12时16分]"
+          "appearance_count": 11,
+          "time_info": "[04时15分 ~ 13时14分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -86,8 +86,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 13时14分]"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -96,11 +96,12 @@
           "ranks": [
             4,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 13时14分]"
         },
         {
           "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
@@ -120,22 +121,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 13时14分]"
         },
         {
-          "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
-          "url": "https://wallstreetcn.com/livenews/2998969",
-          "source": "华尔街见闻-快讯",
+          "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
+          "url": "https://www.cls.cn/detail/2190328",
+          "source": "财联社热门",
           "ranks": [
-            2
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "13时14分"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -146,8 +148,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 13时14分]"
+        },
+        {
+          "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
+          "url": "https://wallstreetcn.com/livenews/2998969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时14分]"
+        },
+        {
+          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
+          "url": "https://www.cls.cn/detail/2190323",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时14分]"
         },
         {
           "title": "美联储理事库克：生成式AI可能会给生产力带来翻天覆地的变化（Game Changer）。",
@@ -160,17 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时14分]"
-        },
-        {
-          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
-          "url": "https://www.cls.cn/detail/2190323",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "轻奢女装self-portrait直播“翻车”",
@@ -190,7 +205,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -204,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "马斯克：体力劳动更难被AI取代",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "“AI+国风”推动新型玩具出口订单大幅增长",
@@ -243,8 +269,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时14分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[06时14分 ~ 13时14分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -253,11 +279,12 @@
           "ranks": [
             12,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 13时14分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
