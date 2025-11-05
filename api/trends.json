@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T09:00:08.885684+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2025-11-05T10:42:57.834609+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时42分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -27,11 +27,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时42分]"
         },
         {
           "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
@@ -62,19 +63,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时42分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时42分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -109,11 +111,12 @@
           "url": "https://www.cls.cn/detail/2191195",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时42分]"
         },
         {
           "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物。",
@@ -298,7 +301,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -331,7 +334,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         }
@@ -339,7 +342,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
@@ -363,6 +366,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     }
