@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T06:13:21.477835+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-11-06T07:13:10.794994+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
@@ -110,7 +111,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
