@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:13:10.794994+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2025-11-06T09:01:09.384546+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时01分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -30,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时01分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -51,11 +52,23 @@
           "ranks": [
             24,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时01分]"
+        },
+        {
+          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2192480",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
