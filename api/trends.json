@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T11:44:36.464681+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2025-11-06T12:20:06.141124+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -58,8 +58,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 12时20分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -71,8 +71,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 12时20分]"
+        },
+        {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
         },
         {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
@@ -158,7 +169,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -206,6 +217,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时15分 ~ 06时13分]"
+        },
+        {
+          "title": "深度解析OpenAI产业链布局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90OpenAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%B8%83%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
