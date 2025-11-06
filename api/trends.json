@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T13:14:49.733467+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-11-06T14:20:23.396413+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 14时20分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -71,8 +72,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 14时20分]"
         },
         {
           "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
@@ -83,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 14时20分]"
         },
         {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
