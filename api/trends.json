@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:22:27.594656+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2025-11-07T15:15:32.064066+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时14分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[06时14分 ~ 15时15分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 14时22分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 15时15分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -78,11 +78,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 15时15分]"
         },
         {
           "title": "抖音回应温峥嵘被AI盗播",
@@ -228,8 +229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时13分 ~ 14时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 15时15分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -256,8 +257,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 15时15分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -270,8 +271,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 15时15分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
