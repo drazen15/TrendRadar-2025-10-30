@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T21:24:21.858188+08:00",
-  "total_titles_processed": 1933,
+  "generated_at": "2025-11-07T22:23:18.853197+08:00",
+  "total_titles_processed": 2030,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,21 @@
           "time_info": "[08时58分 ~ 17时14分]"
         },
         {
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时18分 ~ 22时23分]"
+        },
+        {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
           "source": "澎湃新闻",
@@ -71,25 +86,12 @@
             15,
             14,
             11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时40分 ~ 21时24分]"
-        },
-        {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
-          "ranks": [
-            12,
             9,
-            8,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 21时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时40分 ~ 22时23分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -113,8 +115,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 20时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时23分]"
         },
         {
           "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
@@ -317,11 +319,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时29分 ~ 21时24分]"
+          "appearance_count": 17,
+          "time_info": "[10时29分 ~ 22时23分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
