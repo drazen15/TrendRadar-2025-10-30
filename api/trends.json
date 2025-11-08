@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T11:34:42.341334+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-11-08T12:17:23.761231+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -26,8 +26,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时34分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时17分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时17分]"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -42,15 +54,15 @@
           "time_info": "[05时10分 ~ 08时56分]"
         },
         {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
+          "title": "“六小龙”乌镇对话思考AI和未来",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
+          "source": "百度热搜",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "12时17分"
         },
         {
           "title": "Salesforce签署排他性协议，将收购Spindle AI。",
@@ -111,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 10时22分]"
+        },
+        {
+          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
+          "url": "https://www.cls.cn/detail/2194802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
@@ -141,6 +164,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
+          "url": "https://flash.jin10.com/detail/20251108112121105800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     }
