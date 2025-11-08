@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T03:10:08.834724+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-09T04:14:01.205733+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
           "url": "https://www.cls.cn/detail/2193939",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         },
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -37,8 +38,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 04时14分]"
+        },
+        {
+          "title": "用AI前瞻S15决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            23,
+            24,
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -50,22 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时10分]"
-        },
-        {
-          "title": "用AI前瞻S15决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时10分]"
+          "time_info": "[00时14分 ~ 04时14分]"
         },
         {
           "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
@@ -93,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         }
       ]
     }
