@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T14:18:29.470932+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2025-11-09T15:13:04.138320+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时09分 ~ 14时18分]"
+          "appearance_count": 18,
+          "time_info": "[03时09分 ~ 15时13分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 14时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 15时13分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -80,8 +80,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 14时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 15时13分]"
+        },
+        {
+          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
+          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 15时13分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -100,18 +112,6 @@
           "time_info": "[00时14分 ~ 09时03分]"
         },
         {
-          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
-          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时18分]"
-        },
-        {
           "title": "澎湃AI晚新闻丨2025年11月8日",
           "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
           "source": "澎湃新闻",
@@ -121,8 +121,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 15时13分]"
+        },
+        {
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 15时13分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
         },
         {
           "title": "14岁男生回应作文被质疑借助AI",
