@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T05:13:13.088250+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-11-10T06:12:47.831400+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 05时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 06时12分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -41,11 +41,12 @@
             26,
             24,
             17,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 06时12分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -86,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 05时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 06时12分]"
         }
       ]
     }
