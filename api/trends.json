@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T17:12:40.392650+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-09T18:12:47.125739+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[03时09分 ~ 17时12分]"
+          "appearance_count": 22,
+          "time_info": "[03时09分 ~ 18时12分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -55,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时14分 ~ 17时12分]"
+          "appearance_count": 25,
+          "time_info": "[00时14分 ~ 18时12分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -97,6 +98,19 @@
           "time_info": "[00时14分 ~ 15时13分]"
         },
         {
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 18时12分]"
+        },
+        {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
           "url": "https://wallstreetcn.com/livenews/3001588",
           "source": "华尔街见闻-快讯",
@@ -123,20 +137,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 17时12分]"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 18时12分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -158,11 +160,34 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时12分]"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.toutiao.com/trending/7570635868688354825/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -230,6 +255,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "GAI首场体育场演唱会现场",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
@@ -244,9 +291,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
         }
       ]
     },
