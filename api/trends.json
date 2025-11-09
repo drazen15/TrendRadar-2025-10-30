@@ -1,347 +1,55 @@
 {
-  "generated_at": "2025-11-09T23:11:56.157570+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-11-10T00:14:08.616441+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 09时03分]"
-        },
-        {
-          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
-          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 17时12分]"
-        },
-        {
-          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
-          "url": "https://www.zhihu.com/question/1970150431255684262",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[03时09分 ~ 19时10分]"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时18分 ~ 20时22分]"
-        },
-        {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 18时12分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
-          "url": "https://wallstreetcn.com/livenews/3001608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            9,
-            21,
-            22,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时11分 ~ 14时18分]"
-        },
-        {
-          "title": "用AI前瞻S15决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            23,
-            24,
-            26,
-            10,
-            6,
-            20,
-            15,
-            22,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 15时13分]"
-        },
-        {
-          "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
-          "url": "https://wallstreetcn.com/livenews/3001588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            11,
-            18,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 09时03分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2025年11月8日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
+          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            17,
-            16,
-            15,
-            14,
-            12
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时03分 ~ 22时12分]"
-        },
-        {
-          "title": "AI一键格桑花儿开转场",
-          "url": "https://www.douyin.com/hot/2299288",
-          "source": "抖音",
-          "ranks": [
-            22,
-            27,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 17时12分]"
-        },
-        {
-          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
-          "url": "https://wallstreetcn.com/livenews/3001665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            17,
-            20,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 23时11分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 23时11分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
           "url": "https://www.douyin.com/hot/2300262",
           "source": "抖音",
           "ranks": [
-            22,
-            23,
-            21
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 23时11分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
           "url": "https://wallstreetcn.com/livenews/3001690",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 23时11分]"
-        },
-        {
-          "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
-          "url": "https://flash.jin10.com/detail/20251109154126817800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时12分]"
-        },
-        {
-          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
             13
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时22分 ~ 23时11分]"
-        },
-        {
-          "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
-          "url": "https://wallstreetcn.com/articles/3758964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "00时14分"
         },
         {
-          "title": "微软遭遇2011年来最长连跌，AI投资疑虑打压科技股",
-          "url": "https://wallstreetcn.com/articles/3758960",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "研究员：AI或取代绝大部分人类工作",
-          "url": "https://www.toutiao.com/trending/7570635868688354825/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时10分]"
-        },
-        {
-          "title": "GAI首场体育场演唱会现场",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时22分]"
-        },
-        {
-          "title": "研究员：AI或取代绝大部分人类工作",
-          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%91%98%EF%BC%9AAI%E6%88%96%E5%8F%96%E4%BB%A3%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E7%B1%BB%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时22分]"
-        },
-        {
-          "title": "14岁男生回应作文被质疑借助AI",
-          "url": "https://www.toutiao.com/trending/7570134993897422890/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "GAI在演唱会庆祝重庆铜梁龙冲超成功",
-          "url": "https://www.toutiao.com/trending/7570246466659893290/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时16分]"
-        },
-        {
-          "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
-          "url": "https://wallstreetcn.com/livenews/3001548",
+          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
+          "url": "https://wallstreetcn.com/livenews/3001685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
-        },
-        {
-          "title": "GAI庆功宴王鹤棣送8万红包",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23GAI%E5%BA%86%E5%8A%9F%E5%AE%B4%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%818%E4%B8%87%E7%BA%A2%E5%8C%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D17%26band_rank%3D17%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26pos%3D17%26flag%3D1%26q%3D%2523GAI%25E5%25BA%2586%25E5%258A%259F%25E5%25AE%25B4%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E9%2580%25818%25E4%25B8%2587%25E7%25BA%25A2%25E5%258C%2585%2523%26filter_type%3Drealtimehot%26display_time%3D1762659234%26pre_seqid%3D17626592347930331020466&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "00时14分"
         }
       ]
     },
@@ -354,34 +62,11 @@
           "url": "https://wallstreetcn.com/articles/3758988",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时12分 ~ 23时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 10时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         }
       ]
     }
