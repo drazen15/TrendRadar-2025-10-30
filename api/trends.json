@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T10:51:05.409832+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-11-10T11:47:32.163851+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
@@ -51,16 +51,30 @@
           "time_info": "[02时17分 ~ 07时11分]"
         },
         {
+          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
+          "url": "https://www.cls.cn/detail/2195310",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时47分]"
+        },
+        {
           "title": "每天一个奇吧—novelai吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时47分]"
         },
         {
           "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
@@ -75,16 +89,15 @@
           "time_info": "[09时01分 ~ 10时51分]"
         },
         {
-          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
-          "url": "https://www.cls.cn/detail/2195310",
-          "source": "财联社热门",
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时51分]"
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 11时47分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -98,17 +111,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时13分]"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 10时51分]"
         },
         {
           "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
@@ -138,11 +140,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 10时51分]"
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 11时47分]"
         },
         {
           "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
