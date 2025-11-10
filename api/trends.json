@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T03:11:53.367463+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-11-11T04:16:06.484823+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -37,8 +37,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            16,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -46,11 +72,34 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时16分]"
+        },
+        {
+          "title": "苹果(AAPL.O)公司因销量疲软推迟发布下一代iPhone Air。",
+          "url": "https://flash.jin10.com/detail/20251111031535141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "苹果推迟发布下一代iPhone Air。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3002301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -65,31 +114,6 @@
           "time_info": "[01时12分 ~ 02时21分]"
         },
         {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
-        },
-        {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
-        },
-        {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
           "url": "https://www.cls.cn/detail/2196371",
           "source": "财联社热门",
@@ -98,8 +122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 04时16分]"
         },
         {
           "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
@@ -123,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时21分]"
+        },
+        {
+          "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     },
