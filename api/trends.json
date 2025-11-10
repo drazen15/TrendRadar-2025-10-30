@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T15:14:31.767734+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-11-10T16:19:55.261062+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,26 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时50分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时50分 ~ 16时19分]"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 16时19分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -80,23 +98,6 @@
           "time_info": "[02时17分 ~ 07时11分]"
         },
         {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            10,
-            11,
-            12,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 15时14分]"
-        },
-        {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
           "url": "https://wallstreetcn.com/articles/3758983",
           "source": "华尔街见闻",
@@ -109,6 +110,20 @@
           "time_info": "[10时50分 ~ 12时21分]"
         },
         {
+          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2195390",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 16时19分]"
+        },
+        {
           "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
           "url": "https://www.cls.cn/detail/2195198",
           "source": "财联社热门",
@@ -119,6 +134,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 10时51分]"
+        },
+        {
+          "title": "当机构约60%的持仓与AI相关",
+          "url": "https://wallstreetcn.com/articles/3758994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -134,28 +161,17 @@
           "time_info": "[00时14分 ~ 05时13分]"
         },
         {
-          "title": "当机构约60%的持仓与AI相关",
-          "url": "https://wallstreetcn.com/articles/3758994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时14分]"
-        },
-        {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
+          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
+          "url": "https://www.cls.cn/detail/2195609",
           "source": "财联社热门",
           "ranks": [
-            12,
+            13,
             11,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时21分 ~ 15时14分]"
+          "time_info": "[13时16分 ~ 16时19分]"
         },
         {
           "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
@@ -217,16 +233,16 @@
           "time_info": "[14时22分 ~ 15时14分]"
         },
         {
-          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
-          "url": "https://www.cls.cn/detail/2195609",
+          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
+          "url": "https://www.cls.cn/detail/2195504",
           "source": "财联社热门",
           "ranks": [
             13,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时14分]"
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时19分]"
         },
         {
           "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
@@ -238,17 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
-          "url": "https://www.cls.cn/detail/2195504",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
