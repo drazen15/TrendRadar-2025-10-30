@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T13:15:34.425713+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-11-11T14:20:32.075428+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 13时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时20分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -32,8 +32,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 13时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时20分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -99,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
@@ -149,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -245,8 +256,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 14时20分]"
         },
         {
           "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
@@ -293,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "AI投资热引发担忧 美科技巨头债券遭抛售",
+          "url": "https://flash.jin10.com/detail/20251111131842385800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "华为Mate 70 Air今日开售",
