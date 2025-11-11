@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T16:18:09.236227+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2025-11-11T17:15:12.651849+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -45,11 +45,25 @@
             16,
             17,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 16时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 17时15分]"
+        },
+        {
+          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 17时15分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -64,6 +78,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时21分 ~ 10时45分]"
+        },
+        {
+          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
+          "url": "https://www.cls.cn/detail/2196681",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 17时15分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -103,32 +131,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时59分 ~ 14时20分]"
-        },
-        {
-          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
-          "url": "https://www.cls.cn/detail/2196710",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 16时18分]"
-        },
-        {
-          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
-          "url": "https://www.cls.cn/detail/2196681",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 16时18分]"
         },
         {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
@@ -227,6 +229,17 @@
           "time_info": "[01时12分 ~ 02时21分]"
         },
         {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 17时15分]"
+        },
+        {
           "title": "钢琴奶奶给AI打分评歌",
           "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -265,17 +278,6 @@
           "time_info": "[04时16分 ~ 05时12分]"
         },
         {
-          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
-          "url": "https://www.cls.cn/detail/2196822",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
           "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
           "url": "https://wallstreetcn.com/livenews/3002251",
           "source": "华尔街见闻-快讯",
@@ -297,6 +299,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
@@ -361,7 +374,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -386,12 +399,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "软银首席财务官：无法判断我们是否处于AI泡沫之中。",
+          "url": "https://wallstreetcn.com/livenews/3002652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -403,6 +427,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
+          "url": "https://flash.jin10.com/detail/20251111164357600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
