@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T11:43:01.911709+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-11-11T12:18:32.500924+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 12时18分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -27,11 +27,12 @@
             5,
             7,
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 12时18分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -110,8 +111,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 11时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 12时18分]"
         },
         {
           "title": "C3.ai(AI.N)盘中直线拉升，涨幅一度超10%。",
@@ -134,6 +135,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时18分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -184,6 +197,20 @@
           "time_info": "[01时12分 ~ 02时21分]"
         },
         {
+          "title": "钢琴奶奶给AI打分评歌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 12时18分]"
+        },
+        {
           "title": "苹果(AAPL.O)公司因销量疲软推迟发布下一代iPhone Air。",
           "url": "https://flash.jin10.com/detail/20251111031535141800",
           "source": "金十数据",
@@ -206,30 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时12分]"
-        },
-        {
-          "title": "钢琴奶奶给AI打分评歌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 10时45分]"
-        },
-        {
-          "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
-          "url": "https://www.cls.cn/detail/2196710",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
@@ -265,6 +268,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
+          "url": "https://www.zhihu.com/question/1971153219230066622",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
+          "url": "https://www.cls.cn/detail/2196681",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "华为Mate 70 Air今日开售",
