@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:15:21.238265+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-11-11T19:12:27.089203+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -20,6 +20,19 @@
           "time_info": "[00时17分 ~ 15时14分]"
         },
         {
+          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 19时12分]"
+        },
+        {
           "title": "12岁小孩做一张AI图吓坏整个小区",
           "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%81%9A%E4%B8%80%E5%BC%A0AI%E5%9B%BE%E5%90%93%E5%9D%8F%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA",
           "source": "百度热搜",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时17分 ~ 11时43分]"
-        },
-        {
-          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
-          "url": "https://www.cls.cn/detail/2196710",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 18时15分]"
         },
         {
           "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
@@ -78,8 +78,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时12分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -135,6 +135,18 @@
           "time_info": "[08时59分 ~ 14时20分]"
         },
         {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 19时12分]"
+        },
+        {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
           "url": "https://www.zhihu.com/question/1450725457",
           "source": "知乎",
@@ -146,18 +158,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 08时59分]"
-        },
-        {
-          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
-          "url": "https://www.cls.cn/detail/2196822",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 18时15分]"
         },
         {
           "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
@@ -208,6 +208,17 @@
           "time_info": "[02时21分 ~ 04时16分]"
         },
         {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "曝富士康拆除iPhoneAir大部分生产线",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9D%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%8B%86%E9%99%A4iPhoneAir%E5%A4%A7%E9%83%A8%E5%88%86%E7%94%9F%E4%BA%A7%E7%BA%BF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%259B%259D%25E5%25AF%258C%25E5%25A3%25AB%25E5%25BA%25B7%25E6%258B%2586%25E9%2599%25A4iPhoneAir%25E5%25A4%25A7%25E9%2583%25A8%25E5%2588%2586%25E7%2594%259F%25E4%25BA%25A7%25E7%25BA%25BF%2523%26flag%3D1%26c_type%3D31%26pos%3D10%26cate%3D5001%26realpos%3D10%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D10%26dgr%3D0%26display_time%3D1762829017%26pre_seqid%3D17628290175050289871175&launchid=10000360-page_H5",
           "source": "微博",
@@ -241,6 +252,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时21分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -279,18 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时12分]"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
@@ -400,7 +412,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -433,7 +445,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -441,7 +453,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -477,13 +489,24 @@
           "time_info": "01时12分"
         },
         {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "科技股估值飙升带动软银Q3利润大涨，旗下基金清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
