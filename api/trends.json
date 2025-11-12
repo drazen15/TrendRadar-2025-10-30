@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T19:12:20.707210+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-11-12T20:26:24.931202+08:00",
+  "total_titles_processed": 1816,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时42分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[10时42分 ~ 20时26分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -54,6 +54,18 @@
           "time_info": "[00时17分 ~ 13时15分]"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 20时26分]"
+        },
+        {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
           "url": "https://www.cls.cn/detail/2197694",
           "source": "财联社热门",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时00分 ~ 14时20分]"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 19时12分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -245,7 +245,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -457,8 +457,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 20时26分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
