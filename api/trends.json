@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T20:26:24.931202+08:00",
-  "total_titles_processed": 1816,
+  "generated_at": "2025-11-12T21:28:59.626053+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时42分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[10时42分 ~ 21时28分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -38,6 +39,18 @@
           "time_info": "[10时42分 ~ 17时15分]"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 21时28分]"
+        },
+        {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
           "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
           "source": "澎湃新闻",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时17分 ~ 13时15分]"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 20时26分]"
         },
         {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
