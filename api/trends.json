@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T22:14:22.446505+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2025-11-13T23:17:26.438296+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -76,22 +76,24 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时17分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时17分]"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -151,13 +153,24 @@
           "time_info": "16时18分"
         },
         {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美联储戴利：倾向于相信AI不会存在像郁金香那样的泡沫。",
           "url": "https://flash.jin10.com/detail/20251113213637819800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -198,6 +211,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3004252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3004181",
           "source": "华尔街见闻-快讯",
@@ -234,6 +258,18 @@
           "time_info": "[10时47分 ~ 11时44分]"
         },
         {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时13分 ~ 23时17分]"
+        },
+        {
           "title": "小米高调招揽“AI天才少女”背后",
           "url": "https://www.toutiao.com/trending/7572033504515460649/",
           "source": "今日头条",
@@ -244,17 +280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时21分 ~ 13时14分]"
-        },
-        {
-          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2200065",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "五年五芯，百度宣布打造最硬AI云",
@@ -326,6 +351,17 @@
           "time_info": "21时28分"
         },
         {
+          "title": "据CNBC：xAI本轮融资将于12月12日结束。",
+          "url": "https://flash.jin10.com/detail/20251113223736829800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "百度李彦宏回应AI泡沫争议",
           "url": "https://wallstreetcn.com/livenews/3003791",
           "source": "华尔街见闻-快讯",
@@ -348,13 +384,24 @@
           "time_info": "18时15分"
         },
         {
+          "title": "据CNBC援引消息人士报道，xAI在E轮融资中筹集150亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113223650627800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "Core AI宣布启动一项价值50亿美元的全球人工智能数据中心计划。",
           "url": "https://flash.jin10.com/detail/20251113212900097800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -450,7 +497,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -460,8 +507,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时12分 ~ 22时14分]"
+          "appearance_count": 7,
+          "time_info": "[19时12分 ~ 23时17分]"
         },
         {
           "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
@@ -469,11 +516,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时15分 ~ 22时14分]"
+          "appearance_count": 8,
+          "time_info": "[18时15分 ~ 23时17分]"
         },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -534,6 +582,19 @@
           "time_info": "[15时13分 ~ 15时14分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时17分]"
+        },
+        {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://flash.jin10.com/detail/20251113060235382800",
           "source": "金十数据",
@@ -544,19 +605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时14分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -602,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美股开盘，道指跌0.28%，标普500指数跌0.44%，纳指跌0.67%。阿里巴巴(BABA.N)涨3.75%，据悉其正筹备大幅改版AI应用，全面对标ChatGPT。京东(JD.O)涨0.13%，Q3营收超预期。思科(CSCO.O)涨6.8%，此前上调全年利润和收入预期。",
+          "url": "https://flash.jin10.com/detail/20251113223029807800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
