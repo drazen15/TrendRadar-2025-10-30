@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T01:14:32.208590+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-11-14T02:18:52.620100+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时18分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时18分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时18分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时18分]"
         },
         {
           "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
@@ -84,7 +85,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -95,7 +96,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -147,8 +148,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时18分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -158,8 +159,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时18分]"
         }
       ]
     }
