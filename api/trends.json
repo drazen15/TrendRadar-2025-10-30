@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T16:18:38.718960+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-11-13T17:16:47.116803+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 17时16分]"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -101,7 +101,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -167,6 +167,17 @@
           "time_info": "[11时44分 ~ 12时22分]"
         },
         {
+          "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
+          "url": "https://www.zhihu.com/question/1971870297541043616",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时16分]"
+        },
+        {
           "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
           "url": "https://www.zhihu.com/question/1970221380470568183",
           "source": "知乎",
@@ -213,15 +224,15 @@
           "time_info": "10时47分"
         },
         {
-          "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
-          "url": "https://www.zhihu.com/question/1971870297541043616",
-          "source": "知乎",
+          "title": "腾讯控股：第三季资本开支付款200亿元 主要用于支持AI相关举措",
+          "url": "https://wallstreetcn.com/livenews/3004036",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时16分"
         },
         {
           "title": "“纸片人”风生水起，AI撬动，漫剧产业规模狂飙",
@@ -277,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "腾讯第三季度营收超预期 维持稳健增长与聚焦AI内部整合",
+          "url": "https://flash.jin10.com/detail/20251113170012640800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
@@ -296,6 +318,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 13时14分]"
+        },
+        {
+          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时16分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -318,17 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        },
-        {
-          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
