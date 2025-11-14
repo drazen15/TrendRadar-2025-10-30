@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T05:13:06.238727+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-11-15T06:12:51.192845+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 06时12分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时13分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时12分]"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
