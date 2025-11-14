@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T13:14:14.391310+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-11-14T14:20:45.532176+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -63,8 +63,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时42分 ~ 14时20分]"
         },
         {
           "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时42分 ~ 11时42分]"
+        },
+        {
+          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
+          "url": "https://flash.jin10.com/detail/20251114134034298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
@@ -139,6 +150,18 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
+          "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时20分]"
+        },
+        {
           "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
           "url": "https://wallstreetcn.com/livenews/3004456",
           "source": "华尔街见闻-快讯",
@@ -150,15 +173,15 @@
           "time_info": "08时59分"
         },
         {
-          "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3004589",
-          "source": "华尔街见闻-快讯",
+          "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
+          "url": "https://flash.jin10.com/detail/20251114132125584800",
+          "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时20分"
         },
         {
           "title": "不是AI也不是真的海浪",
@@ -192,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
+          "url": "https://flash.jin10.com/detail/20251114130900870800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "马斯克：媒体关于xAI融资的报道“不实”。",
@@ -274,8 +308,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -286,11 +320,12 @@
             17,
             16,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
