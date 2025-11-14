@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T11:42:11.009205+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-11-14T12:17:21.763098+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -58,11 +58,12 @@
             4,
             6,
             7,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -73,8 +74,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 12时17分]"
+        },
+        {
+          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
+          "url": "https://flash.jin10.com/detail/20251114115801982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
@@ -134,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "不是AI也不是真的海浪",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E6%98%AFAI%E4%B9%9F%E4%B8%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E6%B5%B7%E6%B5%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "特朗普用AI生成逮捕奥巴马视频",
@@ -238,8 +261,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -249,11 +272,12 @@
             18,
             17,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
