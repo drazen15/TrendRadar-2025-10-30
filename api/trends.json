@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T21:26:33.504152+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2025-11-14T22:13:48.319497+08:00",
+  "total_titles_processed": 2046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时16分 ~ 21时26分]"
+          "appearance_count": 28,
+          "time_info": "[00时16分 ~ 22时13分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -108,6 +108,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
+          "url": "https://www.cls.cn/detail/2200994",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 22时13分]"
         },
         {
           "title": "美银调查：市场对AI驱动未来利率前景陷入分歧",
@@ -202,17 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 15时13分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
-          "url": "https://www.cls.cn/detail/2200994",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 21时26分]"
         },
         {
           "title": "Mira Murati旗下AI初创公司Thinking Machines Lab洽谈按500亿美元估值融资。",
@@ -414,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "武汉造全球首台AI胶囊内镜获广泛应用",
+          "url": "https://www.toutiao.com/trending/7572001120726908978/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
