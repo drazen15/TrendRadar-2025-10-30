@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T01:10:50.419114+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2025-11-16T02:16:33.343802+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -39,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -50,8 +50,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     }
