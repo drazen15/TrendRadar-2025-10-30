@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T21:19:45.027448+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-11-15T22:11:27.235574+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时26分 ~ 21时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时26分 ~ 22时11分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -46,8 +47,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时57分 ~ 21时19分]"
+          "appearance_count": 17,
+          "time_info": "[08时57分 ~ 22时11分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -70,11 +71,12 @@
             8,
             13,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时19分]"
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 22时11分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
