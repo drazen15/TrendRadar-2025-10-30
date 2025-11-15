@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-15T10:26:26.339709+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-11-15T11:37:01.477081+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 8,
       "titles": [
+        {
+          "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
+          "url": "https://wallstreetcn.com/articles/3759380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时11分 ~ 11时37分]"
+        },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2200994",
@@ -20,17 +34,17 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
-          "url": "https://wallstreetcn.com/articles/3759380",
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
-            3
+            9,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时11分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时37分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -39,21 +53,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时26分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 11时37分]"
         },
         {
           "title": "AI投资加剧投资者担忧，甲骨文债券遭抛售",
