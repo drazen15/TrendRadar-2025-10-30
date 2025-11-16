@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T06:12:35.318108+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-11-17T07:12:21.400046+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -36,11 +36,12 @@
           "ranks": [
             15,
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -51,8 +52,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "13F报告显示，沙特主权财富基金PIF（Public Investment Fund）清仓Pinterest、Bloom Energy、Cummins、Linde Plc.、Air Products & Chemistry等十多家美国上市的股票，使得持仓市值降至最近大约一年最低。 彭博汇编数据显示，PIF三季度没有增持。 三季度末仅仅持有优步、艺电、Lucid Group、Take-Two Interactive、以及Claritev Corp.。",
@@ -61,11 +62,12 @@
           "ranks": [
             1,
             3,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 06时12分]"
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 07时12分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -114,11 +116,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 06时12分]"
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 07时12分]"
         }
       ]
     },
@@ -136,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时12分]"
         }
       ]
     }
