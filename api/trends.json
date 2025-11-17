@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T21:28:10.015222+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2025-11-17T22:14:00.579565+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时20分 ~ 21时28分]"
+          "appearance_count": 14,
+          "time_info": "[14时20分 ~ 22时14分]"
         },
         {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
@@ -74,6 +74,19 @@
           "time_info": "[11时45分 ~ 17时18分]"
         },
         {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时17分 ~ 22时14分]"
+        },
+        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -85,19 +98,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时45分 ~ 14时21分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 21时28分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -133,6 +133,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时13分 ~ 14时21分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时14分]"
         },
         {
           "title": "13F报告显示，沙特主权财富基金PIF（Public Investment Fund）清仓Pinterest、Bloom Energy、Cummins、Linde Plc.、Air Products & Chemistry等十多家美国上市的股票，使得持仓市值降至最近大约一年最低。 彭博汇编数据显示，PIF三季度没有增持。 三季度末仅仅持有优步、艺电、Lucid Group、Take-Two Interactive、以及Claritev Corp.。",
@@ -177,18 +190,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 21时28分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -370,8 +371,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时20分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时20分 ~ 22时14分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -397,7 +398,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
