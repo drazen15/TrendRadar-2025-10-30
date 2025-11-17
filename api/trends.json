@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T11:45:37.885678+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-11-17T12:20:31.927437+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -31,6 +31,18 @@
           "time_info": "[00时13分 ~ 09时00分]"
         },
         {
+          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
+          "url": "https://www.cls.cn/detail/2201935",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 12时20分]"
+        },
+        {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
@@ -41,8 +53,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 11时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 12时20分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -55,19 +67,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 11时45分]"
-        },
-        {
-          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
-          "url": "https://www.cls.cn/detail/2201935",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 12时20分]"
         },
         {
           "title": "13F报告显示，沙特主权财富基金PIF（Public Investment Fund）清仓Pinterest、Bloom Energy、Cummins、Linde Plc.、Air Products & Chemistry等十多家美国上市的股票，使得持仓市值降至最近大约一年最低。 彭博汇编数据显示，PIF三季度没有增持。 三季度末仅仅持有优步、艺电、Lucid Group、Take-Two Interactive、以及Claritev Corp.。",
@@ -82,6 +83,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时13分 ~ 07时12分]"
+        },
+        {
+          "title": "华为，AI突破将发布",
+          "url": "https://wallstreetcn.com/articles/3759477",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时20分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -114,17 +127,6 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
-          "title": "华为，AI突破将发布",
-          "url": "https://wallstreetcn.com/articles/3759477",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 11时45分]"
-        },
-        {
           "title": "据知情人士透露，空中客车有望在迪拜航展宣布在打飞机采购中获得重大份额。 空客接近出售大约100架A321NEO飞机给FlyDubai，可能会获得更多订单。 波音公司洽谈向FlyDubai供相对偏小的订单，预计会出售几十架737 MAX飞机给对方。 FlyDubai飞机订单的最终结果将取决于眼下正在推进的谈判。（路透）",
           "url": "https://wallstreetcn.com/livenews/3005373",
           "source": "华尔街见闻-快讯",
@@ -140,11 +142,12 @@
           "url": "https://wallstreetcn.com/livenews/3005547",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时20分]"
         },
         {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
@@ -164,11 +167,12 @@
           "url": "https://www.cls.cn/detail/2201993",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时20分]"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
@@ -180,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "11月17日午间收评：创业板指半日跌0.8%，福建、AI应用方向集体走强",
+          "url": "https://wallstreetcn.com/livenews/3005541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "华为将发布AI领域突破性技术",
@@ -196,7 +211,7 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -208,11 +223,23 @@
             7,
             10,
             13,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 11时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 12时20分]"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
@@ -227,7 +254,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
