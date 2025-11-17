@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T18:15:49.462769+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-11-17T19:12:32.646742+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时20分 ~ 19时12分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -96,11 +97,12 @@
             14,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时13分 ~ 18时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时13分 ~ 19时12分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -133,6 +135,18 @@
           "time_info": "[04时13分 ~ 07时12分]"
         },
         {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时12分]"
+        },
+        {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
           "url": "https://wallstreetcn.com/livenews/3005341",
           "source": "华尔街见闻-快讯",
@@ -161,17 +175,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时15分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -248,6 +251,17 @@
           "time_info": "[16时19分 ~ 17时18分]"
         },
         {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "券商晨会精华：AI带动的算力需求依然非常旺盛，调整是机会",
           "url": "https://www.cls.cn/detail/2201954",
           "source": "财联社热门",
@@ -269,17 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时18分 ~ 18时15分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
@@ -332,6 +335,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 19时12分]"
+        },
+        {
           "title": "Gemini3.0能碾压GPT-5.1吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
@@ -347,19 +363,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时13分 ~ 15时14分]"
-        },
-        {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 18时15分]"
         }
       ]
     },
