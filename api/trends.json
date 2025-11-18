@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T14:20:11.206794+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-11-18T15:13:59.993889+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 15时13分]"
         },
         {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
@@ -49,6 +49,20 @@
           "time_info": "[01时13分 ~ 12时17分]"
         },
         {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 15时13分]"
+        },
+        {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
           "url": "https://www.zhihu.com/question/1970226468920471782",
           "source": "知乎",
@@ -64,18 +78,18 @@
           "time_info": "[10时41分 ~ 14时20分]"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            9,
-            8,
-            5
+            16,
+            14,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 15时13分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -90,19 +104,6 @@
           "time_info": "[00时17分 ~ 04时15分]"
         },
         {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 14时20分]"
-        },
-        {
           "title": "成龙去世照片系AI生成",
           "url": "https://www.douyin.com/hot/2309157",
           "source": "抖音",
@@ -115,6 +116,17 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
+          "title": "【沪指跌0.81%录得3连阴，AI应用方向逆势爆发】市场全天低开低走，三大指数午后均跌超1%。AI应用方向逆势大涨，宣亚国际、光云科技等多股涨停。半导体芯片股冲高回落，龙迅股份、大为股份涨停。下跌方面，煤炭板块走低，云能源能跌停；电池板块下挫，天际股份等跌停。个股跌多涨少，沪深京三市超4100股飘绿，今日成交1.94万亿。截止收盘沪指跌0.81%，深成指跌0.92%，创业板指跌1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3006322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
           "url": "https://wallstreetcn.com/articles/3759546",
           "source": "华尔街见闻",
@@ -122,8 +134,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 15时13分]"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 15时13分]"
         },
         {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
@@ -136,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 13时13分]"
-        },
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
@@ -226,8 +239,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时13分]"
         }
       ]
     }
