@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T04:13:58.111925+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-11-20T05:11:17.371608+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -39,8 +39,31 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时11分]"
+        },
+        {
+          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
+          "url": "https://wallstreetcn.com/articles/3759684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时13分]"
+          "time_info": "[02时19分 ~ 05时11分]"
         },
         {
           "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。",
@@ -78,15 +101,15 @@
           "time_info": "[02时20分 ~ 04时13分]"
         },
         {
-          "title": "马斯克旗下xAI：在沙特全境部署Grok。 Grok还将被整合到沙特公司Humain的代理平台Humain One。",
-          "url": "https://wallstreetcn.com/livenews/3007392",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：白宫正采取行动 阻止限制AI芯片出口的法案",
+          "url": "https://flash.jin10.com/detail/20251120045725872800",
+          "source": "金十数据",
           "ranks": [
-            5
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时11分"
         },
         {
           "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
@@ -125,17 +148,6 @@
           "time_info": "[02时20分 ~ 04时13分]"
         },
         {
-          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
-          "url": "https://wallstreetcn.com/articles/3759684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
           "url": "https://flash.jin10.com/detail/20251120020650627800",
           "source": "金十数据",
@@ -148,16 +160,16 @@
           "time_info": "[02时20分 ~ 03时11分]"
         },
         {
-          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
-          "url": "https://www.cls.cn/detail/2205150",
-          "source": "财联社热门",
+          "title": "马斯克旗下xAI：在沙特全境部署Grok。 Grok还将被整合到沙特公司Humain的代理平台Humain One。",
+          "url": "https://wallstreetcn.com/livenews/3007392",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 04时13分]"
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
         },
         {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
@@ -225,7 +237,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -236,7 +248,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -265,74 +277,8 @@
       ]
     },
     {
-      "keyword_group": "gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时13分]"
-        },
-        {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时13分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 04时13分]"
-        },
-        {
-          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
-          "url": "https://flash.jin10.com/detail/20251120005103639800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
-          "url": "https://www.zhihu.com/question/1974273046480184125",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -343,8 +289,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -358,6 +304,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时13分]"
+        },
+        {
+          "title": "萨默斯（Larry Summers）从Santander国际顾问委员会离职。 此前，萨默斯已经退出OpenAI的董事会。",
+          "url": "https://wallstreetcn.com/livenews/3007408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
@@ -392,6 +349,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时11分]"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时11分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 05时11分]"
+        },
+        {
+          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
+          "url": "https://flash.jin10.com/detail/20251120005103639800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
