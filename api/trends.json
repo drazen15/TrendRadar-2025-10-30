@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T18:15:14.982693+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-11-19T19:12:01.964927+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
@@ -20,22 +20,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时41分 ~ 17时15分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 18时15分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -64,6 +48,23 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[06时13分 ~ 18时15分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时40分 ~ 19时12分]"
         },
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -115,6 +116,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 19时12分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -172,18 +187,17 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            15,
             13,
-            9
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -192,11 +206,25 @@
           "ranks": [
             9,
             18,
-            21
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 19时12分]"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时14分 ~ 18时15分]"
+          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
@@ -223,18 +251,6 @@
           "time_info": "[08时58分 ~ 10时41分]"
         },
         {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 18时15分]"
-        },
-        {
           "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
           "url": "https://www.cls.cn/detail/2204415",
           "source": "财联社热门",
@@ -256,18 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "美国总统特朗普：希望将AI标准纳入NDAA，或者（国会山）单独起草一份法案。",
@@ -587,11 +591,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 18时15分]"
+          "appearance_count": 16,
+          "time_info": "[08时58分 ~ 19时12分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -600,11 +605,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时40分 ~ 19时12分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -619,11 +625,12 @@
             7,
             19,
             20,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时41分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[10时41分 ~ 19时12分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -720,11 +727,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时41分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[10时41分 ~ 19时12分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
