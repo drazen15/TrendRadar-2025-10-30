@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-19T16:18:28.584828+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2025-11-19T17:15:16.885489+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时41分 ~ 17时15分]"
+        },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
           "url": "https://www.cls.cn/detail/2204220",
@@ -32,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时13分 ~ 16时18分]"
+          "appearance_count": 14,
+          "time_info": "[06时13分 ~ 17时15分]"
         },
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -45,6 +59,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时15分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -87,35 +117,6 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 16时18分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时18分]"
-        },
-        {
           "title": "Plain Jane Remix编舞跳起来",
           "url": "https://www.douyin.com/hot/2310465",
           "source": "抖音",
@@ -132,8 +133,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 15时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -169,6 +170,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时15分]"
         },
         {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
@@ -240,15 +255,17 @@
           "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "工信部：将会同相关部门制定发布促进消费品供需适配性的实施方案，引导玩具企业应用AI技术创造更多新需求",
-          "url": "https://wallstreetcn.com/livenews/3007061",
-          "source": "华尔街见闻-快讯",
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            9,
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 17时15分]"
         },
         {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
@@ -260,20 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时18分]"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
@@ -315,6 +318,18 @@
           "time_info": "[10时41分 ~ 12时17分]"
         },
         {
+          "title": "工信部：将会同相关部门制定发布促进消费品供需适配性的实施方案，引导玩具企业应用AI技术创造更多新需求",
+          "url": "https://wallstreetcn.com/livenews/3007061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时15分]"
+        },
+        {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
           "url": "https://wallstreetcn.com/livenews/3006629",
           "source": "华尔街见闻-快讯",
@@ -349,18 +364,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时19分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时18分]"
         },
         {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
@@ -424,6 +427,29 @@
           "time_info": "[13时14分 ~ 14时19分]"
         },
         {
+          "title": "2025年我国AI玩具市场规模有望增至290亿元",
+          "url": "https://wallstreetcn.com/livenews/3007052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时15分]"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3006649",
           "source": "华尔街见闻-快讯",
@@ -436,6 +462,17 @@
           "time_info": "[01时14分 ~ 02时19分]"
         },
         {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "如果 AI 能完美模拟已故亲友的思维和记忆，你会选择「复活」他们吗？",
           "url": "https://www.zhihu.com/question/1920764981328221242",
           "source": "知乎",
@@ -446,17 +483,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 16时18分]"
-        },
-        {
-          "title": "2025年我国AI玩具市场规模有望增至290亿元",
-          "url": "https://wallstreetcn.com/livenews/3007052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
@@ -558,22 +584,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 16时18分]"
-        },
-        {
-          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
-          "url": "https://www.cls.cn/detail/2204346",
-          "source": "财联社热门",
-          "ranks": [
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 13时14分]"
+          "appearance_count": 12,
+          "time_info": "[08时58分 ~ 17时15分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -581,11 +597,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时15分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -598,11 +615,23 @@
             13,
             6,
             7,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时41分 ~ 17时15分]"
+        },
+        {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 13时14分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -691,8 +720,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时15分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
