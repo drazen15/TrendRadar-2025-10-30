@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:40:24.680920+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-11-20T12:16:11.577169+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时13分 ~ 11时40分]"
+          "appearance_count": 10,
+          "time_info": "[04时13分 ~ 12时16分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -64,11 +64,12 @@
             11,
             13,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时16分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 12时16分]"
         },
         {
           "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
@@ -90,11 +91,25 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 12时16分]"
+        },
+        {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 12时16分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -105,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 12时16分]"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -151,18 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 11时40分]"
         },
         {
           "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
@@ -283,6 +286,18 @@
           "time_info": "[02时20分 ~ 03时11分]"
         },
         {
+          "title": "企业不再避讳：AI开始抢走工作岗位，成裁员潮关键因素",
+          "url": "https://www.cls.cn/detail/2205492",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时16分]"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
           "url": "https://flash.jin10.com/detail/20251120020202388800",
           "source": "金十数据",
@@ -293,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时11分]"
+        },
+        {
+          "title": "美议员警告AI泡沫风险：或引发类似2008年的经济动荡",
+          "url": "https://www.cls.cn/detail/2205574",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
@@ -351,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "企业不再避讳：AI开始抢走工作岗位，成裁员潮关键因素",
-          "url": "https://www.cls.cn/detail/2205492",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "xAI：Grok还将集成到沙特AI初创公司Humain的代理平台Humain One中。",
@@ -626,8 +641,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时16分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -641,8 +656,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 11时40分]"
+          "appearance_count": 14,
+          "time_info": "[01时13分 ~ 12时16分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
