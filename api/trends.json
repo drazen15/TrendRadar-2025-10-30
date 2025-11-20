@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T20:25:29.734056+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2025-11-20T21:26:19.529751+08:00",
+  "total_titles_processed": 1850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时28分 ~ 20时25分]"
+          "appearance_count": 16,
+          "time_info": "[10时28分 ~ 21时26分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -114,6 +114,23 @@
           "time_info": "[13时13分 ~ 19时12分]"
         },
         {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            22,
+            26,
+            20,
+            13,
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时19分 ~ 21时26分]"
+        },
+        {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
           "url": "https://www.cls.cn/detail/2205150",
           "source": "财联社热门",
@@ -156,24 +173,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时17分 ~ 20时25分]"
-        },
-        {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            22,
-            26,
-            20,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时19分 ~ 20时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 21时26分]"
         },
         {
           "title": "Nvidia大涨是AI泡沫吗",
@@ -182,9 +183,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "NVIDIA大涨是AI泡沫吗",
+          "url": "https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -559,7 +571,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -740,8 +752,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时17分 ~ 20时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 21时26分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -760,6 +772,18 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[01时13分 ~ 19时12分]"
+        },
+        {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时26分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -782,17 +806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "Gemini3有哪些新鲜玩法",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
         },
         {
           "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
