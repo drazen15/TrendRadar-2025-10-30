@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T17:14:32.940274+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-11-20T18:15:04.090409+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 17时14分]"
+          "appearance_count": 13,
+          "time_info": "[10时28分 ~ 18时15分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 17时14分]"
+          "appearance_count": 13,
+          "time_info": "[10时28分 ~ 18时15分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -112,6 +112,35 @@
           "time_info": "[02时19分 ~ 08时57分]"
         },
         {
+          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
+          "url": "https://www.cls.cn/detail/2205868",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时13分 ~ 18时15分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 18时15分]"
+        },
+        {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
           "source": "贴吧",
@@ -122,38 +151,27 @@
             16,
             18,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时14分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
-          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
-          "url": "https://www.cls.cn/detail/2205868",
-          "source": "财联社热门",
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            12,
             10,
-            9
+            22,
+            26,
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 17时14分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 17时14分]"
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 18时15分]"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -198,20 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            22,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 17时14分]"
         },
         {
           "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
@@ -355,6 +359,18 @@
           "time_info": "[11时40分 ~ 12时16分]"
         },
         {
+          "title": "马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！",
+          "url": "https://www.cls.cn/detail/2205685",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时15分]"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
           "url": "https://flash.jin10.com/detail/20251120020202388800",
           "source": "金十数据",
@@ -412,17 +428,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时11分]"
-        },
-        {
-          "title": "马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！",
-          "url": "https://www.cls.cn/detail/2205685",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。 xAI将在沙特开发一个500 MW的数据中心。 沙特AI公司Humain和英伟达都将参与xAI在沙特的数据中心项目。",
@@ -711,8 +716,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时14分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -725,11 +730,12 @@
             6,
             9,
             12,
-            11
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时13分 ~ 17时14分]"
+          "appearance_count": 23,
+          "time_info": "[01时13分 ~ 18时15分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
