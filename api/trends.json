@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T18:15:04.090409+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2025-11-20T19:12:42.966277+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时28分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[10时28分 ~ 19时12分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -99,19 +99,6 @@
           "time_info": "[08时57分 ~ 15时13分]"
         },
         {
-          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
-          "url": "https://www.cls.cn/detail/2205150",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 08时57分]"
-        },
-        {
           "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
           "url": "https://www.cls.cn/detail/2205868",
           "source": "财联社热门",
@@ -123,8 +110,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时13分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时13分 ~ 19时12分]"
+        },
+        {
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时19分 ~ 08时57分]"
         },
         {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
@@ -155,8 +155,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 19时12分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -167,11 +167,12 @@
             22,
             26,
             20,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时19分 ~ 18时15分]"
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 19时12分]"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -716,8 +717,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 19时12分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -734,8 +735,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时13分 ~ 18时15分]"
+          "appearance_count": 24,
+          "time_info": "[01时13分 ~ 19时12分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
