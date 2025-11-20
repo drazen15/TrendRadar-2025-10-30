@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T22:17:26.134063+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2025-11-20T23:14:47.635583+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时28分 ~ 22时17分]"
+          "appearance_count": 19,
+          "time_info": "[10时28分 ~ 23时14分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -124,11 +124,12 @@
             20,
             13,
             25,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时19分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[14时19分 ~ 23时14分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -170,11 +171,12 @@
             20,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时17分 ~ 22时17分]"
+          "appearance_count": 30,
+          "time_info": "[00时17分 ~ 23时14分]"
         },
         {
           "title": "Nvidia大涨是AI泡沫吗",
@@ -243,6 +245,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "普京：要求俄总统办公厅和政府考虑设立一个领导部门，管理俄所有AI事务",
+          "url": "https://wallstreetcn.com/livenews/3008038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3007372",
           "source": "华尔街见闻-快讯",
@@ -278,6 +291,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "美联储理事Barr：人工智能（AI）给美国GDP带来重大的增长。 AI还没有带来生产力增长的效应。",
+          "url": "https://wallstreetcn.com/livenews/3008036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
           "url": "https://wallstreetcn.com/articles/3759784",
           "source": "华尔街见闻",
@@ -295,7 +319,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -343,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "英伟达涨5.1%，创11月10日以来最大盘中涨幅。 英伟达第三财季营收达570亿美元，同比增长62%，超出市场预期；预计第四财季营收约为650亿美元，市场预期620亿美元。 英伟达CFO科莱特·克雷斯在财报电话会上表示，英伟达正在朝着今明两年核心AI芯片收入5000亿美元的预测目标前进，未来几个季度有望突破这一目标。 马斯克黄仁勋对谈：“AI会让你更忙，人形机器人将成为有史以来最大的产业”。",
+          "url": "https://wallstreetcn.com/livenews/3008029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
@@ -747,7 +782,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -758,7 +793,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         }
@@ -825,8 +860,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时14分]"
         },
         {
           "title": "Gemini3有哪些新鲜玩法",
