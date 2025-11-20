@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T21:26:19.529751+08:00",
-  "total_titles_processed": 1850,
+  "generated_at": "2025-11-20T22:17:26.134063+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时28分 ~ 21时26分]"
+          "appearance_count": 18,
+          "time_info": "[10时28分 ~ 22时17分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -127,8 +127,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时19分 ~ 21时26分]"
+          "appearance_count": 12,
+          "time_info": "[14时19分 ~ 22时17分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -173,8 +173,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时17分 ~ 21时26分]"
+          "appearance_count": 29,
+          "time_info": "[00时17分 ~ 22时17分]"
         },
         {
           "title": "Nvidia大涨是AI泡沫吗",
@@ -194,7 +194,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -276,6 +276,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "NORM AI宣布获得黑石集团5000万美元投资，并推出全新原生人工智能律师事务所NORM LAW。",
+          "url": "https://flash.jin10.com/detail/20251120220815549800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "英伟达CEO黄仁勋：客户的财务问题是他们自己的事。 每个国家将为自己的（AI）基础设施提供融资。",
@@ -601,7 +623,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -717,12 +739,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "OpenAI数据中心工厂将于2026年第一季度尽快开业。（The Information）",
+          "url": "https://flash.jin10.com/detail/20251120220406915800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "软银将向OpenAI数据中心工厂投资高达30亿美元。",
+          "url": "https://flash.jin10.com/detail/20251120220240882800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
     {
       "keyword_group": "gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -772,6 +816,17 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[01时13分 ~ 19时12分]"
+        },
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "Gemini3有哪些新鲜玩法",
