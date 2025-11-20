@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T05:12:54.427490+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-11-21T06:13:25.853335+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -28,11 +28,12 @@
             19,
             18,
             4,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -42,8 +43,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -59,6 +60,30 @@
           "time_info": "[02时19分 ~ 04时15分]"
         },
         {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
+          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
+          "url": "https://wallstreetcn.com/articles/3759810",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
           "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
           "url": "https://flash.jin10.com/detail/20251121010137294800",
           "source": "金十数据",
@@ -68,17 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
         },
         {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
@@ -92,17 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时11分]"
-        },
-        {
-          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
-          "url": "https://wallstreetcn.com/articles/3759810",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -146,7 +149,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -197,8 +200,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "Gemini3",
@@ -207,11 +210,12 @@
           "ranks": [
             5,
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 06时13分]"
         }
       ]
     },
