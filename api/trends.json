@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T06:13:02.834246+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-11-22T07:12:26.170254+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
@@ -47,11 +47,12 @@
           "ranks": [
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
@@ -66,6 +67,17 @@
           "time_info": "[00时16分 ~ 05时12分]"
         },
         {
+          "title": "胡彦斌 不是AI的",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
@@ -77,15 +89,15 @@
           "time_info": "[00时16分 ~ 06时13分]"
         },
         {
-          "title": "胡彦斌 不是AI的",
-          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
+          "url": "https://wallstreetcn.com/livenews/3008923",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            6
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
@@ -113,6 +125,19 @@
           "time_info": "[02时18分 ~ 03时11分]"
         },
         {
+          "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
+          "url": "https://www.zhihu.com/question/1971908267061019658",
+          "source": "知乎",
+          "ranks": [
+            13,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时12分]"
+        },
+        {
           "title": "不是AI是爱",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AFAI%E6%98%AF%E7%88%B1%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -135,18 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
-          "url": "https://www.zhihu.com/question/1971908267061019658",
-          "source": "知乎",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时18分]"
         },
         {
           "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
@@ -213,7 +226,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
