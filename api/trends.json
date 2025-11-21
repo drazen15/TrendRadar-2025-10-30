@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T18:14:21.566174+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2025-11-21T19:11:40.796439+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -86,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时39分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时39分 ~ 19时11分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -125,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "鸿海董事长：我们一周能生产1000个AI机柜，明年会更多。 电动车已接近委外代工的临界点。 我们正在研发量子计算。",
@@ -282,6 +283,18 @@
           "time_info": "[01时15分 ~ 02时19分]"
         },
         {
+          "title": "易梦玲称和胡彦斌海边视频是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时11分]"
+        },
+        {
           "title": "鸿海董事长刘扬伟：目前转移到美国的产品大多与AI相关。",
           "url": "https://wallstreetcn.com/livenews/3008431",
           "source": "华尔街见闻-快讯",
@@ -294,16 +307,15 @@
           "time_info": "[14时20分 ~ 15时14分]"
         },
         {
-          "title": "易梦玲称和胡彦斌海边视频是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
           "ranks": [
-            22,
-            21
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
@@ -367,7 +379,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
