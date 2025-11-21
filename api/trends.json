@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T05:12:23.498401+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-11-22T06:13:02.834246+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -26,8 +26,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
+          "url": "https://www.cls.cn/detail/2207779",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
@@ -42,29 +66,6 @@
           "time_info": "[00时16分 ~ 05时12分]"
         },
         {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
-          "url": "https://www.cls.cn/detail/2207779",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
@@ -72,8 +73,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "胡彦斌 不是AI的",
@@ -83,8 +84,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
@@ -204,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "报道：白宫搁置一项旨在推翻州级AI法律的行政命令草案",
+          "url": "https://wallstreetcn.com/livenews/3008892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     }
