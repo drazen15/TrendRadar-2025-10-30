@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T03:09:54.230350+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2025-11-23T04:14:22.070677+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 03时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 03时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -36,11 +36,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 03时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -68,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 04时14分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -99,8 +100,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 03时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时14分]"
         }
       ]
     }
