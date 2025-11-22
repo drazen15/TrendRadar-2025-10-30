@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T11:34:54.785291+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-11-22T12:14:58.421834+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时14分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时14分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -52,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时14分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
@@ -98,8 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时34分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时14分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -110,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时34分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时14分]"
         },
         {
           "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
@@ -119,11 +119,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时34分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时14分]"
         },
         {
           "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
@@ -133,11 +134,12 @@
             6,
             15,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 11时34分]"
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 12时14分]"
         },
         {
           "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
@@ -178,6 +180,18 @@
           "time_info": "[01时11分 ~ 07时12分]"
         },
         {
+          "title": "胡彦斌回应亲吻照：不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时14分]"
+        },
+        {
           "title": "不是AI是爱",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AFAI%E6%98%AF%E7%88%B1%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -200,18 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "胡彦斌回应亲吻照：不是AI",
-          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时34分]"
         },
         {
           "title": "胡彦斌疑似承认恋情：接吻视频非AI",
@@ -309,8 +311,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 11时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 12时14分]"
         }
       ]
     },
@@ -323,11 +325,12 @@
           "url": "https://wallstreetcn.com/articles/3759885",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 12时14分]"
         }
       ]
     }
