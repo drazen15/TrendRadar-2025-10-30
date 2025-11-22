@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T22:11:18.578553+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2025-11-22T23:11:55.746718+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时56分 ~ 22时11分]"
+          "appearance_count": 15,
+          "time_info": "[08时56分 ~ 23时11分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -131,6 +131,19 @@
           "time_info": "[00时16分 ~ 06时13分]"
         },
         {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 23时11分]"
+        },
+        {
           "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
           "url": "https://wallstreetcn.com/livenews/3008923",
           "source": "华尔街见闻-快讯",
@@ -160,18 +173,6 @@
           "time_info": "[16时16分 ~ 18时13分]"
         },
         {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 22时11分]"
-        },
-        {
           "title": "华为AI突破性技术揭晓！",
           "url": "https://wallstreetcn.com/articles/3759882",
           "source": "华尔街见闻",
@@ -181,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时12分 ~ 18时13分]"
+        },
+        {
+          "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
+          "url": "https://www.zhihu.com/question/1975471032841232421",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
@@ -271,6 +283,19 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
+          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 23时11分]"
+        },
+        {
           "title": "胡彦斌疑似承认恋情：接吻视频非AI",
           "url": "https://www.toutiao.com/trending/7575051643448741439/",
           "source": "今日头条",
@@ -295,18 +320,6 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
-          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 22时11分]"
-        },
-        {
           "title": "谷歌推出BigQuery AI",
           "url": "https://wallstreetcn.com/livenews/3008826",
           "source": "华尔街见闻-快讯",
@@ -329,6 +342,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "AI产业为何成为烧钱竞赛",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 23时11分]"
         },
         {
           "title": "枭起青壤AI动画热血番具象化",
@@ -362,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "AI产业为何成为烧钱竞赛",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
         }
       ]
     },
@@ -405,8 +419,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 22时11分]"
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 23时11分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
