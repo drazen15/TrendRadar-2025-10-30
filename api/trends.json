@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T06:12:19.274339+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-11-23T07:12:49.145255+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -37,11 +37,12 @@
             12,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -68,11 +69,12 @@
           "ranks": [
             10,
             9,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 06时12分]"
+          "appearance_count": 7,
+          "time_info": "[02时16分 ~ 07时12分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -86,8 +88,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 06时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 07时12分]"
         }
       ]
     },
@@ -105,8 +107,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     }
