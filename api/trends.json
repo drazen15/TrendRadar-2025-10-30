@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T16:16:20.495375+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-11-23T17:12:58.245246+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 16时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 17时12分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -31,8 +31,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 16时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 17时12分]"
+        },
+        {
+          "title": "第一批AI公司，已经开始破产了",
+          "url": "https://wallstreetcn.com/articles/3759937",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 17时12分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -46,22 +61,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 16时16分]"
-        },
-        {
-          "title": "第一批AI公司，已经开始破产了",
-          "url": "https://wallstreetcn.com/articles/3759937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 16时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 17时12分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -94,11 +95,12 @@
           "url": "https://flash.jin10.com/detail/20251123155316784800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -107,9 +109,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
+        },
+        {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "17时12分"
         },
         {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
@@ -141,7 +154,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -181,11 +194,12 @@
             17,
             14,
             19,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时10分 ~ 16时16分]"
+          "appearance_count": 17,
+          "time_info": "[01时10分 ~ 17时12分]"
         }
       ]
     },
