@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T18:12:57.441484+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-11-23T19:10:39.730842+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 18时12分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 19时10分]"
+        },
+        {
+          "title": "第一批AI公司，已经开始破产了",
+          "url": "https://wallstreetcn.com/articles/3759937",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 19时10分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -32,23 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 18时12分]"
-        },
-        {
-          "title": "第一批AI公司，已经开始破产了",
-          "url": "https://wallstreetcn.com/articles/3759937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 18时12分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 19时10分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -62,8 +62,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 18时12分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 19时10分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -98,11 +98,24 @@
           "ranks": [
             1,
             2,
-            9
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 19时10分]"
+        },
+        {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时12分]"
+          "time_info": "[17时12分 ~ 19时10分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -110,22 +123,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 19时10分]"
         },
         {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时12分 ~ 18时12分]"
+          "time_info": "[18时12分 ~ 19时10分]"
         },
         {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
@@ -137,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -162,6 +166,18 @@
           "time_info": "[02时16分 ~ 06时12分]"
         },
         {
+          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
+          "url": "https://www.zhihu.com/question/1974446156558910121",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
+        },
+        {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
           "url": "https://www.cls.cn/detail/2208142",
           "source": "财联社热门",
@@ -171,17 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
-        },
-        {
-          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
-          "url": "https://www.zhihu.com/question/1974446156558910121",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         }
       ]
     },
@@ -231,11 +236,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
         }
       ]
     },
