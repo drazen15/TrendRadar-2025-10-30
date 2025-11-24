@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T18:15:59.876944+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2025-11-24T19:12:45.498868+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 19时12分]"
         },
         {
           "title": "需要AI给答案",
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 19时12分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时20分 ~ 19时12分]"
         },
         {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
@@ -83,6 +83,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时02分 ~ 15时14分]"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 19时12分]"
         },
         {
           "title": "英伟达财报背后的未来AI密码",
@@ -114,25 +128,25 @@
             16,
             18,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 18时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 19时12分]"
         },
         {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 19时12分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -147,18 +161,6 @@
           "time_info": "[00时14分 ~ 09时02分]"
         },
         {
-          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
-          "url": "https://wallstreetcn.com/articles/3759964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 18时15分]"
-        },
-        {
           "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
           "url": "https://www.cls.cn/detail/2208653",
           "source": "财联社热门",
@@ -168,8 +170,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -194,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
@@ -247,7 +260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -258,7 +271,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -327,8 +340,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时12分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
