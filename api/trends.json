@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T21:29:01.175891+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-11-24T22:14:40.766907+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时20分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[14时20分 ~ 22时14分]"
+        },
+        {
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 22时14分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -53,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时14分 ~ 21时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时14分 ~ 22时14分]"
         },
         {
           "title": "英伟达救不了AI股，市场想看到什么？",
@@ -83,19 +96,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时18分 ~ 19时12分]"
-        },
-        {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 21时29分]"
         },
         {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
@@ -160,8 +160,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 21时29分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 22时14分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -185,8 +185,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 22时14分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -255,8 +255,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 21时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 22时14分]"
         },
         {
           "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
@@ -346,8 +346,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 21时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 22时14分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
