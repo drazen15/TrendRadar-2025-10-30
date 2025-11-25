@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T13:14:27.252209+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2025-11-25T14:21:43.829117+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时43分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 14时21分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -43,8 +44,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 14时21分]"
+        },
+        {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 14时21分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -59,16 +73,17 @@
           "time_info": "[00时15分 ~ 10时44分]"
         },
         {
-          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
-          "url": "https://www.cls.cn/detail/2209531",
-          "source": "财联社热门",
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 14时21分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -89,6 +104,20 @@
           "time_info": "[00时15分 ~ 08时58分]"
         },
         {
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 14时21分]"
+        },
+        {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
           "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
@@ -100,31 +129,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时12分]"
-        },
-        {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时14分]"
-        },
-        {
-          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
-          "url": "https://www.zhihu.com/question/1976013755256153204",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时14分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -152,6 +156,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时21分]"
         },
         {
           "title": "美国白宫披露关于科学超算研究领域的AI命令。",
@@ -220,28 +236,6 @@
           "time_info": "08时58分"
         },
         {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "英伟达携手诺基亚打造为AI服务的全球网络",
-          "url": "https://wallstreetcn.com/livenews/3009972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3009699",
           "source": "华尔街见闻-快讯",
@@ -301,6 +295,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
+          "title": "英伟达携手诺基亚打造为AI服务的全球网络",
+          "url": "https://wallstreetcn.com/livenews/3009972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时21分]"
         },
         {
           "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
@@ -404,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "软银集团暴跌11% 因AI竞争担忧加剧",
+          "url": "https://flash.jin10.com/detail/20251125125119877800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
