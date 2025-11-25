@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T18:16:24.034779+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2025-11-25T19:12:56.622920+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -34,8 +34,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时44分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时44分 ~ 19时12分]"
         },
         {
           "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
@@ -50,19 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时44分 ~ 18时16分]"
-        },
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 08时58分]"
+          "appearance_count": 13,
+          "time_info": "[11时44分 ~ 19时12分]"
         },
         {
           "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
@@ -75,8 +64,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 19时12分]"
+        },
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 08时58分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -107,8 +107,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 18时16分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 19时12分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -214,6 +214,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
           "url": "https://flash.jin10.com/detail/20251125032925366800",
           "source": "金十数据",
@@ -247,6 +258,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "阿里巴巴集团首席财务官徐宏：过去4个季度，我们在AI+云基础设施的资本开支约1200亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3010183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3009699",
           "source": "华尔街见闻-快讯",
@@ -258,6 +280,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 03时09分]"
+        },
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
         },
         {
           "title": "创业板指涨3%，深成指涨超2%，沪指涨超1%。算力硬件、AI应用、贵金属、量子科技等方向领涨。",
@@ -332,6 +366,18 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
+        },
+        {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
           "url": "https://wallstreetcn.com/livenews/3009695",
           "source": "华尔街见闻-快讯",
@@ -366,28 +412,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 11时45分]"
-        },
-        {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "据中国台湾媒体，台积电计划在台湾增建三座2纳米厂，以满足AI芯片订单激增的需求。 台积电原已在新竹和高雄规划投资七座2纳米厂，近期将再投资3座2纳米厂，地点将位于台湾南部科学园区附近，新增投资总额推估将达9,000亿元新台币。",
@@ -440,7 +464,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -451,7 +475,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -612,11 +636,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 19时12分]"
         }
       ]
     }
