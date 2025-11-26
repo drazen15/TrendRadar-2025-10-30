@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T14:21:00.711735+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-11-26T15:14:18.325523+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 14时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时14分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -68,6 +68,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 08时58分]"
+        },
+        {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 15时14分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -107,23 +119,12 @@
             7,
             9,
             11,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 14时21分]"
-        },
-        {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时14分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -133,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 15时14分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -146,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 15时14分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -169,11 +170,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 15时14分]"
         },
         {
           "title": "日本电磁炮试射炸毁舰船？系AI合成",
@@ -184,8 +186,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 15时14分]"
         },
         {
           "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
@@ -244,6 +246,19 @@
           "time_info": "10时44分"
         },
         {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            18,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 15时14分]"
+        },
+        {
           "title": "AI应用推升存储芯片需求，业内称行业高景气度或持续至明年年中",
           "url": "https://wallstreetcn.com/livenews/3010427",
           "source": "华尔街见闻-快讯",
@@ -253,6 +268,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时14分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -292,18 +319,6 @@
           "time_info": "[03时12分 ~ 04时15分]"
         },
         {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 14时21分]"
-        },
-        {
           "title": "00后谈恋爱用AI当“僚机”",
           "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%B0%88%E6%81%8B%E7%88%B1%E7%94%A8AI%E5%BD%93%E2%80%9C%E5%83%9A%E6%9C%BA%E2%80%9D",
           "source": "百度热搜",
@@ -326,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时14分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "戴尔上调全年AI服务器发货预期",
@@ -372,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "麦肯锡削减约200个技术岗位 “AI替代”势不可挡",
+          "url": "https://wallstreetcn.com/livenews/3010703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "日本电磁炮试射炸毁舰船？AI编的",
