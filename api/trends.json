@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T07:12:38.118839+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-11-27T08:58:07.944035+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时58分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -93,11 +93,12 @@
             27,
             21,
             11,
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时58分]"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -124,8 +125,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时58分]"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -149,6 +150,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "软银累计发行640亿美元零售债券以推动AI发展计划",
+          "url": "https://flash.jin10.com/detail/20251127073755002800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
@@ -162,11 +185,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时58分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -187,7 +211,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -202,11 +226,12 @@
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时12分]"
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 08时58分]"
         }
       ]
     }
