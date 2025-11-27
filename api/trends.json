@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T16:19:49.742404+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2025-11-27T17:15:22.012570+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -131,11 +131,12 @@
             26,
             27,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 16时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 17时15分]"
         },
         {
           "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
@@ -160,8 +161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
@@ -173,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 17时15分]"
         },
         {
           "title": "多家手机厂商取消Air机型",
@@ -184,11 +185,23 @@
             29,
             26,
             23,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时15分]"
+        },
+        {
+          "title": "金十数据整理：AI眼镜密集发布 行业发展进入加速阶段",
+          "url": "https://flash.jin10.com/detail/20251127164906023800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
@@ -265,7 +278,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -287,7 +300,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -342,8 +355,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 17时15分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
