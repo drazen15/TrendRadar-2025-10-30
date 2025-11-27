@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T02:18:45.965775+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-11-28T03:11:16.400593+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "AI还原香港大埔火灾",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -49,8 +50,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
+        },
+        {
+          "title": "“珠峰安装电梯”图文视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7577362730961767974/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
+          "url": "https://www.cls.cn/detail/2212903",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "北京拟将大规模AI算力搬上太空：拟在晨昏轨道建设运营超过GW功率的集中式大型数据中心系统",
@@ -66,51 +102,17 @@
           "time_info": "[00时16分 ~ 02时18分]"
         },
         {
-          "title": "“珠峰安装电梯”图文视频系AI生成",
-          "url": "https://www.toutiao.com/trending/7577362730961767974/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
-          "url": "https://www.cls.cn/detail/2212827",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
-          "url": "https://www.cls.cn/detail/2212903",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
           "title": "我用AI开了家一人公司",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 03时11分]"
         }
       ]
     },
@@ -127,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -138,8 +140,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
         }
       ]
     },
@@ -155,8 +157,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时11分]"
         }
       ]
     }
