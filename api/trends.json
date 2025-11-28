@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T10:28:34.507199+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-11-28T11:41:23.419267+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 10时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时41分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 10时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时41分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -125,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时28分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时41分]"
         },
         {
           "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
@@ -135,11 +135,23 @@
           "ranks": [
             10,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 11时41分]"
+        },
+        {
+          "title": "美国专利商标局规定AI不能被视为“发明人”",
+          "url": "https://flash.jin10.com/detail/20251128112039157800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
@@ -185,7 +197,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -220,6 +232,20 @@
           "time_info": "[00时15分 ~ 10时28分]"
         },
         {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 11时41分]"
+        },
+        {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
@@ -227,21 +253,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时28分]"
-        },
-        {
-          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
-          "url": "https://wallstreetcn.com/articles/3760281",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时28分]"
+          "time_info": "[08时57分 ~ 11时41分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -250,7 +263,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
@@ -291,7 +304,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
