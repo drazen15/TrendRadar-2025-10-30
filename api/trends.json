@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-28T15:14:47.497168+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2025-11-28T16:18:57.539776+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
+          "url": "https://www.cls.cn/detail/2213363",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 16时18分]"
+        },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
           "url": "https://www.cls.cn/detail/2213001",
@@ -21,17 +32,6 @@
           "time_info": "[00时15分 ~ 08时57分]"
         },
         {
-          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
-          "url": "https://www.cls.cn/detail/2213363",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 15时14分]"
-        },
-        {
           "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
           "url": "https://wallstreetcn.com/articles/3760277",
           "source": "华尔街见闻",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 16时18分]"
         },
         {
           "title": "AI还原香港大埔火灾",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 15时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -216,6 +216,17 @@
           "time_info": "[14时20分 ~ 15时14分]"
         },
         {
+          "title": "夸克AI眼镜持续霸榜第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时18分]"
+        },
+        {
           "title": "夸克AI眼镜来了",
           "url": "https://www.douyin.com/hot/2319676",
           "source": "抖音",
@@ -227,17 +238,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "夸克AI眼镜持续霸榜第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
           "title": "TES官宣naiyou加入",
           "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3naiyou%E5%8A%A0%E5%85%A5",
           "source": "bilibili 热搜",
@@ -247,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "港交所CEO陈翊庭： 探索利用AI提高发行审核效率",
+          "url": "https://wallstreetcn.com/livenews/3012000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
@@ -254,6 +265,17 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
+          "url": "https://www.zhihu.com/question/1977462001522450495",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 16时18分]"
+        },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
           "url": "https://wallstreetcn.com/articles/3760281",
@@ -265,19 +287,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 15时14分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
-          "url": "https://www.zhihu.com/question/1977462001522450495",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 16时18分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -301,11 +312,24 @@
           "ranks": [
             7,
             9,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时18分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时18分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -317,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -412,7 +425,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -423,7 +436,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
