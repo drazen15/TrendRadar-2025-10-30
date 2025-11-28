@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T08:57:25.347144+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-11-28T10:28:34.507199+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 10时28分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -39,11 +39,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 10时28分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -55,11 +56,12 @@
             3,
             11,
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 10时28分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -112,8 +114,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 08时57分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时28分]"
         },
         {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
@@ -122,9 +124,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 10时28分]"
         },
         {
           "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
@@ -132,11 +134,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 10时28分]"
         },
         {
           "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
@@ -176,13 +179,24 @@
           "time_info": "06时12分"
         },
         {
+          "title": "夸克AI眼镜来了",
+          "url": "https://www.douyin.com/hot/2319676",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "TES官宣naiyou加入",
           "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3naiyou%E5%8A%A0%E5%85%A5",
           "source": "bilibili 热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
@@ -190,7 +204,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -198,11 +212,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 10时28分]"
         },
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -211,9 +226,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 10时28分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -221,17 +236,29 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 10时28分]"
+        },
+        {
+          "title": "DeepSeek推出新模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -256,6 +283,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 05时12分]"
+        },
+        {
+          "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
+          "url": "https://flash.jin10.com/detail/20251128095923576800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     }
