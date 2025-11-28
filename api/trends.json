@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T12:17:04.332095+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-11-28T13:15:03.862454+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时15分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时15分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -65,20 +65,6 @@
           "time_info": "[00时15分 ~ 10时28分]"
         },
         {
-          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
-          "url": "https://www.cls.cn/detail/2212903",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时12分]"
-        },
-        {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
           "url": "https://www.cls.cn/detail/2213363",
           "source": "财联社热门",
@@ -86,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 13时15分]"
         },
         {
           "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
@@ -100,8 +86,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 12时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 13时15分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
+          "url": "https://www.cls.cn/detail/2212903",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "“珠峰安装电梯”图文视频系AI生成",
@@ -218,7 +218,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -245,8 +245,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 12时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 13时15分]"
         },
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -256,19 +256,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 13时15分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 13时15分]"
+        },
+        {
+          "title": "DeepSeek新模型有多猛",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E7%8C%9B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -285,7 +297,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -321,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128130252675800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         }
       ]
     }
