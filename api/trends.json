@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:13:39.080707+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-11-29T14:19:02.309412+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时28分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 14时19分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时28分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 14时19分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -100,8 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 14时19分]"
         }
       ]
     }
