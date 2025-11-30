@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T18:13:08.581556+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-30T19:10:44.205447+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时21分 ~ 18时13分]"
+          "appearance_count": 14,
+          "time_info": "[11时21分 ~ 19时10分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时15分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 19时10分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -93,11 +93,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 19时10分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -145,8 +146,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 18时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 19时10分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -177,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时15分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 19时10分]"
         }
       ]
     }
