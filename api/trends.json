@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:21:38.905779+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-11-30T22:12:08.652365+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时21分 ~ 21时21分]"
+          "appearance_count": 18,
+          "time_info": "[11时21分 ~ 22时12分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -54,11 +54,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时15分 ~ 21时21分]"
+          "appearance_count": 11,
+          "time_info": "[16时15分 ~ 22时12分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -88,6 +89,18 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时12分]"
+        },
+        {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
           "url": "https://flash.jin10.com/detail/20251130160826101800",
           "source": "金十数据",
@@ -111,17 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 11时21分]"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时21分]"
         },
         {
           "title": "杨旭文红毯造型被识别AI",
@@ -158,8 +160,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 21时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 22时12分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -185,11 +187,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 22时12分]"
         }
       ]
     },
@@ -207,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时15分 ~ 21时21分]"
+          "appearance_count": 11,
+          "time_info": "[16时15分 ~ 22时12分]"
         }
       ]
     }
