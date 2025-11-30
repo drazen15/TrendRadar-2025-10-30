@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T15:12:28.149979+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-11-30T16:16:12.082193+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 15时12分]"
+          "appearance_count": 9,
+          "time_info": "[11时21分 ~ 16时16分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -56,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 11时21分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
         },
         {
           "title": "杨旭文红毯造型被识别AI",
@@ -118,8 +129,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -133,6 +144,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时09分 ~ 09时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
         }
       ]
     }
