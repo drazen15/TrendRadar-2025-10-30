@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T22:12:08.652365+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-11-30T23:12:21.603649+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时21分 ~ 22时12分]"
+          "appearance_count": 19,
+          "time_info": "[11时21分 ~ 23时12分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时15分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[16时15分 ~ 23时12分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -97,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时12分]"
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时12分]"
         },
         {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
@@ -160,8 +160,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时14分 ~ 22时12分]"
+          "appearance_count": 28,
+          "time_info": "[00时14分 ~ 23时12分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -188,11 +188,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 22时12分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 23时12分]"
         }
       ]
     },
@@ -210,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时15分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[16时15分 ~ 23时12分]"
         }
       ]
     }
