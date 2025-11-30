@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T01:12:12.653678+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-01T02:18:03.921077+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
           "url": "https://www.cls.cn/detail/2215028",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -38,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 02时18分]"
         }
       ]
     },
@@ -55,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 02时18分]"
         }
       ]
     },
@@ -70,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 02时18分]"
         }
       ]
     },
@@ -90,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 02时18分]"
         }
       ]
     }
