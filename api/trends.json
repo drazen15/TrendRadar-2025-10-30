@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T03:11:05.125548+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-12-01T04:14:34.203779+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
@@ -56,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
@@ -73,11 +73,12 @@
             25,
             28,
             20,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
@@ -93,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     }
