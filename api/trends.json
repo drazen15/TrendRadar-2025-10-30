@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T13:22:48.451089+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-12-01T14:22:38.866524+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 14时22分]"
         },
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -67,11 +67,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时22分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -79,11 +80,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时22分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -93,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 14时22分]"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -153,11 +155,12 @@
             23,
             21,
             22,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 11时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 14时22分]"
         }
       ]
     },
@@ -173,8 +176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 13时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 14时22分]"
         }
       ]
     }
