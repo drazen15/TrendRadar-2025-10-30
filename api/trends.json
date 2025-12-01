@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T14:22:38.866524+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-12-01T15:18:20.594817+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 15时18分]"
         },
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -68,11 +68,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时18分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -81,11 +82,12 @@
           "ranks": [
             12,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时18分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -156,11 +158,12 @@
             21,
             22,
             18,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 14时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 15时18分]"
         }
       ]
     },
