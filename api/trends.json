@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T09:10:38.309932+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-12-01T11:44:55.246784+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -39,22 +39,35 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
           "url": "https://www.cls.cn/detail/2215163",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 11时44分]"
+        },
+        {
+          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
+          "url": "https://www.cls.cn/detail/2215245",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "11时44分"
         },
         {
           "title": "中金：AI板块拥挤风险有所释放，长期存在发展空间",
@@ -63,7 +76,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         }
@@ -105,8 +118,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时44分]"
         }
       ]
     },
@@ -122,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时44分]"
         }
       ]
     }
