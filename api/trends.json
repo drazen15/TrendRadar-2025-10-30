@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T16:20:12.971313+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-02T17:19:47.911059+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
         },
         {
           "title": "网警破获通过AI换脸非法侵入系统案",
@@ -53,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -64,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
         },
         {
           "title": "网警破获AI换脸非法侵入系统案",
@@ -75,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -86,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
         },
         {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
@@ -97,11 +98,27 @@
             8,
             7,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
+        },
+        {
+          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
+          "url": "https://www.cls.cn/detail/2216806",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 17时19分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -118,19 +135,19 @@
           "time_info": "[00时19分 ~ 10时49分]"
         },
         {
-          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
-          "url": "https://www.cls.cn/detail/2216806",
+          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
+          "url": "https://www.cls.cn/detail/2216759",
           "source": "财联社热门",
           "ranks": [
-            11,
+            12,
+            10,
             9,
-            8,
-            5,
-            2
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时24分 ~ 16时20分]"
+          "time_info": "[13时14分 ~ 17时19分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -171,20 +188,6 @@
           "time_info": "[10时49分 ~ 12时24分]"
         },
         {
-          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
-          "url": "https://www.cls.cn/detail/2216759",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时20分]"
-        },
-        {
           "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
           "url": "https://wallstreetcn.com/articles/3760465",
           "source": "华尔街见闻",
@@ -192,8 +195,35 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
+        },
+        {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时20分]"
+          "time_info": "[16时19分 ~ 17时19分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时19分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -209,17 +239,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 07时12分]"
-        },
-        {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "中信建投：关注字节Force大会和AI产业链",
@@ -242,20 +261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时20分]"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
@@ -404,8 +409,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 16时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 17时19分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -419,8 +424,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 16时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 17时19分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -433,8 +438,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 17时19分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -460,8 +465,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 17时19分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -518,8 +523,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
