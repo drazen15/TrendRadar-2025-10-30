@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:18:41.765403+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2025-12-03T18:16:39.011110+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 18时16分]"
         },
         {
           "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
@@ -82,11 +82,12 @@
             9,
             8,
             10,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 17时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 18时16分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -128,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 18时16分]"
         },
         {
           "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
@@ -497,8 +498,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 18时16分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
