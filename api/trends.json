@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-04T13:14:04.785105+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-12-04T14:21:06.626790+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时59分 ~ 14时21分]"
+        },
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
           "url": "https://wallstreetcn.com/articles/3760564",
@@ -20,18 +35,16 @@
           "time_info": "[00时19分 ~ 05时13分]"
         },
         {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            9,
-            10
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 14时21分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -46,16 +59,15 @@
           "time_info": "[03时13分 ~ 11时49分]"
         },
         {
-          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
-          "url": "https://www.cls.cn/detail/2219319",
-          "source": "财联社热门",
+          "title": "顾客AI造假死蟹骗退款新进展",
+          "url": "https://www.toutiao.com/trending/7579596655830482954/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 13时14分]"
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
@@ -161,6 +173,17 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "市场消息：SK海力士为了提高全球AI内存竞争力，进行了组织结构和人事调整。",
+          "url": "https://flash.jin10.com/detail/20251204135136533800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3014632",
           "source": "华尔街见闻-快讯",
@@ -170,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "德意志银行：AI投资主题利好亚洲 但波动性将加剧",
+          "url": "https://flash.jin10.com/detail/20251204133940732800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "云数据服务公司Snowflake与Anthropic宣布达成2亿美元合作，旨在将代理AI引入全球企业。",
