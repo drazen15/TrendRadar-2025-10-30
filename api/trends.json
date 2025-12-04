@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:16:42.051155+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2025-12-04T19:14:17.708794+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时23分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 19时14分]"
         },
         {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
@@ -66,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 19时14分]"
         },
         {
           "title": "顾客AI造假死蟹骗退款新进展",
@@ -104,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
+        },
+        {
+          "title": "欧盟对Meta在WhatsApp上的AI政策展开反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251204182458744800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
@@ -175,6 +187,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时21分]"
+        },
+        {
+          "title": "陈都灵TFBOYS同框 诡异到像AI",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5TFBOYS%E5%90%8C%E6%A1%86%20%E8%AF%A1%E5%BC%82%E5%88%B0%E5%83%8FAI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
@@ -276,17 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "陈都灵TFBOYS同框 诡异到像AI",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5TFBOYS%E5%90%8C%E6%A1%86%20%E8%AF%A1%E5%BC%82%E5%88%B0%E5%83%8FAI&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         }
       ]
     },
@@ -377,11 +390,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
         }
       ]
     },
