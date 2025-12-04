@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T12:24:06.747226+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-12-04T13:14:04.785105+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -20,6 +20,20 @@
           "time_info": "[00时19分 ~ 05时13分]"
         },
         {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 13时14分]"
+        },
+        {
           "title": "理想AI眼镜Livis首发开箱",
           "url": "https://www.douyin.com/hot/2325492",
           "source": "抖音",
@@ -32,28 +46,16 @@
           "time_info": "[03时13分 ~ 11时49分]"
         },
         {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 12时24分]"
-        },
-        {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
           "url": "https://www.cls.cn/detail/2219319",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时14分]"
         },
         {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
@@ -135,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 03时13分]"
+        },
+        {
+          "title": "买家AI合成“死蟹”骗退款被拘留8日",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6AI%E5%90%88%E6%88%90%E2%80%9C%E6%AD%BB%E8%9F%B9%E2%80%9D%E9%AA%97%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%98%E7%95%998%E6%97%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "当思考都交给AI我们最终会失去什么",
