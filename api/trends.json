@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T22:15:21.762350+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2025-12-04T23:16:33.852526+08:00",
+  "total_titles_processed": 2052,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 22时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 23时16分]"
         },
         {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
@@ -96,6 +97,18 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
+        },
+        {
           "title": "中信证券：AI产业正走向规模化落地阶段",
           "url": "https://flash.jin10.com/detail/20251204082953112800",
           "source": "金十数据",
@@ -116,17 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
-          "url": "https://www.cls.cn/detail/2220060",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
@@ -276,7 +278,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -429,8 +431,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时16分]"
         }
       ]
     },
