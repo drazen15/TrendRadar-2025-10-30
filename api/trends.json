@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T18:15:11.361184+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2025-12-05T19:13:48.892638+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时50分 ~ 19时13分]"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时00分 ~ 19时13分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -86,6 +86,18 @@
           "time_info": "[01时17分 ~ 04时15分]"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时13分]"
+        },
+        {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
           "url": "https://www.cls.cn/detail/2220406",
           "source": "财联社热门",
@@ -97,18 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时15分 ~ 17时15分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时15分]"
         },
         {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
@@ -276,7 +276,7 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
@@ -291,6 +291,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 06时12分]"
+        },
+        {
+          "title": "Gemini 3 DeepThink 发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
