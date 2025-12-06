@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T06:12:43.997481+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-12-07T07:12:30.028456+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -28,11 +28,12 @@
             7,
             6,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -42,8 +43,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时12分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -71,8 +73,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 06时12分]"
+          "appearance_count": 6,
+          "time_info": "[03时10分 ~ 07时12分]"
         }
       ]
     },
@@ -120,8 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     }
