@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T16:16:38.626596+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-12-06T17:13:26.262734+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 16时16分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时13分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -42,11 +42,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 16时16分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 17时13分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -148,8 +149,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时39分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 17时13分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -204,8 +205,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时39分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 17时13分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
