@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:11:29.537964+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2025-12-07T02:17:36.419578+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -24,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -38,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         }
       ]
     },
@@ -55,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -85,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         }
       ]
     },
@@ -102,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         }
       ]
     }
