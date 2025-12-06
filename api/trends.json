@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:19:04.099341+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2025-12-06T15:12:28.698710+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时57分 ~ 15时12分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -43,11 +43,12 @@
             6,
             8,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时12分]"
         },
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -55,11 +56,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 15时12分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -146,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时12分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -157,11 +159,12 @@
             12,
             14,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时12分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -201,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时12分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
