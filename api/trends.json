@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-06T15:12:28.698710+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-06T16:16:38.626596+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 10,
       "titles": [
+        {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 16时16分]"
+        },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
@@ -22,18 +36,17 @@
           "time_info": "[00时16分 ~ 10时28分]"
         },
         {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            4,
-            3
+            11,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 16时16分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -49,19 +62,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时39分 ~ 15时12分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 15时12分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -148,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时12分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 16时16分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -204,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时12分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 16时16分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
