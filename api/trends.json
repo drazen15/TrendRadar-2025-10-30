@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T13:13:12.922030+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2025-12-07T14:18:40.060010+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 13时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 14时18分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -33,8 +33,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 14时18分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -54,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
           "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
@@ -70,6 +71,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时11分]"
         }
       ]
     },
@@ -104,36 +146,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
-        },
-        {
-          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
-          "url": "https://www.zhihu.com/question/1979858915077404344",
-          "source": "知乎",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -149,8 +161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 13时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 14时18分]"
         }
       ]
     }
