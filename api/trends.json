@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T15:12:58.423326+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-12-07T16:16:32.698087+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -30,11 +30,12 @@
             8,
             10,
             11,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -56,11 +57,12 @@
             1,
             11,
             16,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时16分]"
         },
         {
           "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
@@ -72,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "用AI还原无限流小说名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%BF%98%E5%8E%9F%E6%97%A0%E9%99%90%E6%B5%81%E5%B0%8F%E8%AF%B4%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
@@ -100,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 15时12分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时16分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
