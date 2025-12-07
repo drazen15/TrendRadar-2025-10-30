@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T17:13:15.135251+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2025-12-07T18:12:45.705486+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 17时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 18时12分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -110,11 +110,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时18分 ~ 17时13分]"
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 18时12分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
