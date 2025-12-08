@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T17:21:19.269219+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2025-12-08T18:16:29.589021+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 18时16分]"
         },
         {
           "title": "上游抢筹，终端等风：AI眼镜百镜大战缺一个“爆款”",
@@ -91,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 18时16分]"
         }
       ]
     }
