@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:18:53.993324+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-12-08T16:21:41.790985+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 16时21分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -30,22 +30,24 @@
             13,
             11,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 16时21分]"
         },
         {
           "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
           "url": "https://www.cls.cn/detail/2222429",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时21分]"
         },
         {
           "title": "上游抢筹，终端等风：AI眼镜百镜大战缺一个“爆款”",
@@ -57,6 +59,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
+          "url": "https://www.cls.cn/detail/2222180",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -72,11 +85,12 @@
             12,
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 16时21分]"
         }
       ]
     }
