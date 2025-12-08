@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T21:31:19.634684+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2025-12-08T22:15:07.044289+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -53,15 +53,39 @@
           "time_info": "[15时18分 ~ 20时27分]"
         },
         {
+          "title": "市场消息：卡塔尔成立新公司QAI，旨在建设和投资人工智能。",
+          "url": "https://flash.jin10.com/detail/20251208215109691800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
+          "url": "https://www.zhihu.com/question/1981321831689511959",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时15分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：AI让经济运行得更加火热一些。",
           "url": "https://flash.jin10.com/detail/20251208212102903800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时15分]"
         },
         {
           "title": "上游抢筹，终端等风：AI眼镜百镜大战缺一个“爆款”",
@@ -86,15 +110,15 @@
           "time_info": "16时21分"
         },
         {
-          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
-          "url": "https://www.zhihu.com/question/1981321831689511959",
-          "source": "知乎",
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）该规则应有助于AI企业明确规则内容。",
+          "url": "https://flash.jin10.com/detail/20251208212910525800",
+          "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "22时15分"
         }
       ]
     },
@@ -158,7 +182,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
