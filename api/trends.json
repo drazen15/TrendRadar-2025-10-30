@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:17:04.592654+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-12-08T14:23:18.678120+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时52分 ~ 14时23分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -30,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时52分 ~ 14时23分]"
         },
         {
           "title": "上游抢筹，终端等风：AI眼镜百镜大战缺一个“爆款”",
@@ -56,11 +57,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 14时23分]"
         }
       ]
     }
