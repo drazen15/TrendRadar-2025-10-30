@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T03:11:40.500790+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-09T04:15:33.422630+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时15分]"
         },
         {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
@@ -78,11 +79,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时15分]"
         },
         {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
@@ -120,19 +122,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 04时15分]"
         },
         {
           "title": "梁文锋入选《自然》年度十大科学人物",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 04时15分]"
         }
       ]
     },
