@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T19:13:33.608167+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2025-12-09T20:27:24.707471+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时49分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 20时27分]"
         },
         {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 20时27分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -118,8 +118,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 20时27分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -133,8 +133,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 20时27分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -147,8 +147,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 20时27分]"
+        },
+        {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 20时27分]"
         },
         {
           "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
@@ -157,7 +173,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -179,24 +195,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 19时13分]"
         },
         {
           "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
@@ -217,7 +218,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -323,7 +324,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -337,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -366,8 +378,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时27分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -445,11 +457,12 @@
             16,
             12,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[14时21分 ~ 20时27分]"
         }
       ]
     },
