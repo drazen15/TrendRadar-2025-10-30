@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T03:13:31.229382+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-12-11T04:16:02.387116+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "Starcloud在太空中训练首个AI模型，轨道数据中心竞争升温",
@@ -37,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -80,6 +80,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     }
