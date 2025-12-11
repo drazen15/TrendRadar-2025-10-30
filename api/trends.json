@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T13:17:24.284783+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2025-12-11T14:22:52.675161+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -16,11 +16,12 @@
             7,
             6,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -42,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 14时22分]"
         },
         {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
@@ -55,8 +56,30 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 14时22分]"
+        },
+        {
+          "title": "男子AI生成车展虚假低俗视频被拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时02分 ~ 13时17分]"
+          "time_info": "[11时19分 ~ 14时22分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频被拘",
+          "url": "https://www.douyin.com/hot/2333057",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时22分]"
         },
         {
           "title": "网警查处一起AI生成虚假低俗视频案",
@@ -70,26 +93,15 @@
           "time_info": "[09时02分 ~ 12时29分]"
         },
         {
-          "title": "男子AI生成车展虚假低俗视频被拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "bilibili 热搜",
+          "title": "男子AI生成车展低俗视频造谣被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时17分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时17分]"
+          "time_info": "[12时29分 ~ 14时22分]"
         },
         {
           "title": "网警：男子AI生成车展低俗视频被拘",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 11时19分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时17分]"
         },
         {
           "title": "AIDC储能2030年出货量或达今年20倍",
@@ -136,15 +137,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3018935",
-          "source": "华尔街见闻-快讯",
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "14时22分"
         },
         {
           "title": "Starcloud在太空中训练首个AI模型，轨道数据中心竞争升温",
@@ -196,6 +197,18 @@
           "time_info": "[02时21分 ~ 12时29分]"
         },
         {
+          "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3018935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时22分]"
+        },
+        {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3018538",
           "source": "华尔街见闻-快讯",
@@ -225,7 +238,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
