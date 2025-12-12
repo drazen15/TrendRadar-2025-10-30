@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:18:13.747755+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-12-12T16:20:14.597635+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -31,8 +31,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时02分 ~ 16时20分]"
+        },
+        {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 16时20分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -44,22 +55,12 @@
             18,
             22,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 15时18分]"
-        },
-        {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 16时20分]"
         },
         {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
@@ -68,11 +69,12 @@
           "ranks": [
             11,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 16时20分]"
         },
         {
           "title": "应用端暖风频吹吗，机构AI投资策略悄然转向",
@@ -142,6 +144,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
+          "url": "https://www.cls.cn/detail/2227456",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
           "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
           "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
           "source": "澎湃新闻",
@@ -173,7 +186,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -222,6 +235,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时18分 ~ 13时15分]"
+        },
+        {
+          "title": "夸克AI眼镜紧急增产备货 2026年端侧AI新品有望加速落地",
+          "url": "https://www.cls.cn/detail/2227273",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "博通CFO：第一财季毛利润率将因AI产品而收缩1%。",
@@ -285,7 +309,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -342,6 +366,17 @@
           "time_info": "[09时02分 ~ 15时18分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 16时20分]"
+        },
+        {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
           "url": "https://www.cls.cn/detail/2227268",
           "source": "财联社热门",
@@ -386,17 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时18分]"
         },
         {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
@@ -628,8 +652,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 16时20分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
