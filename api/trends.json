@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:26:54.653087+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-12-12T21:31:18.288756+08:00",
+  "total_titles_processed": 2018,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时02分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[09时02分 ~ 21时31分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[11时18分 ~ 21时31分]"
         },
         {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
@@ -83,6 +83,18 @@
           "time_info": "[00时19分 ~ 19时14分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时31分]"
+        },
+        {
           "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
           "url": "https://www.cls.cn/detail/2227456",
           "source": "财联社热门",
@@ -93,17 +105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时19分 ~ 17时18分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时26分]"
         },
         {
           "title": "应用端暖风频吹吗，机构AI投资策略悄然转向",
@@ -168,7 +169,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -294,7 +295,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -424,8 +425,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 20时26分]"
+          "appearance_count": 14,
+          "time_info": "[12时28分 ~ 21时31分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时31分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -494,18 +507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时26分]"
         },
         {
           "title": "OpenAI：正处于推出年龄预测模型的早期阶段，以自动为18岁以下用户应用内容保护措施。",
@@ -717,8 +718,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[11时18分 ~ 21时31分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
