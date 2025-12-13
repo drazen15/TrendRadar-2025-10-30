@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T12:19:44.533894+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2025-12-13T13:14:36.205805+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,24 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时14分]"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 13时14分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -58,16 +71,17 @@
           "time_info": "[00时16分 ~ 08时58分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
           "ranks": [
             7,
-            1
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 12时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 13时14分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -81,28 +95,17 @@
           "time_info": "[02时20分 ~ 06时13分]"
         },
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 12时19分]"
-        },
-        {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
           "url": "https://wallstreetcn.com/articles/3761315",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 13时14分]"
         },
         {
           "title": "长沙交警配发AI眼镜",
@@ -235,8 +238,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 12时19分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 13时14分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
