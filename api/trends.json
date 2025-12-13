@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T21:22:29.832581+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2025-12-13T22:12:29.108754+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 21时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 22时12分]"
         },
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
@@ -42,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时58分 ~ 21时22分]"
+          "appearance_count": 16,
+          "time_info": "[08时58分 ~ 22时12分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -57,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时43分 ~ 21时22分]"
+          "appearance_count": 15,
+          "time_info": "[10时43分 ~ 22时12分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -100,8 +101,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时16分 ~ 21时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时16分 ~ 22时12分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -179,6 +180,17 @@
           "time_info": "[04时15分 ~ 08时58分]"
         },
         {
+          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
+          "url": "https://wallstreetcn.com/livenews/3020250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
           "url": "https://wallstreetcn.com/livenews/3020088",
           "source": "华尔街见闻-快讯",
@@ -207,6 +219,17 @@
           "time_info": "[01时13分 ~ 04时15分]"
         },
         {
+          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
+          "url": "https://wallstreetcn.com/articles/3761321",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3020086",
           "source": "华尔街见闻-快讯",
@@ -226,7 +249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -240,6 +263,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -273,8 +307,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 21时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 22时12分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
