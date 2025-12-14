@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:19:50.486022+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-14T15:13:21.407110+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 14时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 15时13分]"
         },
         {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 14时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 15时13分]"
         },
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
@@ -85,11 +85,12 @@
             7,
             17,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时11分 ~ 14时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时11分 ~ 15时13分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -110,11 +111,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时13分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -172,17 +174,6 @@
           "time_info": "[00时16分 ~ 13时14分]"
         },
         {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时12分]"
-        },
-        {
           "title": "华尔街日报：OpenAI将取消员工股权归属期",
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
@@ -192,8 +183,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 15时13分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时12分]"
         }
       ]
     }
