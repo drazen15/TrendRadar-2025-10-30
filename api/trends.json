@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T03:10:50.093861+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-12-15T04:14:38.069824+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
