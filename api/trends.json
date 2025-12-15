@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:34:33.159075+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-12-15T13:19:54.323652+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
@@ -74,7 +74,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
