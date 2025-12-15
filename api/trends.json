@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T04:15:45.497783+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2025-12-16T05:40:43.834146+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -13,23 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时15分]"
-        },
-        {
-          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
-          "url": "https://wallstreetcn.com/livenews/3021142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时40分]"
         },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -42,6 +31,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时19分]"
+        },
+        {
+          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
+          "url": "https://wallstreetcn.com/livenews/3021142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时40分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
