@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T22:17:57.019803+08:00",
-  "total_titles_processed": 2081,
+  "generated_at": "2025-12-16T23:16:56.630384+08:00",
+  "total_titles_processed": 2178,
   "failed_sources": [],
   "trends": [
     {
@@ -14,24 +14,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时17分 ~ 22时17分]"
-        },
-        {
-          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
-          "url": "https://wallstreetcn.com/articles/3761448",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时18分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[13时17分 ~ 23时16分]"
         },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -44,6 +32,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时13分 ~ 15时18分]"
+        },
+        {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时18分 ~ 23时16分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -87,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 23时16分]"
         },
         {
           "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
@@ -203,11 +205,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时16分]"
         },
         {
           "title": "意大利企业AI技术使用率翻倍",
@@ -388,7 +391,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
