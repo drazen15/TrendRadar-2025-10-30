@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T11:51:22.490545+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-12-17T12:27:03.592822+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时27分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时12分]"
+        },
+        {
+          "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
+          "url": "https://www.zhihu.com/question/1984358783053422759",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 12时27分]"
         },
         {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
-          "url": "https://www.zhihu.com/question/1984358783053422759",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 11时51分]"
         },
         {
           "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
@@ -241,7 +242,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
