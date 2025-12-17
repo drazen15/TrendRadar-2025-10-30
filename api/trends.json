@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-18T03:15:41.498446+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-12-18T04:16:05.699202+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 6,
       "titles": [
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时16分]"
+        },
         {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
           "url": "https://flash.jin10.com/detail/20251218010322438800",
@@ -42,18 +54,6 @@
           "time_info": "[02时21分 ~ 03时15分]"
         },
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时15分]"
-        },
-        {
           "title": "ThaiSweet樱花舞MV",
           "url": "https://s.weibo.com/weibo?q=%23ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -62,8 +62,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 04时16分]"
         },
         {
           "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
