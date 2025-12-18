@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:32:18.026750+08:00",
-  "total_titles_processed": 1951,
+  "generated_at": "2025-12-18T22:16:37.744852+08:00",
+  "total_titles_processed": 2035,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时13分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[06时13分 ~ 22时16分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时49分 ~ 16时19分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 22时16分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -61,19 +74,6 @@
           "time_info": "[10时49分 ~ 15时16分]"
         },
         {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 21时32分]"
-        },
-        {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
           "url": "https://www.cls.cn/detail/2233153",
           "source": "财联社热门",
@@ -90,6 +90,17 @@
           "time_info": "[13时16分 ~ 19时13分]"
         },
         {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时16分]"
+        },
+        {
           "title": "AI制药公司英矽智能今起招股，募资至多23亿港元",
           "url": "https://wallstreetcn.com/livenews/3022822",
           "source": "华尔街见闻-快讯",
@@ -99,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
-        },
-        {
-          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
-          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
@@ -251,6 +251,17 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时16分]"
+        },
+        {
           "title": "击败AI“当红炸子鸡”！白银市值超越谷歌 跻身全球第四大资产",
           "url": "https://www.cls.cn/detail/2232986",
           "source": "财联社热门",
@@ -350,17 +361,6 @@
           "time_info": "11时53分"
         },
         {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "业绩与规模齐升，AI成私募量化发展“必选项”",
           "url": "https://wallstreetcn.com/livenews/3022661",
           "source": "华尔街见闻-快讯",
@@ -387,8 +387,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 22时16分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
