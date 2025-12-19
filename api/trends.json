@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T05:13:11.800199+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-12-20T06:14:27.331107+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
@@ -47,7 +47,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -55,11 +55,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 06时14分]"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     }
