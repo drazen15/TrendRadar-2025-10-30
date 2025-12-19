@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T22:14:49.435058+08:00",
-  "total_titles_processed": 2198,
+  "generated_at": "2025-12-19T23:15:19.766259+08:00",
+  "total_titles_processed": 2305,
   "failed_sources": [],
   "trends": [
     {
@@ -226,6 +226,18 @@
           "time_info": "[02时20分 ~ 03时14分]"
         },
         {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时15分]"
+        },
+        {
           "title": "蚂蚁阿福下载量猛增引爆市场 AI医疗领域有望迎需求爆发",
           "url": "https://www.cls.cn/detail/2234132",
           "source": "财联社热门",
@@ -260,17 +272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 11时18分]"
-        },
-        {
-          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时14分]"
         },
         {
           "title": "字节跳动正推进与多家厂商的AI手机合作",
