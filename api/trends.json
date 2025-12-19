@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T02:19:50.579501+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-12-20T03:12:20.723844+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -45,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 03时12分]"
         }
       ]
     }
