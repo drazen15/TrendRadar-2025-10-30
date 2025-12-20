@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T11:45:28.873969+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-12-20T12:20:06.156255+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -18,20 +18,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 11时45分]"
-        },
-        {
-          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
-          "url": "https://www.zhihu.com/question/1984644910364774911",
-          "source": "知乎",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 11时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 12时20分]"
         },
         {
           "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
@@ -39,11 +27,25 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时45分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 12时20分]"
+        },
+        {
+          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
+          "url": "https://www.zhihu.com/question/1984644910364774911",
+          "source": "知乎",
+          "ranks": [
+            5,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 12时20分]"
         },
         {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
@@ -108,11 +110,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时14分 ~ 11时45分]"
+          "appearance_count": 8,
+          "time_info": "[06时14分 ~ 12时20分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -121,11 +124,12 @@
           "ranks": [
             5,
             20,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时20分]"
         }
       ]
     }
