@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T06:13:15.374858+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2025-12-22T07:12:50.512307+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "挑战复刻AI可食用岩浆",
@@ -28,19 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
           "url": "https://wallstreetcn.com/articles/3761246",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -61,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -76,8 +77,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时12分]"
         }
       ]
     },
@@ -95,8 +96,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
@@ -107,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -116,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时18分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时12分]"
         }
       ]
     },
@@ -136,8 +138,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         }
       ]
     }
