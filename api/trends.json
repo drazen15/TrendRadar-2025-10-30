@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T00:17:11.377384+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:13:05.018296+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
