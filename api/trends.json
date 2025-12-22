@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:14:39.317745+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-12-22T23:15:20.655078+08:00",
+  "total_titles_processed": 1896,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[15时18分 ~ 22时14分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时15分 ~ 23时15分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -127,19 +141,6 @@
           "time_info": "[01时11分 ~ 18时15分]"
         },
         {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 22时14分]"
-        },
-        {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
@@ -176,8 +177,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时14分]"
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时15分]"
         },
         {
           "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
