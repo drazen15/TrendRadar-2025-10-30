@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T12:32:01.052595+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-12-23T13:18:38.362109+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             9,
             4,
             13,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 13时18分]"
         },
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -57,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 13时18分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -68,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时18分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -79,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时18分]"
         },
         {
           "title": "用AI造谣中国女篮两男子被刑拘",
@@ -90,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时18分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -101,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时18分]"
         },
         {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
@@ -113,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时18分]"
         },
         {
           "title": "曝英伟达计划春节前对华交付AI芯片",
