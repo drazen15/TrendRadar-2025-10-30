@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T05:13:34.363371+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2025-12-24T06:14:02.438972+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             23,
             9,
             28,
-            25
+            25,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
