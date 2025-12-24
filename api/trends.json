@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T12:31:06.006465+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-12-24T13:19:07.502927+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时20分]"
+        },
+        {
+          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
+          "url": "https://www.zhihu.com/question/1986826913436680279",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
         }
       ]
     },
