@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:15:32.886091+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2025-12-26T19:13:20.000428+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
             18,
             13,
             14,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 19时13分]"
         },
         {
           "title": "快看漫画与MiniMax合作上线首个AI互动漫画",
@@ -112,8 +113,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时13分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -167,7 +168,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
