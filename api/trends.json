@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T22:12:50.054016+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2025-12-27T23:12:29.390177+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -34,8 +34,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时12分]"
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 23时12分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -132,11 +132,12 @@
             1,
             8,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 22时12分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 23时12分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -170,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "AI医疗前景如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
