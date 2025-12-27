@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T12:27:01.539604+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2025-12-27T13:15:48.067651+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 12时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 13时15分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -33,11 +33,12 @@
             23,
             10,
             9,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 12时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 13时15分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -91,11 +92,12 @@
           "ranks": [
             4,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 13时15分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
