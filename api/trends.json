@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T09:01:26.026475+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2025-12-27T10:52:31.239644+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 10时52分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -31,11 +31,12 @@
             17,
             28,
             23,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 10时52分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -54,6 +55,20 @@
           "time_info": "[00时15分 ~ 09时01分]"
         },
         {
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 10时52分]"
+        },
+        {
           "title": "科研创新 idea 要不要告诉 AI?",
           "url": "https://www.zhihu.com/question/1914008682825520046",
           "source": "知乎",
@@ -69,17 +84,15 @@
           "time_info": "[03时11分 ~ 07时14分]"
         },
         {
-          "title": "2025年度AI好用工具",
-          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
-          "source": "bilibili 热搜",
+          "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
+          "url": "https://wallstreetcn.com/livenews/3027520",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23,
-            24,
-            13
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 07时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -88,9 +101,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "华为悬赏300万元求解AI难题",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3AI%E9%9A%BE%E9%A2%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     }
