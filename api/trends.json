@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-28T18:14:04.148863+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-28T19:12:02.443604+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 6,
       "titles": [
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 19时12分]"
+        },
         {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
           "url": "https://wallstreetcn.com/articles/3762183",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时12分 ~ 14时20分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 18时14分]"
         },
         {
           "title": "原告出示证据 右下角写着“AI生成”",
@@ -67,11 +67,12 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 19时12分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
