@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T02:19:43.431997+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-12-29T03:11:05.773573+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "2025最全AI成果盘点",
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时11分]"
         }
       ]
     }
