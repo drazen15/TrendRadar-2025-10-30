@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T16:21:41.408890+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2025-12-29T17:23:16.107796+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -44,11 +44,12 @@
             23,
             28,
             22,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 16时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 17时23分]"
         },
         {
           "title": "摄影大赛一等奖作品被指AI生成",
@@ -68,9 +69,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时23分]"
         },
         {
           "title": "千亿私募景林最新发声：2026年或成AI Agent真正普及的元年",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时23分]"
+        },
+        {
+          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
+          "url": "https://www.cls.cn/detail/2242491",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
