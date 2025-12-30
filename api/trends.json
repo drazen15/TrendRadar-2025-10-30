@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T15:17:58.694428+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-12-30T16:20:01.272058+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 11时22分]"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 16时20分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -55,6 +68,20 @@
           "time_info": "[01时13分 ~ 09时02分]"
         },
         {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时20分]"
+        },
+        {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
           "url": "https://www.cls.cn/detail/2243297",
           "source": "财联社热门",
@@ -68,30 +95,17 @@
           "time_info": "[01时13分 ~ 11时22分]"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
           "ranks": [
+            12,
             9,
-            8,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 15时17分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 16时20分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -104,20 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 15时17分]"
-        },
-        {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 16时20分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -128,8 +130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 16时20分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -228,6 +230,17 @@
           "time_info": "[11时22分 ~ 13时18分]"
         },
         {
+          "title": "【午报】三大指数缩量整理涨跌不一，AI智能体、机器人概念双双走强",
+          "url": "https://www.cls.cn/detail/2243744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
           "url": "https://www.zhihu.com/question/1987934900884637667",
           "source": "知乎",
@@ -278,8 +291,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时20分]"
         }
       ]
     }
