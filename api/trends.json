@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T21:32:00.946513+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2025-12-30T22:15:13.995484+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[13时18分 ~ 22时15分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -63,8 +64,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时22分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[11时22分 ~ 22时15分]"
+        },
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时15分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -78,8 +93,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时21分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[14时21分 ~ 22时15分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -116,20 +131,6 @@
           "time_info": "[01时13分 ~ 09时02分]"
         },
         {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 21时32分]"
-        },
-        {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
           "url": "https://www.cls.cn/detail/2243297",
           "source": "财联社热门",
@@ -156,6 +157,19 @@
           "time_info": "[12时33分 ~ 16时20分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时15分]"
+        },
+        {
           "title": "“AI教父”拉响警报",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
           "source": "百度热搜",
@@ -180,19 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 12时33分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 21时32分]"
         },
         {
           "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
