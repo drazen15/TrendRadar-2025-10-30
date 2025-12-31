@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T18:15:07.680487+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-12-31T19:13:21.881327+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时20分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 19时13分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -121,6 +121,18 @@
           "time_info": "[12时32分 ~ 13时24分]"
         },
         {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时13分]"
+        },
+        {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
           "url": "https://wallstreetcn.com/livenews/3028896",
           "source": "华尔街见闻-快讯",
@@ -143,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
@@ -298,6 +299,18 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时13分]"
+        },
+        {
           "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
           "url": "https://wallstreetcn.com/livenews/3029042",
           "source": "华尔街见闻-快讯",
@@ -320,17 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 15时18分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
