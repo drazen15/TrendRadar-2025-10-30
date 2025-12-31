@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:13:21.881327+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2025-12-31T20:26:20.075228+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
             15,
             14,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时20分 ~ 20时26分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -126,11 +127,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时26分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -166,6 +168,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时26分]"
         },
         {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
@@ -297,18 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时13分]"
         },
         {
           "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
