@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T06:14:19.587373+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-01T07:14:00.246734+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时15分 ~ 06时14分]"
+        },
+        {
+          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -76,11 +87,12 @@
           "url": "https://www.zhihu.com/question/1987568735523980297",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时14分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 07时14分]"
         }
       ]
     }
