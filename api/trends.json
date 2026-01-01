@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-01T07:14:00.246734+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-01T09:10:11.969976+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 09时10分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -42,6 +43,28 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
+          "url": "https://wallstreetcn.com/articles/3762372",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
           "url": "https://wallstreetcn.com/livenews/3029462",
           "source": "华尔街见闻-快讯",
@@ -59,11 +82,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 09时10分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -93,6 +117,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时12分 ~ 07时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
         }
       ]
     }
