@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:14:17.061368+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-02T07:14:04.617204+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -83,8 +83,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -99,20 +111,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时14分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     },
