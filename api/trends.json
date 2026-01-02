@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-02T15:19:11.828669+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-01-02T16:20:25.699572+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 9,
       "titles": [
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 15时19分]"
-        },
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
           "url": "https://wallstreetcn.com/articles/3762433",
@@ -30,8 +18,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 16时20分]"
+        },
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 16时20分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -44,8 +45,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 15时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 16时20分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -67,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 16时20分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -136,8 +137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 15时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 16时20分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -149,8 +150,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 16时20分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -162,8 +163,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -174,11 +175,12 @@
             9,
             11,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
