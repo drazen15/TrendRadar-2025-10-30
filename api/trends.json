@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T12:34:21.626380+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-01-02T13:19:48.333244+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 13时19分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -28,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 13时19分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -52,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时19分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -104,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时19分]"
         }
       ]
     },
@@ -122,8 +123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 13时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -135,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -159,11 +160,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -171,11 +173,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时19分]"
         }
       ]
     },
