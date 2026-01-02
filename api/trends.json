@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:22:14.092610+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-01-02T15:19:11.828669+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 15时19分]"
         },
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 15时19分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -39,11 +40,12 @@
           "ranks": [
             11,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 15时19分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -55,6 +57,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时17分 ~ 09时04分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时19分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -73,16 +87,15 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时22分]"
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -123,8 +136,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 15时19分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时19分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -134,11 +173,12 @@
             12,
             9,
             11,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -155,32 +195,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时22分]"
-        },
-        {
-          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
-          "url": "https://www.zhihu.com/question/1990084005744362243",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时22分]"
         }
       ]
     },
