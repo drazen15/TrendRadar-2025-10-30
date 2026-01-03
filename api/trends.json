@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T10:50:51.853896+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-01-03T11:53:16.032144+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI如何让闪迪成为股王",
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 10时50分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 11时53分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -65,8 +65,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时53分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
@@ -90,11 +90,12 @@
           "ranks": [
             1,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 11时53分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -142,11 +143,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[09时00分 ~ 11时53分]"
+        },
+        {
+          "title": "“高考AI押题命中率98%”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83AI%E6%8A%BC%E9%A2%98%E5%91%BD%E4%B8%AD%E7%8E%8798%25%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "美股AI芯片股走高，英特尔(INTC.O)涨超5%，AMD(AMD.O)涨4.4%，台积电(TSM.N)涨3.8%，博通(AVGO.O)、英伟达(NVDA.O)涨近3%。",
@@ -175,8 +188,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时53分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -200,8 +213,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时53分]"
         }
       ]
     },
@@ -222,8 +235,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时53分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
