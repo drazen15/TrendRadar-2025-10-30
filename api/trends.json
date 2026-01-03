@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:14:29.480332+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-01-03T19:11:30.672417+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -93,8 +93,22 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 18时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 19时11分]"
+        },
+        {
+          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
+          "url": "https://wallstreetcn.com/articles/3762468",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 19时11分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
@@ -112,17 +126,17 @@
           "time_info": "[02时20分 ~ 09时00分]"
         },
         {
-          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
-          "url": "https://wallstreetcn.com/articles/3762468",
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7,
-            6
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时14分 ~ 18时14分]"
+          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
           "title": "“高考AI押题命中率98%”系谣言",
@@ -134,19 +148,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时53分 ~ 16时17分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -221,11 +222,12 @@
           "url": "https://www.douyin.com/hot/2356059",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "美股AI芯片股走高，英特尔(INTC.O)涨超5%，AMD(AMD.O)涨4.4%，台积电(TSM.N)涨3.8%，博通(AVGO.O)、英伟达(NVDA.O)涨近3%。",
@@ -300,11 +302,12 @@
             12,
             15,
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 18时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 19时11分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
