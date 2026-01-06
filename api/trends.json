@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T18:15:53.793689+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-01-06T19:13:41.622807+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时13分]"
         },
         {
           "title": "马斯克旗下AI被指涉色情 欧盟等多方监管机构介入",
@@ -99,7 +99,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -470,8 +470,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时23分 ~ 19时13分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
