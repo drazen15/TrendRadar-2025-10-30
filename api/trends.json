@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T20:28:46.766959+08:00",
-  "total_titles_processed": 1850,
+  "generated_at": "2026-01-06T21:33:00.992301+08:00",
+  "total_titles_processed": 1950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -150,6 +150,17 @@
           "time_info": "[17时19分 ~ 18时15分]"
         },
         {
+          "title": "从外设到AI生态：雷蛇私有化后发力 拟投入6亿美元重塑品牌",
+          "url": "https://flash.jin10.com/detail/20260106210418581800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "开业月余，三家股份行AIC密集投向“硬科技”",
           "url": "https://wallstreetcn.com/livenews/3031145",
           "source": "华尔街见闻-快讯",
@@ -254,6 +265,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时17分]"
+        },
+        {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "AMD在CES展示多款企业级及消费级AI芯片",
@@ -366,6 +388,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "咨询业巨头转型阵痛：埃森哲培训50万员工 裁撤非AI方向冗员",
+          "url": "https://flash.jin10.com/detail/20260106205108077800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "花旗：英伟达AI生态将助推自动驾驶出租车增长",
           "url": "https://flash.jin10.com/detail/20260106142326249800",
           "source": "金十数据",
@@ -452,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "英伟达发布推理型自动驾驶AI模型Alpamayo 剑指6万亿美元市值",
+          "url": "https://flash.jin10.com/detail/20260106203551409800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
@@ -471,8 +515,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时23分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时23分 ~ 21时33分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
