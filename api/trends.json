@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:33:46.792039+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-01-06T13:19:15.402322+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时19分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -48,11 +48,12 @@
             28,
             19,
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 12时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时19分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -61,11 +62,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时19分]"
         },
         {
           "title": "开业月余，三家股份行AIC密集投向“硬科技”",
@@ -77,6 +79,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时19分]"
         },
         {
           "title": "智谱AI在厦门投资成立新公司",
@@ -125,16 +139,27 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
+            11,
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时33分]"
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
+        },
+        {
+          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
+          "url": "https://www.zhihu.com/question/1991590957200716340",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -149,6 +174,17 @@
           "time_info": "[03时16分 ~ 04时17分]"
         },
         {
+          "title": "AMD在CES展示多款企业级及消费级AI芯片",
+          "url": "https://flash.jin10.com/detail/20260106121524156800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "英伟达推出BlueField-4数据处理器，赋能新一代AI原生存储基础设施，开启AI新纪元",
           "url": "https://wallstreetcn.com/livenews/3031139",
           "source": "华尔街见闻-快讯",
@@ -158,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "抖音：2025年AI兴趣用户增长翻倍",
-          "url": "https://wallstreetcn.com/livenews/3031344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -254,7 +279,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -298,7 +323,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -309,7 +334,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -339,8 +364,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 13时19分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
