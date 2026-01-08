@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:19:03.574683+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2026-01-08T23:18:25.304900+08:00",
+  "total_titles_processed": 2172,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
             13,
             12,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时16分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 23时18分]"
         },
         {
           "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
@@ -115,7 +116,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -400,7 +401,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -419,7 +420,7 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
@@ -433,6 +434,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时19分 ~ 19时14分]"
+        },
+        {
+          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
+          "url": "https://flash.jin10.com/detail/20260108224229611800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
