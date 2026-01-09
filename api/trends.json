@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T05:14:51.074668+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-01-10T06:14:24.015015+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -64,11 +64,12 @@
             13,
             23,
             22,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -78,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -91,8 +92,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -104,8 +105,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
@@ -218,8 +219,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 06时14分]"
         }
       ]
     }
