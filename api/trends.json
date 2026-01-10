@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T11:18:49.646111+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-01-10T12:28:39.236359+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 12时28分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -66,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 12时28分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -189,17 +189,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
-          "url": "https://flash.jin10.com/detail/20260110094533475800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
           "url": "https://flash.jin10.com/detail/20260110030900508800",
           "source": "金十数据",
@@ -210,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时16分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -251,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时16分 ~ 11时18分]"
+          "appearance_count": 8,
+          "time_info": "[04时16分 ~ 12时28分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -264,19 +265,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 11时18分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 12时28分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         }
       ]
     }
