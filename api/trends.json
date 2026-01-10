@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T20:24:18.518277+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-01-10T21:25:14.200527+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -116,6 +116,19 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 21时25分]"
+        },
+        {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3034456",
           "source": "华尔街见闻-快讯",
@@ -127,18 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 11时18分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 20时24分]"
         },
         {
           "title": "AI怕你在婚礼上冷",
@@ -204,8 +205,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时13分 ~ 20时24分]"
+          "appearance_count": 20,
+          "time_info": "[07时13分 ~ 21时25分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -218,8 +219,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时18分 ~ 20时24分]"
+          "appearance_count": 17,
+          "time_info": "[11时18分 ~ 21时25分]"
         },
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -248,8 +249,23 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时19分 ~ 21时25分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[14时19分 ~ 20时24分]"
+          "time_info": "[15时13分 ~ 21时25分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -267,20 +283,6 @@
           "time_info": "[14时19分 ~ 20时24分]"
         },
         {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时13分 ~ 20时24分]"
-        },
-        {
           "title": "DeepSeek准备第二次震惊全世界",
           "url": "https://www.toutiao.com/trending/7593519269174840858/",
           "source": "今日头条",
@@ -296,11 +298,12 @@
           "url": "https://www.zhihu.com/question/1993329446883651767",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时25分]"
         }
       ]
     },
