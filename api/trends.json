@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T21:25:14.200527+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-01-10T22:12:51.931494+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -125,8 +125,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 21时25分]"
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时13分 ~ 18时14分]"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
@@ -185,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "国产AI大模型公司集中上市",
+          "url": "https://www.douyin.com/hot/2362832",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -219,8 +241,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时18分 ~ 21时25分]"
+          "appearance_count": 18,
+          "time_info": "[11时18分 ~ 22时12分]"
         },
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -249,8 +271,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时19分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[14时19分 ~ 22时12分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -264,8 +286,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时13分 ~ 21时25分]"
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -299,11 +321,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 22时12分]"
         }
       ]
     },
