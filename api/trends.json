@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:28:39.236359+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-01-10T13:16:07.979346+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 13时16分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -206,11 +206,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时16分]"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -238,7 +239,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -252,8 +253,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时16分 ~ 12时28分]"
+          "appearance_count": 10,
+          "time_info": "[04时16分 ~ 13时16分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -265,8 +266,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 12时28分]"
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 13时16分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -277,8 +278,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 13时16分]"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时28分]"
+          "time_info": "[13时15分 ~ 13时16分]"
         }
       ]
     }
