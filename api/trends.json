@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:14:01.056642+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-01-10T19:11:42.222196+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -145,11 +145,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
@@ -203,8 +204,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时13分 ~ 18时14分]"
+          "appearance_count": 17,
+          "time_info": "[07时13分 ~ 19时11分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -217,8 +218,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 18时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时18分 ~ 19时11分]"
         },
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -243,11 +244,12 @@
           "ranks": [
             9,
             4,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时19分 ~ 18时14分]"
+          "appearance_count": 10,
+          "time_info": "[14时19分 ~ 19时11分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -270,11 +272,12 @@
           "ranks": [
             4,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时13分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 19时11分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
