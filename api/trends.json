@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T16:17:46.389005+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-01-10T17:14:07.791266+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -129,6 +129,17 @@
           "time_info": "[07时14分 ~ 11时18分]"
         },
         {
+          "title": "AI怕你在婚礼上冷",
+          "url": "https://www.douyin.com/hot/2363223",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
+        },
+        {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
           "url": "https://www.zhihu.com/question/571427849",
           "source": "知乎",
@@ -175,11 +186,26 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时13分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 17时14分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 17时14分]"
         },
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -198,20 +224,6 @@
           "time_info": "[04时16分 ~ 15时14分]"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4,
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 16时17分]"
-        },
-        {
           "title": "DeepSeek能否第二次震惊全世界",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
           "source": "百度热搜",
@@ -221,8 +233,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 17时14分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -230,11 +242,25 @@
           "source": "今日头条",
           "ranks": [
             6,
-            24
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 17时14分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时19分 ~ 16时17分]"
+          "time_info": "[15时13分 ~ 17时14分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -246,18 +272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时17分]"
         }
       ]
     },
