@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:15:49.630062+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-01-14T04:16:44.267270+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -27,19 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
           "url": "https://www.cls.cn/detail/2256264",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -50,8 +51,35 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
+        },
+        {
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
+        },
+        {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -76,17 +104,17 @@
           "time_info": "00时21分"
         },
         {
-          "title": "韩服93%胜率账号是AI吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
+            19,
             15,
-            13,
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "time_info": "[00时21分 ~ 04时16分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -97,32 +125,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
-        },
-        {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时21分 ~ 03时15分]"
         },
         {
@@ -184,8 +186,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -196,8 +198,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
         }
       ]
     },
@@ -214,19 +216,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时16分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时16分]"
         }
       ]
     }
