@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T20:29:35.597807+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-01-13T21:36:39.958753+08:00",
+  "total_titles_processed": 1964,
   "failed_sources": [],
   "trends": [
     {
@@ -125,8 +125,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 20时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 21时36分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -176,6 +176,19 @@
           "time_info": "[00时19分 ~ 15时19分]"
         },
         {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 21时36分]"
+        },
+        {
           "title": "张文宏称拒绝把AI引入医院病历系统",
           "url": "https://www.toutiao.com/trending/7594611746107854346/",
           "source": "今日头条",
@@ -187,19 +200,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 12时02分]"
-        },
-        {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 20时29分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -218,6 +218,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时20分 ~ 20时29分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时36分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -246,16 +258,41 @@
           "time_info": "[15时19分 ~ 19时14分]"
         },
         {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
+          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
+          "url": "https://www.cls.cn/detail/2256264",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时36分]"
+        },
+        {
+          "title": "事关AI应用、GEO概念，上市公司密集回应",
+          "url": "https://www.cls.cn/detail/2256448",
+          "source": "财联社热门",
           "ranks": [
             3,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
+          "time_info": "[20时29分 ~ 21时36分]"
+        },
+        {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 21时36分]"
         },
         {
           "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
@@ -306,18 +343,6 @@
           "time_info": "[09时01分 ~ 14时22分]"
         },
         {
-          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
-          "url": "https://www.cls.cn/detail/2256264",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
-        },
-        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -332,28 +357,33 @@
           "time_info": "[07时11分 ~ 15时19分]"
         },
         {
-          "title": "事关AI应用、GEO概念，上市公司密集回应",
-          "url": "https://www.cls.cn/detail/2256448",
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "EDG官宣Maokai回归",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            20
+            13,
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 21时36分]"
+        },
+        {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 21时36分]"
         },
         {
           "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
@@ -426,19 +456,6 @@
           "time_info": "[13时20分 ~ 14时22分]"
         },
         {
-          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
-          "url": "https://www.cls.cn/detail/2256259",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时29分]"
-        },
-        {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
           "url": "https://flash.jin10.com/detail/20260113024637591800",
           "source": "金十数据",
@@ -449,20 +466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时16分]"
-        },
-        {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 20时29分]"
         },
         {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
@@ -493,11 +496,12 @@
           "url": "https://www.cls.cn/detail/2256150",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时36分]"
         },
         {
           "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
@@ -605,7 +609,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -627,7 +631,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -638,7 +642,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -693,8 +697,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时01分 ~ 20时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时01分 ~ 21时36分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -872,8 +876,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时02分 ~ 20时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时02分 ~ 21时36分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -885,8 +889,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 20时29分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 21时36分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
