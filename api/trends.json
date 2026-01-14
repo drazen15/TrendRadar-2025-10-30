@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:22:59.869343+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-01-14T15:20:05.536972+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,19 @@
           "time_info": "[00时21分 ~ 07时14分]"
         },
         {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 15时20分]"
+        },
+        {
           "title": "韩服93%胜率账号是AI吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -63,11 +76,12 @@
             16,
             25,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -83,8 +97,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -97,19 +111,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时16分]"
-        },
-        {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 14时22分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -126,6 +127,20 @@
           "time_info": "[00时21分 ~ 06时15分]"
         },
         {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 15时20分]"
+        },
+        {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
           "url": "https://www.cls.cn/detail/2256809",
           "source": "财联社热门",
@@ -139,17 +154,19 @@
           "time_info": "[09时06分 ~ 14时22分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
           "ranks": [
-            12,
-            8,
-            7
+            18,
+            14,
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 15时20分]"
         },
         {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
@@ -197,18 +214,17 @@
           "time_info": "[11时31分 ~ 12时41分]"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            14,
             13,
+            28,
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时22分]"
+          "time_info": "[13时18分 ~ 15时20分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -220,18 +236,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时15分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时22分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -374,11 +378,12 @@
             14,
             17,
             15,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时20分]"
         }
       ]
     },
