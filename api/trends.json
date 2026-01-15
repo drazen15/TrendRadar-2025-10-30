@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-15T17:21:13.646276+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-01-15T18:16:13.000634+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 18时16分]"
+        },
         {
           "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
           "url": "https://www.cls.cn/detail/2258255",
@@ -47,17 +61,19 @@
           "time_info": "[00时20分 ~ 16时20分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
           "ranks": [
+            8,
+            7,
+            6,
             5,
-            3,
-            1
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时34分 ~ 17时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 18时16分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -71,21 +87,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时20分 ~ 11时25分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时34分 ~ 17时21分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -119,22 +120,6 @@
           "time_info": "[02时22分 ~ 14时22分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            17,
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 17时21分]"
-        },
-        {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -146,8 +131,39 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时34分 ~ 17时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 18时16分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 18时16分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14,
+            17,
+            18,
+            19,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时20分 ~ 18时16分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -179,11 +195,12 @@
             15,
             17,
             30,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 17时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时20分 ~ 18时16分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -198,19 +215,6 @@
           "time_info": "[01时21分 ~ 07时13分]"
         },
         {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 17时21分]"
-        },
-        {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -222,6 +226,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 07时13分]"
+        },
+        {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "从“读懂中国”到“算力解码”，外资巨头加码中国市场AI投研",
