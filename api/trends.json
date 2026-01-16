@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T13:20:15.547398+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-01-16T14:23:19.264181+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -79,6 +79,20 @@
           "time_info": "[07时14分 ~ 13时20分]"
         },
         {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 14时23分]"
+        },
+        {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
@@ -86,11 +100,12 @@
             24,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时23分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -105,20 +120,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 06时15分]"
-        },
-        {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 13时20分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -143,11 +144,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 14时23分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -163,6 +165,18 @@
           "time_info": "[09时04分 ~ 12时34分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 14时23分]"
+        },
+        {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
           "url": "https://www.zhihu.com/question/1994735533826471246",
           "source": "知乎",
@@ -174,17 +188,6 @@
           "time_info": "[11时24分 ~ 12时34分]"
         },
         {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260115234252489800",
           "source": "金十数据",
@@ -194,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "马斯克旗下Grok AI遭日本调查",
+          "url": "https://flash.jin10.com/detail/20260116132742753800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -344,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "内存暴涨背后的AI硬件争夺战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E%E7%9A%84AI%E7%A1%AC%E4%BB%B6%E4%BA%89%E5%A4%BA%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     },
@@ -373,11 +398,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 14时23分]"
         },
         {
           "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
