@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T16:18:02.140064+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-01-18T17:14:34.689449+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时14分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -31,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时14分]"
         },
         {
           "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
@@ -43,11 +43,12 @@
             8,
             10,
             11,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 17时14分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -95,6 +96,17 @@
           "time_info": "11时31分"
         },
         {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "奇瑞超35款车型将搭载全新AI产品",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E8%B6%8535%E6%AC%BE%E8%BD%A6%E5%9E%8B%E5%B0%86%E6%90%AD%E8%BD%BD%E5%85%A8%E6%96%B0AI%E4%BA%A7%E5%93%81%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -134,8 +146,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 16时18分]"
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 17时14分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -147,8 +159,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时14分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
