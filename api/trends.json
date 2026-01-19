@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:20:48.576931+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-01-19T19:16:46.885471+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -151,6 +151,18 @@
           "time_info": "[13时26分 ~ 14时27分]"
         },
         {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时16分]"
+        },
+        {
           "title": "默克中国与镁睿化学签署合作备忘录，将共同开发定制化AI模型",
           "url": "https://wallstreetcn.com/livenews/3039588",
           "source": "华尔街见闻-快讯",
@@ -169,18 +181,6 @@
           "ranks": [
             12,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时20分]"
-        },
-        {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
