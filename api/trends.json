@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T09:08:45.428285+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-19T11:44:06.434304+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 04时15分]"
+        },
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
         },
         {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
@@ -48,7 +59,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -66,13 +77,24 @@
           "time_info": "[05时12分 ~ 07时14分]"
         },
         {
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
           "url": "https://flash.jin10.com/detail/20260119075109965800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -94,7 +116,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -113,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -140,11 +162,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时44分]"
         }
       ]
     }
