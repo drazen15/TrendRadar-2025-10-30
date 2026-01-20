@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T19:18:44.315133+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-01-20T20:32:21.721086+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
@@ -32,6 +32,21 @@
           "time_info": "[13时23分 ~ 15时22分]"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 20时32分]"
+        },
+        {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
           "url": "https://www.cls.cn/detail/2262334",
           "source": "财联社热门",
@@ -42,31 +57,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时14分]"
-        },
-        {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 19时18分]"
-        },
-        {
-          "title": "H200对AI产业影响如何",
-          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
@@ -116,6 +106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "H200对AI产业影响如何",
+          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时32分]"
         },
         {
           "title": "外媒谈AI竞争：中国会笑到最后",
@@ -212,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "百时美施贵宝宣布与微软合作，共同推进AI驱动的肺癌早期检测。",
+          "url": "https://flash.jin10.com/detail/20260120195938474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "机构调查：80%员工认为AI将影响工作岗位，Z世代最为担忧",
@@ -346,11 +359,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时32分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
