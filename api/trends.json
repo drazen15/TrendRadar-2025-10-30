@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T05:15:45.414202+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-01-21T06:16:00.322857+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -97,11 +97,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时16分]"
         },
         {
           "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
@@ -138,11 +139,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时16分]"
         }
       ]
     }
