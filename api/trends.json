@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T12:39:03.137641+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-01-21T13:23:38.614269+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 13时23分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 13时23分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -73,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 13时23分]"
         },
         {
           "title": "微软CEO纳德拉：能源成本将决定哪些国家能赢得AI竞赛",
@@ -156,7 +157,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -167,7 +168,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -216,11 +217,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 13时23分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
