@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-01-22T12:42:02.915451+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-01-22T13:22:51.966888+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时42分]"
-        },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
           "url": "https://www.cls.cn/detail/2265232",
@@ -34,6 +20,21 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            8,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时22分]"
+        },
+        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -43,6 +44,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时33分 ~ 09时05分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 13时22分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -57,11 +71,12 @@
             18,
             26,
             25,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时22分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -78,17 +93,29 @@
           "time_info": "[00时27分 ~ 09时05分]"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
           "source": "财联社热门",
           "ranks": [
             9,
-            5,
-            3
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时18分 ~ 12时42分]"
+          "time_info": "[09时05分 ~ 13时22分]"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时22分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -106,40 +133,16 @@
           "time_info": "[01时47分 ~ 11时31分]"
         },
         {
-          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
-          "url": "https://www.cls.cn/detail/2265674",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 12时42分]"
-        },
-        {
-          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
-          "url": "https://wallstreetcn.com/articles/3763828",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 12时42分]"
-        },
-        {
           "title": "xAI工程师因泄密被马斯克解雇",
           "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 13时22分]"
         },
         {
           "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
@@ -151,19 +154,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时22分]"
         },
         {
           "title": "黄仁勋谈AI如何改变经济",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
+        },
+        {
+          "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
+          "url": "https://flash.jin10.com/detail/20260122130616187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -211,6 +226,17 @@
           "time_info": "[00时27分 ~ 01时47分]"
         },
         {
+          "title": "如何看待「不会用 AI 的家庭将是新寒门」的观点，AI 改变教育模式的当下，该如何在学习中合理使用 AI？",
+          "url": "https://www.zhihu.com/question/1997376980287513267",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
+        },
+        {
           "title": "黄仁勋称AI时代蓝领更吃香，水管工、电工能拿六位数薪水",
           "url": "https://wallstreetcn.com/livenews/3041458",
           "source": "华尔街见闻-快讯",
@@ -233,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时17分]"
-        },
-        {
-          "title": "如何看待「不会用 AI 的家庭将是新寒门」的观点，AI 改变教育模式的当下，该如何在学习中合理使用 AI？",
-          "url": "https://www.zhihu.com/question/1997376980287513267",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "美国白宫AI主管David Sacks：美国（各州凳面）“拼凑的”AI制度威胁到创新。 儿童（数据隐私）安全必须是监管框架的一部分。",
@@ -274,7 +289,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -380,8 +395,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时22分]"
         }
       ]
     }
