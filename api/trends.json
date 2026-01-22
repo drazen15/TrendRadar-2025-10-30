@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T04:18:29.239787+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-01-23T05:16:06.535225+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时16分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3042302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -92,11 +104,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 05时16分]"
         }
       ]
     },
@@ -109,11 +122,12 @@
           "url": "https://flash.jin10.com/detail/20260123040242165800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时16分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
@@ -168,7 +182,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         }
@@ -184,11 +198,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 05时16分]"
         }
       ]
     }
