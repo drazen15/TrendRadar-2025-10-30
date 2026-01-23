@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T20:30:43.763497+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2026-01-23T21:37:56.352725+08:00",
+  "total_titles_processed": 2072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时05分 ~ 20时30分]"
+          "appearance_count": 16,
+          "time_info": "[09时05分 ~ 21时37分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -70,8 +70,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 20时30分]"
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 21时37分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 20时30分]"
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 21时37分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -179,6 +179,18 @@
           "time_info": "[16时20分 ~ 18时17分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时37分]"
+        },
+        {
           "title": "咻咻满COS翻唱icantwait",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
           "source": "bilibili 热搜",
@@ -215,17 +227,6 @@
           "time_info": "[17时22分 ~ 18时17分]"
         },
         {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时30分]"
-        },
-        {
           "title": "影视飓风说荣耀Air是独一档",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%AF%B4%E8%8D%A3%E8%80%80Air%E6%98%AF%E7%8B%AC%E4%B8%80%E6%A1%A3%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -257,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "刘润说终于有硅谷抄不来的AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%A6%E8%AF%B4%E7%BB%88%E4%BA%8E%E6%9C%89%E7%A1%85%E8%B0%B7%E6%8A%84%E4%B8%8D%E6%9D%A5%E7%9A%84AI%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "中国变压器掐住全球AI命门",
