@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:19:06.608927+08:00",
-  "total_titles_processed": 2138,
+  "generated_at": "2026-01-23T23:18:21.267967+08:00",
+  "total_titles_processed": 2247,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时05分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时05分 ~ 23时18分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -66,11 +66,12 @@
             14,
             13,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时20分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[16时20分 ~ 23时18分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -81,11 +82,12 @@
             13,
             20,
             23,
-            24
+            24,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时20分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[15时20分 ~ 23时18分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -94,11 +96,12 @@
           "ranks": [
             19,
             16,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 23时18分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
