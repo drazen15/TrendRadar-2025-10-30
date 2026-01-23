@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T05:14:35.808835+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-01-24T06:12:47.128117+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时12分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -26,11 +26,12 @@
             8,
             5,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时12分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -41,11 +42,12 @@
             7,
             5,
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时12分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
