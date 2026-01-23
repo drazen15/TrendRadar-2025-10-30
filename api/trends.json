@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T11:27:33.275014+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-01-23T12:36:26.097649+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时36分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -152,7 +152,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
