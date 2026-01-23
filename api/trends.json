@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T12:36:26.097649+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-01-23T13:22:29.451273+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 13时22分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -144,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
+          "url": "https://www.zhihu.com/question/1997937872972505781",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "王玉雯陈星旭撒糖给AI上了一课",
