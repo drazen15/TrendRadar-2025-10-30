@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T03:11:46.317212+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-25T04:15:02.871933+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -52,8 +52,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -62,11 +62,12 @@
           "ranks": [
             30,
             29,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时15分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -94,8 +95,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时15分]"
         }
       ]
     }
