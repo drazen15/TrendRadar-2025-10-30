@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:21:08.741717+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-01-25T15:17:04.629505+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 14时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 15时17分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -35,6 +35,20 @@
           "time_info": "[00时15分 ~ 11时47分]"
         },
         {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 15时17分]"
+        },
+        {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
@@ -45,6 +59,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 09时11分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 15时17分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -80,29 +106,16 @@
           "time_info": "[01时12分 ~ 07时14分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            7,
-            2
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 14时21分]"
-        },
-        {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 15时17分]"
         },
         {
           "title": "AI为何会一本正经“胡说八道”",
@@ -110,17 +123,6 @@
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
