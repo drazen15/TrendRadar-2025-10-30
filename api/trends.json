@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T12:46:05.222505+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-01-25T13:23:17.148064+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 12时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时23分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -84,11 +84,12 @@
           "url": "https://www.cls.cn/detail/2268582",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时23分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -99,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时23分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -136,11 +137,12 @@
           "url": "https://www.zhihu.com/question/1996908423174910237",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时23分]"
         }
       ]
     }
