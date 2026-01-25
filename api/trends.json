@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:14:58.632433+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-01-25T19:12:11.680322+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 18时14分]"
+          "appearance_count": 26,
+          "time_info": "[00时15分 ~ 19时12分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -43,8 +43,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[12时45分 ~ 19时12分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时20分 ~ 19时12分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -59,22 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 18时14分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 19时12分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -122,6 +122,18 @@
           "time_info": "[01时12分 ~ 07时14分]"
         },
         {
+          "title": "帅弟弟逐渐量产 AI霸总围猎姐姐们",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%BC%9F%E5%BC%9F%E9%80%90%E6%B8%90%E9%87%8F%E4%BA%A7+AI%E9%9C%B8%E6%80%BB%E5%9B%B4%E7%8C%8E%E5%A7%90%E5%A7%90%E4%BB%AC",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时12分]"
+        },
+        {
           "title": "AI为何会一本正经“胡说八道”",
           "url": "https://www.toutiao.com/trending/7599102960605954086/",
           "source": "今日头条",
@@ -131,18 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "帅弟弟逐渐量产 AI霸总围猎姐姐们",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%BC%9F%E5%BC%9F%E9%80%90%E6%B8%90%E9%87%8F%E4%BA%A7+AI%E9%9C%B8%E6%80%BB%E5%9B%B4%E7%8C%8E%E5%A7%90%E5%A7%90%E4%BB%AC",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时14分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
