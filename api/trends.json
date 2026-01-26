@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T01:24:18.087424+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-27T02:24:21.757648+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
@@ -71,8 +71,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "中国造出全球80%的AI眼镜",
@@ -81,7 +81,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
