@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:27:36.791912+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-01-26T18:20:02.145164+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
@@ -116,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 18时20分]"
         },
         {
           "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
@@ -127,11 +127,26 @@
             7,
             4,
             12,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 18时20分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 18时20分]"
         },
         {
           "title": "大摩研究：英国受AI影响最深，岗位流失速度达国际平均水平两倍",
@@ -156,19 +171,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时50分 ~ 15时22分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 17时27分]"
         },
         {
           "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
