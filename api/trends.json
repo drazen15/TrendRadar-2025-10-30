@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:22:28.363559+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-01-26T17:27:36.791912+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -98,24 +98,12 @@
             13,
             9,
             7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 16时22分]"
-        },
-        {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
-          "ranks": [
-            7,
             4,
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 17时27分]"
         },
         {
           "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
@@ -124,11 +112,26 @@
           "ranks": [
             12,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时27分]"
+        },
+        {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时27分]"
         },
         {
           "title": "大摩研究：英国受AI影响最深，岗位流失速度达国际平均水平两倍",
@@ -164,8 +167,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时27分]"
         },
         {
           "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
@@ -197,7 +200,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -208,7 +211,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -246,11 +249,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时27分]"
         }
       ]
     }
