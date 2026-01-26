@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:39:20.763480+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-01-26T22:22:08.169277+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -107,8 +107,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时26分 ~ 21时39分]"
+          "appearance_count": 12,
+          "time_info": "[14时26分 ~ 22时22分]"
         },
         {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
@@ -161,19 +161,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时22分]"
         },
         {
-          "title": "高盛顶级贵金属交易员Binet Laisne离职。",
-          "url": "https://flash.jin10.com/detail/20260126210933742800",
-          "source": "金十数据",
+          "title": "苹果推出新款AirTag。",
+          "url": "https://wallstreetcn.com/livenews/3044055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
+          "url": "https://wallstreetcn.com/livenews/3044053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时22分"
         },
         {
           "title": "大摩研究：英国受AI影响最深，岗位流失速度达国际平均水平两倍",
@@ -198,6 +209,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时50分 ~ 15时22分]"
+        },
+        {
+          "title": "高盛顶级贵金属交易员Binet Laisne离职。",
+          "url": "https://flash.jin10.com/detail/20260126210933742800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时22分]"
         },
         {
           "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
@@ -252,7 +275,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -266,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "高盛贵金属交易主管Binet-Laisne据悉将离职",
+          "url": "https://wallstreetcn.com/livenews/3044044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "马化腾：腾讯唯一花钱投入比较多的就是AI",
