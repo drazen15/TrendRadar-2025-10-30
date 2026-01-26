@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T12:50:29.282803+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-01-26T13:28:44.622976+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -34,19 +34,6 @@
           "time_info": "[00时16分 ~ 09时09分]"
         },
         {
-          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
-          "url": "https://www.cls.cn/detail/2268686",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时09分]"
-        },
-        {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
           "url": "https://www.zhihu.com/question/1998457273891120214",
           "source": "知乎",
@@ -55,7 +42,21 @@
             14,
             12,
             13,
-            18
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时28分]"
+        },
+        {
+          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
+          "url": "https://www.cls.cn/detail/2268686",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 14,
@@ -94,11 +95,23 @@
           "url": "https://www.toutiao.com/trending/7599137251189800969/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时28分]"
+        },
+        {
+          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
+          "url": "https://www.cls.cn/detail/2269090",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时28分]"
         },
         {
           "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
@@ -113,26 +126,15 @@
           "time_info": "[11时50分 ~ 12时50分]"
         },
         {
-          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
-          "url": "https://www.cls.cn/detail/2269090",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
           "title": "网友刚买iPhoneAir第二天就降价2000元",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%88%9A%E4%B9%B0iPhoneAir%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%B0%B1%E9%99%8D%E4%BB%B72000%E5%85%83%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时28分]"
         },
         {
           "title": "马来西亚林吉特升至2018年以来最强 受经济增长、AI乐观情绪所提振",
