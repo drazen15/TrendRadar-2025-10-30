@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T20:31:53.044660+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-01-26T21:39:20.763480+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -96,6 +96,21 @@
           "time_info": "[00时16分 ~ 09时09分]"
         },
         {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时26分 ~ 21时39分]"
+        },
+        {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
           "url": "https://m.thepaper.cn/newsDetail_forward_31819507",
           "source": "澎湃新闻",
@@ -139,30 +154,26 @@
           "time_info": "[12时50分 ~ 17时27分]"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时26分 ~ 20时31分]"
-        },
-        {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
           "url": "https://wallstreetcn.com/articles/3764155",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时39分]"
+        },
+        {
+          "title": "高盛顶级贵金属交易员Binet Laisne离职。",
+          "url": "https://flash.jin10.com/detail/20260126210933742800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "21时39分"
         },
         {
           "title": "大摩研究：英国受AI影响最深，岗位流失速度达国际平均水平两倍",
@@ -212,6 +223,18 @@
           "time_info": "[12时50分 ~ 13时28分]"
         },
         {
+          "title": "iPhoneAir暴降后卖断货",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir%E6%9A%B4%E9%99%8D%E5%90%8E%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时39分]"
+        },
+        {
           "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
           "url": "https://www.cls.cn/detail/2269055",
           "source": "财联社热门",
@@ -221,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "英伟达(NVDA.O)与Coreweave(CRWV.O)达成协议，加速AI工厂的建设。Coreweave将采用英伟达的CPU和存储平台。",
+          "url": "https://flash.jin10.com/detail/20260126210142025800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "贝伦贝格：2026年AI仍将是股价关键驱动因素",
@@ -251,18 +285,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "iPhoneAir暴降后卖断货",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir%E6%9A%B4%E9%99%8D%E5%90%8E%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
