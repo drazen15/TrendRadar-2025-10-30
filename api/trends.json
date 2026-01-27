@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T06:16:22.690870+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-01-28T07:15:30.773736+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时16分]"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -160,17 +171,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时16分]"
-        },
-        {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
@@ -179,8 +179,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -191,8 +191,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
         }
       ]
     },
