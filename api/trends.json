@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T05:12:33.711345+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-01-28T06:16:22.690870+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -28,19 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -148,7 +149,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         }
@@ -166,8 +167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -178,8 +179,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -190,8 +191,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时16分]"
         }
       ]
     },
