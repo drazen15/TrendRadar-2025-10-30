@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:22:37.826067+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-01-28T14:25:26.506035+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时25分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -54,8 +54,36 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时25分]"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 14时25分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时25分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -67,20 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时22分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -130,16 +144,15 @@
           "time_info": "[02时27分 ~ 04时16分]"
         },
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            6
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时25分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -154,15 +167,15 @@
           "time_info": "[11时29分 ~ 12时38分]"
         },
         {
-          "title": "马云：孩子不应和AI比拼计算和记忆",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
           "ranks": [
-            23
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -171,7 +184,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -182,7 +195,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -210,11 +223,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时25分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -322,8 +336,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时25分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -334,11 +348,12 @@
             4,
             15,
             9,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 14时25分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
