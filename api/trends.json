@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T01:27:02.670130+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-01-29T02:27:30.248325+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1999415789258826467",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -37,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -59,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -68,11 +69,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -82,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时27分]"
         }
       ]
     }
