@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T17:34:49.577964+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2026-01-29T18:29:08.312386+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时26分 ~ 09时14分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 18时29分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -47,18 +59,6 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 17时34分]"
-        },
-        {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
@@ -69,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 18时29分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -140,17 +140,6 @@
           "time_info": "[12时01分 ~ 16时29分]"
         },
         {
-          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
-          "url": "https://wallstreetcn.com/livenews/3046285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "阿里平头哥新款AI芯片正式亮相！",
           "url": "https://www.cls.cn/detail/2273750",
           "source": "财联社热门",
@@ -160,8 +149,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时29分]"
+        },
+        {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
