@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T01:27:47.627945+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-01-31T02:31:29.302174+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -26,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
