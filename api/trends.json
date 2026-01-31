@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T03:15:53.034653+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-02-01T04:16:51.925453+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -48,8 +48,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时16分]"
+        },
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     },
@@ -65,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -76,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -88,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "爆火AI助手数小时两度改名",
@@ -98,11 +109,12 @@
           "ranks": [
             27,
             26,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时16分]"
         }
       ]
     }
