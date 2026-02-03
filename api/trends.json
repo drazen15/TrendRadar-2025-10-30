@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T19:28:35.727669+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-02-03T20:39:17.199887+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 20时39分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 20时39分]"
         },
         {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
@@ -114,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 20时39分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -153,6 +153,18 @@
           "time_info": "[13时44分 ~ 15时37分]"
         },
         {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时39分]"
+        },
+        {
           "title": "汇丰：AI投资收益更利好股票而非信贷",
           "url": "https://flash.jin10.com/detail/20260203181313892800",
           "source": "金十数据",
@@ -162,18 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
-        },
-        {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时28分]"
         },
         {
           "title": "中国信通院AI原生智算集群服务测试验证工作启动",
