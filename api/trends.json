@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-02-05T00:37:03.453815+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:39:56.862257+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时39分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时39分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -37,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时39分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -48,19 +50,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时39分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时39分]"
+        },
+        {
+          "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
+          "url": "https://wallstreetcn.com/articles/3764903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
@@ -69,7 +83,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
         },
@@ -80,7 +94,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
         }
