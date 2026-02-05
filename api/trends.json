@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:33:43.282900+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-02-05T19:30:41.973811+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[07时19分 ~ 19时30分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -34,6 +34,19 @@
           "time_info": "[00时36分 ~ 07时20分]"
         },
         {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 19时30分]"
+        },
+        {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
@@ -47,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 18时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 19时30分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -87,19 +100,6 @@
           "time_info": "[01时39分 ~ 09时14分]"
         },
         {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 18时33分]"
-        },
-        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -110,6 +110,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 05时26分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时49分 ~ 19时30分]"
+        },
+        {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时30分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -139,30 +165,15 @@
           "time_info": "[09时14分 ~ 16时33分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
+          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            10,
-            7
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 18时33分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 19时30分]"
         },
         {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
@@ -174,6 +185,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
+          "url": "https://www.zhihu.com/question/2002683972233159732",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时30分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -247,17 +270,6 @@
           "time_info": "[06时18分 ~ 07时20分]"
         },
         {
-          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 15时44分]"
-        },
-        {
           "title": "特斯拉AI总监：自动驾驶只需摄像头",
           "url": "https://www.toutiao.com/trending/7602861709359087667/",
           "source": "今日头条",
@@ -278,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
-          "url": "https://www.zhihu.com/question/2002683972233159732",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
@@ -392,8 +393,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时30分]"
         },
         {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
@@ -423,8 +424,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时30分]"
         }
       ]
     },
