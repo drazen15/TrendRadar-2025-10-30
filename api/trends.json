@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T15:34:26.277635+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-02-08T16:23:55.544570+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 15时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 16时23分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -32,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 15时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 16时23分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -84,11 +84,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时23分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -113,8 +114,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -128,6 +129,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 07时21分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时23分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -166,15 +179,15 @@
           "time_info": "14时42分"
         },
         {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "16时23分"
         },
         {
           "title": "“AI.com”域名卖出7000万美元",
@@ -186,8 +199,20 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时23分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时34分]"
+          "time_info": "[14时42分 ~ 16时23分]"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -199,17 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时49分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时34分]"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
@@ -232,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "吃上AI主理人的席了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8AAI%E4%B8%BB%E7%90%86%E4%BA%BA%E7%9A%84%E5%B8%AD%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
