@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T17:24:09.724386+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-02-08T18:18:29.308209+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 17时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 18时18分]"
+        },
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 18时18分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -32,8 +47,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 17时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 18时18分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -53,19 +68,17 @@
           "time_info": "[01时20分 ~ 15时34分]"
         },
         {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7,
-            5,
             4,
-            2
+            10,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时28分 ~ 17时24分]"
+          "time_info": "[13时57分 ~ 18时18分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -93,17 +106,17 @@
           "time_info": "[07时21分 ~ 15时34分]"
         },
         {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            10,
+            9,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时34分 ~ 18时18分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -120,29 +133,17 @@
           "time_info": "[00时20分 ~ 07时21分]"
         },
         {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 17时24分]"
-        },
-        {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时18分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -156,6 +157,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 07时21分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 18时18分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -181,18 +194,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 14时42分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 17时24分]"
         },
         {
           "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
@@ -303,11 +304,12 @@
           "url": "https://wallstreetcn.com/articles/3765244",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时18分]"
         }
       ]
     }
