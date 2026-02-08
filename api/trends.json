@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T02:25:13.593639+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-02-09T03:19:31.626472+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -72,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -84,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -94,11 +94,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -120,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -131,8 +132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
@@ -140,11 +141,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -155,8 +157,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时19分]"
         }
       ]
     }
