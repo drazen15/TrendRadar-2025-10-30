@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T01:20:08.142623+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2026-02-09T02:25:13.593639+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -60,30 +60,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
-        },
-        {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -94,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -103,7 +93,19 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -118,8 +120,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -129,19 +131,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -152,8 +155,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时25分]"
         }
       ]
     }
