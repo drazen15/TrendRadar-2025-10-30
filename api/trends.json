@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T15:54:29.077843+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-02-10T16:41:39.024252+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -98,8 +98,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时43分 ~ 15时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时43分 ~ 16时41分]"
         },
         {
           "title": "Seedance2.0 对AI应用意味着什么？",
@@ -107,11 +107,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 16时41分]"
+        },
+        {
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时54分]"
+          "time_info": "[12时26分 ~ 16时41分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -125,15 +138,16 @@
           "time_info": "[01时43分 ~ 02时46分]"
         },
         {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 16时41分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -148,16 +162,17 @@
           "time_info": "[01时43分 ~ 07时30分]"
         },
         {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
-          "source": "财联社热门",
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
           "ranks": [
-            11,
-            5
+            8,
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 16时41分]"
         },
         {
           "title": "AI短剧",
@@ -169,18 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时07分 ~ 14时08分]"
-        },
-        {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时54分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -230,6 +233,17 @@
           "time_info": "[06时28分 ~ 07时30分]"
         },
         {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
           "url": "https://www.cls.cn/detail/2285182",
           "source": "财联社热门",
@@ -247,11 +261,12 @@
           "url": "https://www.cls.cn/detail/2285290",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[14时07分 ~ 16时41分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -316,7 +331,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
