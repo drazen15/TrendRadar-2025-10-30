@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T06:32:16.210016+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-02-11T07:31:52.190053+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时31分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -29,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时31分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -41,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时31分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -63,11 +64,12 @@
           "ranks": [
             14,
             9,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时55分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[02时55分 ~ 07时31分]"
         },
         {
           "title": "AI制图骗局",
@@ -88,11 +90,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 05时36分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 07时31分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
