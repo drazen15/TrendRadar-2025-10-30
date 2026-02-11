@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T20:46:34.155070+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-02-11T22:11:47.854830+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时26分 ~ 20时46分]"
+          "appearance_count": 11,
+          "time_info": "[09时26分 ~ 22时11分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -42,8 +42,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 20时46分]"
+          "appearance_count": 10,
+          "time_info": "[12时23分 ~ 22时11分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时04分 ~ 22时11分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -59,18 +72,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 09时26分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时04分 ~ 20时46分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -143,8 +144,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时02分 ~ 20时46分]"
+          "appearance_count": 21,
+          "time_info": "[01时02分 ~ 22时11分]"
         },
         {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
@@ -173,6 +174,21 @@
           "time_info": "[01时02分 ~ 06时32分]"
         },
         {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时49分 ~ 22时11分]"
+        },
+        {
           "title": "AI制图骗局",
           "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -186,19 +202,15 @@
           "time_info": "[03时57分 ~ 05时36分]"
         },
         {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            13,
-            11,
-            7,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 20时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -220,7 +232,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -251,6 +263,17 @@
           "time_info": "[12时24分 ~ 14时04分]"
         },
         {
+          "title": "Shopify(SHOP.N)高管：自2025年1月起，通过AI搜索进入Shopify商店的订单增长了15倍。",
+          "url": "https://flash.jin10.com/detail/20260211215429751800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "银河证券：看好AI视频工具对影视院线行业的长期赋能",
           "url": "https://wallstreetcn.com/livenews/3053323",
           "source": "华尔街见闻-快讯",
@@ -260,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "MiniMax最新大模型M2.5上线Agent平台。 （硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3053783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
@@ -334,6 +368,18 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时11分]"
+        },
+        {
           "title": "AI应用成为最强主线引爆传媒链",
           "url": "https://www.toutiao.com/trending/7604674566330449983/",
           "source": "今日头条",
@@ -384,7 +430,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -411,24 +457,13 @@
           "time_info": "14时04分"
         },
         {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "UP主自己的AI音乐春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%B7%B1%E7%9A%84AI%E9%9F%B3%E4%B9%90%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -450,7 +485,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -480,8 +515,32 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时11分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
@@ -489,21 +548,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时46分]"
+          "time_info": "[20时46分 ~ 22时11分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
@@ -512,7 +581,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
