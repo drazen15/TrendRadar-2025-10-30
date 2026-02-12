@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T20:43:44.831169+08:00",
-  "total_titles_processed": 1769,
+  "generated_at": "2026-02-12T22:06:19.321321+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 22时06分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时16分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 22时06分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -69,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 20时43分]"
+          "appearance_count": 23,
+          "time_info": "[00时55分 ~ 22时06分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -101,8 +101,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 20时43分]"
+          "appearance_count": 23,
+          "time_info": "[00时55分 ~ 22时06分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -196,6 +196,17 @@
           "time_info": "[04时31分 ~ 05时27分]"
         },
         {
+          "title": "从严整治传播无AI标识虚假信息问题",
+          "url": "https://www.toutiao.com/trending/7605939603580898867/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时06分]"
+        },
+        {
           "title": "男子用AI一夜赚够一线房首付",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98",
           "source": "百度热搜",
@@ -227,6 +238,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://www.cls.cn/detail/2288655",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时06分]"
         },
         {
           "title": "严厉打击无AI标识虚假不实信息",
@@ -274,15 +297,16 @@
           "time_info": "15时02分"
         },
         {
-          "title": "从严整治传播无AI标识虚假信息问题",
-          "url": "https://www.toutiao.com/trending/7605939603580898867/",
-          "source": "今日头条",
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时06分]"
         },
         {
           "title": "五角大楼施压AI巨头 力求在机密网络无限制部署大模型",
@@ -296,6 +320,19 @@
           "time_info": "09时19分"
         },
         {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时06分]"
+        },
+        {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
           "url": "https://flash.jin10.com/detail/20260212011336268800",
           "source": "金十数据",
@@ -305,17 +342,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://www.cls.cn/detail/2288655",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "深圳：开展智能网联汽车“车路云一体化”应用试点 加大“智造+智驾”汽车全产业链AI赋能力度",
@@ -376,17 +402,6 @@
           "time_info": "17时39分"
         },
         {
-          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
-          "url": "https://wallstreetcn.com/articles/3765558",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
           "url": "https://wallstreetcn.com/livenews/3054196",
           "source": "华尔街见闻-快讯",
@@ -435,18 +450,6 @@
           "time_info": "[12时16分 ~ 13时59分]"
         },
         {
-          "title": "哈尔滨小哥为早回家过年找AI替班",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时43分]"
-        },
-        {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3053889",
           "source": "华尔街见闻-快讯",
@@ -457,6 +460,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时52分]"
+        },
+        {
+          "title": "用AI解锁吴克群将军令",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时06分]"
+        },
+        {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时06分]"
+        },
+        {
+          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
+          "url": "https://www.cls.cn/detail/2288560",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时06分]"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -482,29 +521,6 @@
           "time_info": "[12时16分 ~ 13时59分]"
         },
         {
-          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
-          "url": "https://www.zhihu.com/question/2004603319558042744",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 20时43分]"
-        },
-        {
-          "title": "用AI解锁吴克群将军令",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 20时43分]"
-        },
-        {
           "title": "港股收盘：恒生指数收跌0.86%，恒生科技指数指收跌1.65%。AI概念股、半导体股走高，智谱涨超28%，Minimax-WP涨超14%，兆易创新涨超20%，澜起科技涨5.56%。",
           "url": "https://wallstreetcn.com/livenews/3054346",
           "source": "华尔街见闻-快讯",
@@ -527,15 +543,15 @@
           "time_info": "18时37分"
         },
         {
-          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
-          "url": "https://www.cls.cn/detail/2288560",
-          "source": "财联社热门",
+          "title": "科技记者古尔曼：预计苹果将在未来几周内推出iPhone 17e以及M4芯片版iPad Air",
+          "url": "https://wallstreetcn.com/livenews/3054549",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时06分"
         },
         {
           "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
@@ -602,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "科技记者马克 · 古尔曼：据苹果(AAPL.O)零售渠道员工消息，iPhone 16e手机的库存基本已经告罄，现款iPad Air也出现了短缺现象。预计苹果将在未来几周内推出iPhone 17e以及M4芯片版iPad Air。",
+          "url": "https://flash.jin10.com/detail/20260212212804046800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "智谱盘中持续拉升，日内涨超30%，公司上调AI编程订阅套餐价格并将推出新模型。",
@@ -745,19 +772,6 @@
           "time_info": "[06时22分 ~ 18时37分]"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 20时43分]"
-        },
-        {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
@@ -768,6 +782,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时55分 ~ 09时19分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时55分 ~ 22时06分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
