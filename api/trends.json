@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T13:59:56.594171+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-02-12T15:02:59.893740+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -48,17 +48,30 @@
           "time_info": "[00时55分 ~ 05时27分]"
         },
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 15时02分]"
+        },
+        {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
           "source": "澎湃新闻",
           "ranks": [
             16,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -68,11 +81,12 @@
             14,
             15,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -84,18 +98,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时55分 ~ 09时19分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 13时59分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -111,6 +113,17 @@
           "time_info": "[09时19分 ~ 13时59分]"
         },
         {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 15时02分]"
+        },
+        {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
           "url": "https://flash.jin10.com/detail/20260212035557254800",
           "source": "金十数据",
@@ -123,15 +136,15 @@
           "time_info": "[04时31分 ~ 05时27分]"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
+          "title": "男子用AI一夜赚够一线房首付",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98",
+          "source": "百度热搜",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
@@ -151,7 +164,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -179,16 +192,28 @@
           "time_info": "[09时19分 ~ 12时16分]"
         },
         {
+          "title": "铠侠：AI在数据中心和企业领域的需求推动NAND市场增长。 受数据中心强劲需求驱动，预计NAND需求将超出供应。",
+          "url": "https://wallstreetcn.com/livenews/3054268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "让AI集体翻车的洗车难题",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 15时02分]"
         },
         {
           "title": "五角大楼施压AI巨头 力求在机密网络无限制部署大模型",
@@ -244,7 +269,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -286,6 +311,20 @@
           "time_info": "[12时16分 ~ 13时59分]"
         },
         {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时02分]"
+        },
+        {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3053889",
           "source": "华尔街见闻-快讯",
@@ -296,19 +335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时52分]"
-        },
-        {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 13时59分]"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -340,9 +366,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "蚂蚁阿福开启春节支付宝红包活动 AI医疗行业有望再度站上风口",
+          "url": "https://www.cls.cn/detail/2287850",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "跟喜人学过年AI夸人公式",
@@ -384,7 +421,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -398,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "千问6天AI订单量破1.2亿单",
@@ -480,8 +528,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -503,11 +551,12 @@
             4,
             5,
             15,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -519,19 +568,48 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 15时02分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "软银集团：将以软银公司股份为抵押的保证金贷款增加了4000亿日元。 2025年4月至12月期间，因投资OpenAI录得2.8万亿日元投资收益。 愿景基金二号（Vision Fund 2）在2025年4月至12月期间，因投资OpenAI录得170亿美元投资收益。",
+          "url": "https://wallstreetcn.com/livenews/3054264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "15时02分"
+        },
+        {
+          "title": "软银集团：在2025年4月至12月期间，对OpenAI的投资录得2.8万亿日元的投资收益。",
+          "url": "https://flash.jin10.com/detail/20260212143638598800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
