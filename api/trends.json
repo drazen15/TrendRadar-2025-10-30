@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T03:37:10.718833+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-02-14T04:28:19.133018+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -62,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -83,11 +83,12 @@
           "ranks": [
             17,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -97,11 +98,12 @@
             24,
             21,
             19,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
@@ -109,11 +111,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时28分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -121,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时28分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月13日",
@@ -135,8 +139,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时36分 ~ 04时28分]"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -207,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时36分 ~ 04时28分]"
         },
         {
           "title": "Gemini3深度思考模型重磅升级",
@@ -244,11 +248,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时28分]"
         }
       ]
     },
@@ -265,8 +270,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时28分]"
         }
       ]
     }
