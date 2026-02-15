@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T19:16:31.416915+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-15T20:31:23.332238+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -32,6 +32,22 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时19分 ~ 16时23分]"
+        },
+        {
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时50分 ~ 20时31分]"
         },
         {
           "title": "本周，“AI颠覆一切”的狼终于来了",
@@ -86,8 +102,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 20时31分]"
         },
         {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
@@ -97,11 +113,12 @@
             9,
             10,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 20时31分]"
         },
         {
           "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
@@ -116,21 +133,6 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
-          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
-          "url": "https://wallstreetcn.com/articles/3765753",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时50分 ~ 19时16分]"
-        },
-        {
           "title": "AI女副总因反色情被炒鱿鱼",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
           "source": "贴吧",
@@ -139,11 +141,12 @@
             8,
             9,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 19时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 20时31分]"
         },
         {
           "title": "如何看待导演郭帆与 AI 短片《牌子》的互动，是否标志着 AI 创作正被主流影视圈所接受？",
@@ -195,11 +198,12 @@
             12,
             13,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 19时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 20时31分]"
         },
         {
           "title": "当AI可以预测你和TA的婚后十年",
@@ -340,6 +344,31 @@
           "time_info": "[12时14分 ~ 15时33分]"
         },
         {
+          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 20时31分]"
+        },
+        {
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时31分]"
+        },
+        {
           "title": "“AI交易”的关键变量：服务业敞口越高，AI颠覆风险越大，“AI基建”最有利",
           "url": "https://wallstreetcn.com/articles/3765743",
           "source": "华尔街见闻",
@@ -352,27 +381,28 @@
           "time_info": "[18时18分 ~ 19时16分]"
         },
         {
-          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
-          "source": "澎湃新闻",
+          "title": "你认为 AI 编程未来真的会取代程序员吗？",
+          "url": "https://www.zhihu.com/question/1962444467077358693",
+          "source": "知乎",
           "ranks": [
-            20,
-            18
+            12,
+            14,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "time_info": "[17时23分 ~ 20时31分]"
         },
         {
-          "title": "AI遇上最强春节档 Token通胀已成必然？",
-          "url": "https://www.cls.cn/detail/2290600",
-          "source": "财联社热门",
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "20时31分"
         },
         {
           "title": "中国AI春节前为何杀疯了",
@@ -395,18 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "你认为 AI 编程未来真的会取代程序员吗？",
-          "url": "https://www.zhihu.com/question/1962444467077358693",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 19时16分]"
         },
         {
           "title": "Clawdbot 开始雇佣人类，如何看待人类为 AI 打工，是噱头还是终结者降临？",
@@ -433,6 +451,17 @@
           "time_info": "[12时14分 ~ 13时51分]"
         },
         {
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "今年的年货都是AI一手包办",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%B9%B4%E8%B4%A7%E9%83%BD%E6%98%AFAI%E4%B8%80%E6%89%8B%E5%8C%85%E5%8A%9E%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -442,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "美国AI大牛盛赞杨丽萍千问节目",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E7%89%9B%E7%9B%9B%E8%B5%9E%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%8D%83%E9%97%AE%E8%8A%82%E7%9B%AE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "杨丽萍67岁仍在学习AI",
@@ -478,11 +518,12 @@
           "url": "https://wallstreetcn.com/articles/3765742",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时31分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
