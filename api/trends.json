@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T20:41:51.703799+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-02-16T22:01:28.524874+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 20时41分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 22时01分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -84,6 +84,18 @@
           "time_info": "[00时19分 ~ 09时19分]"
         },
         {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 22时01分]"
+        },
+        {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
           "url": "https://www.cls.cn/detail/2290580",
           "source": "财联社热门",
@@ -94,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 20时41分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 22时01分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -123,20 +135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 20时41分]"
-        },
-        {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 20时41分]"
+          "appearance_count": 14,
+          "time_info": "[09时18分 ~ 22时01分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -153,6 +153,19 @@
           "time_info": "[00时19分 ~ 12时16分]"
         },
         {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时37分 ~ 22时01分]"
+        },
+        {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
@@ -166,17 +179,19 @@
           "time_info": "[15时47分 ~ 20时41分]"
         },
         {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
           "ranks": [
-            6,
-            4,
-            3
+            7,
+            9,
+            13,
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 22时01分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -221,20 +236,6 @@
           "time_info": "[00时19分 ~ 15时47分]"
         },
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 20时41分]"
-        },
-        {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
           "url": "https://flash.jin10.com/detail/20260215225328791800",
           "source": "金十数据",
@@ -256,11 +257,12 @@
             18,
             16,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 22时01分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -270,11 +272,23 @@
             19,
             17,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 22时01分]"
+        },
+        {
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -291,6 +305,18 @@
           "time_info": "[14时02分 ~ 17时44分]"
         },
         {
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时41分 ~ 22时01分]"
+        },
+        {
           "title": "斯坦福专家：美国正跨入“AI收获期”，2025年生产率增速有望翻倍至2.7%",
           "url": "https://wallstreetcn.com/articles/3765763",
           "source": "华尔街见闻",
@@ -300,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
-        },
-        {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 20时41分]"
         },
         {
           "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
@@ -325,6 +340,18 @@
           "time_info": "[19时35分 ~ 20时41分]"
         },
         {
+          "title": "这波三角洲AI春晚真该留到今晚看",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时01分]"
+        },
+        {
           "title": "UP主联合手搓AI春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E6%89%8B%E6%90%93AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -336,15 +363,15 @@
           "time_info": "16时37分"
         },
         {
-          "title": "这波三角洲AI春晚真该留到今晚看",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
-          "source": "bilibili 热搜",
+          "title": "德银：AI“输家”惨遭抛售的种子早在2022年就已种下",
+          "url": "https://wallstreetcn.com/livenews/3055751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "22时01分"
         },
         {
           "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
@@ -386,8 +413,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时16分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时16分 ~ 22时01分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -487,9 +514,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时01分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
