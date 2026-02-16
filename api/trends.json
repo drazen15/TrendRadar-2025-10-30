@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T22:46:01.689693+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-02-16T23:34:22.006555+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时47分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[15时47分 ~ 23时34分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时19分 ~ 22时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 23时34分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时34分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -119,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时19分 ~ 22时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 23时34分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -148,8 +148,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时18分 ~ 22时46分]"
+          "appearance_count": 17,
+          "time_info": "[09时18分 ~ 23时34分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -205,8 +205,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时47分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[15时47分 ~ 23时34分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -220,8 +220,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时47分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[15时47分 ~ 23时34分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -286,11 +286,12 @@
           "ranks": [
             12,
             15,
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时41分 ~ 22时46分]"
+          "appearance_count": 8,
+          "time_info": "[18时41分 ~ 23时34分]"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -307,6 +308,19 @@
           "time_info": "[14时02分 ~ 17时44分]"
         },
         {
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时34分]"
+        },
+        {
           "title": "斯坦福专家：美国正跨入“AI收获期”，2025年生产率增速有望翻倍至2.7%",
           "url": "https://wallstreetcn.com/articles/3765763",
           "source": "华尔街见闻",
@@ -316,18 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
-        },
-        {
-          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
-          "url": "https://wallstreetcn.com/livenews/3055756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时46分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -397,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "报道：美国国防部接近与Anthropic切断关系，双方就AI军事用途存分歧",
+          "url": "https://wallstreetcn.com/livenews/3055750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
@@ -416,8 +429,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时16分 ~ 22时46分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 23时34分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -508,18 +521,30 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 22时46分]"
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 23时34分]"
+        },
+        {
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
