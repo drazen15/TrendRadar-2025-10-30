@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:04:18.210794+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-02-19T23:41:00.568823+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 22时04分]"
+          "appearance_count": 14,
+          "time_info": "[12时12分 ~ 23时41分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 22时04分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 23时41分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -112,8 +112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时19分 ~ 22时04分]"
+          "appearance_count": 15,
+          "time_info": "[09时19分 ~ 23时41分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -132,8 +132,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 22时04分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 23时41分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -152,8 +152,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 22时04分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 23时41分]"
+        },
+        {
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时41分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -221,15 +232,15 @@
           "time_info": "01时49分"
         },
         {
-          "title": "日盟警告:字节AI别来沾边",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
-          "source": "贴吧",
+          "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
+          "url": "https://wallstreetcn.com/livenews/3056681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "23时41分"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -259,11 +270,12 @@
           "url": "https://www.zhihu.com/question/2002102277314454310",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时41分]"
         },
         {
           "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
@@ -439,7 +451,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -453,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "印度AI峰会2月18日要点总结",
@@ -535,8 +558,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时04分]"
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 23时41分]"
         },
         {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
@@ -662,6 +685,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek神回复",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         }
       ]
     }
