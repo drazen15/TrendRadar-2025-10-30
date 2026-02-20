@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T21:55:59.384145+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-02-20T22:35:52.077742+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[14时44分 ~ 21时55分]"
         },
         {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时35分]"
+        },
+        {
           "title": "澎湃AI晚新闻丨2026年2月19日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
           "source": "澎湃新闻",
@@ -62,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时08分 ~ 21时55分]"
+          "appearance_count": 15,
+          "time_info": "[12时08分 ~ 22时35分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -77,21 +90,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时42分 ~ 21时55分]"
-        },
-        {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时55分]"
+          "appearance_count": 25,
+          "time_info": "[00时42分 ~ 22时35分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -105,8 +105,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时42分 ~ 21时55分]"
+          "appearance_count": 25,
+          "time_info": "[00时42分 ~ 22时35分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -130,6 +130,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 09时15分]"
+        },
+        {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时35分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -159,16 +171,17 @@
           "time_info": "[17时33分 ~ 20时38分]"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            13,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时55分]"
+          "time_info": "[20时37分 ~ 22时35分]"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -228,18 +241,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时44分 ~ 04时24分]"
-        },
-        {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时55分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -303,6 +304,31 @@
           "time_info": "[16时32分 ~ 17时33分]"
         },
         {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时35分]"
+        },
+        {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 22时35分]"
+        },
+        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
@@ -314,18 +340,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 14时44分]"
-        },
-        {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时55分]"
         },
         {
           "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
@@ -341,16 +355,16 @@
           "time_info": "[12时08分 ~ 14时44分]"
         },
         {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12
+            23,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时55分]"
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "如何看待微软预测 18 个月内白领将被 AI 取代？",
@@ -362,6 +376,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时35分]"
+        },
+        {
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "印度AI峰会有多魔幻",
@@ -386,28 +422,6 @@
           "time_info": "12时08分"
         },
         {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
           "url": "https://wallstreetcn.com/livenews/3056681",
           "source": "华尔街见闻-快讯",
@@ -428,23 +442,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
-        },
-        {
-          "title": "港股“AI新秀”板块逆势狂飙",
-          "url": "https://www.toutiao.com/trending/7608932922317344275/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -458,6 +461,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 12时08分]"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -518,6 +532,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时24分]"
+        },
+        {
+          "title": "OpenAI智能音箱定价可能在200至300美元之间。",
+          "url": "https://flash.jin10.com/detail/20260220220448240800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "OpenAI的200人团队正在开发人工智能设备，包括一款智能音箱。",
+          "url": "https://flash.jin10.com/detail/20260220220314778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
