@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T09:13:25.966784+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-02-21T11:59:46.493807+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -53,11 +53,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -69,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -78,11 +79,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -90,11 +92,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -140,8 +143,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 09时13分]"
+          "appearance_count": 5,
+          "time_info": "[06时17分 ~ 11时59分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -204,7 +207,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -212,11 +215,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 11时59分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -225,11 +229,23 @@
           "ranks": [
             3,
             11,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 09时13分]"
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 11时59分]"
+        },
+        {
+          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
+          "url": "https://flash.jin10.com/detail/20260221100811881800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -237,11 +253,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 11时59分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -266,6 +283,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "实测Gemini 3.1 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     }
