@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:20:13.269460+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2026-02-22T02:23:23.347194+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -52,11 +52,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     },
@@ -72,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     }
