@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T19:16:26.386008+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-02-21T20:29:33.806108+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 20时29分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 20时29分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -102,8 +102,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 20时29分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -184,22 +184,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时16分]"
-        },
-        {
-          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
-          "url": "https://flash.jin10.com/detail/20260221184309452800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时29分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -213,6 +203,18 @@
           "time_info": "01时31分"
         },
         {
+          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
+          "url": "https://flash.jin10.com/detail/20260221184309452800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时29分]"
+        },
+        {
           "title": "美媒嘲讽印度AI峰会如同闹剧",
           "url": "https://www.toutiao.com/trending/7609182148255305259/",
           "source": "今日头条",
@@ -223,6 +225,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时27分 ~ 18时18分]"
+        },
+        {
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
@@ -284,6 +297,18 @@
           "time_info": "[11时59分 ~ 16时21分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时29分]"
+        },
+        {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
           "url": "https://wallstreetcn.com/livenews/3057134",
           "source": "华尔街见闻-快讯",
@@ -311,17 +336,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 11时59分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -361,11 +375,12 @@
             3,
             7,
             9,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时59分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时59分 ~ 20时29分]"
         }
       ]
     }
