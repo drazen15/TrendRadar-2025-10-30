@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:15:56.388351+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-02-22T07:17:46.732863+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时17分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时17分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -68,11 +68,12 @@
             7,
             11,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时17分]"
         }
       ]
     },
@@ -88,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时17分]"
         }
       ]
     }
