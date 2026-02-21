@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T02:23:23.347194+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-02-22T03:19:11.738251+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时19分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
           "url": "https://www.cls.cn/detail/2291896",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时19分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -53,11 +54,12 @@
           "ranks": [
             22,
             10,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时19分]"
         }
       ]
     },
@@ -73,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时19分]"
         }
       ]
     }
