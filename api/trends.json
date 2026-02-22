@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T03:19:21.647096+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-02-23T04:18:03.183789+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -69,11 +69,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         }
       ]
     },
@@ -89,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -100,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         }
       ]
     },
@@ -116,11 +117,12 @@
           "ranks": [
             12,
             17,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         }
       ]
     }
