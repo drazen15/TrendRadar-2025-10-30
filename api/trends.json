@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:19:18.080075+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-02-22T23:17:50.372330+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -16,21 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 22时19分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时09分 ~ 22时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 23时17分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -44,8 +31,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 23时17分]"
+        },
+        {
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 23时17分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -77,8 +77,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 23时17分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -90,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时19分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时17分]"
         },
         {
           "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
@@ -114,8 +114,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 23时17分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -127,6 +127,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时17分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -141,18 +154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 15时31分]"
-        },
-        {
-          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2008005974397576586",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -202,8 +203,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 22时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 23时17分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -216,8 +217,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时31分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[15时31分 ~ 23时17分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -266,8 +267,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时09分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 23时17分]"
         }
       ]
     },
@@ -293,11 +294,12 @@
             17,
             24,
             27,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 22时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 23时17分]"
         }
       ]
     }
