@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T14:01:22.021224+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-02-23T15:10:55.947212+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 15时10分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -65,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 15时10分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -93,8 +93,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 15时10分]"
         },
         {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
@@ -112,11 +112,23 @@
           "url": "https://wallstreetcn.com/articles/3765976",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 15时10分]"
+        },
+        {
+          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
+          "url": "https://www.zhihu.com/question/2008217541886043272",
+          "source": "知乎",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "15时10分"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -148,9 +160,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "AI骗局三件套涌入老年机",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%AA%97%E5%B1%80%E4%B8%89%E4%BB%B6%E5%A5%97%E6%B6%8C%E5%85%A5%E8%80%81%E5%B9%B4%E6%9C%BA%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     },
@@ -167,8 +190,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 15时10分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
