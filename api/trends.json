@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T19:18:26.366299+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-02-25T19:45:52.519821+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时48分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[07时48分 ~ 19时45分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时50分 ~ 19时18分]"
+          "appearance_count": 18,
+          "time_info": "[02时50分 ~ 19时45分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -78,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时58分 ~ 19时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时58分 ~ 19时45分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -92,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[12时12分 ~ 19时45分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -183,6 +183,19 @@
           "time_info": "[00时11分 ~ 06时25分]"
         },
         {
+          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时45分]"
+        },
+        {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
           "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
@@ -193,18 +206,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 02时05分]"
-        },
-        {
-          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时18分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -301,17 +302,6 @@
           "time_info": "[17时54分 ~ 17时55分]"
         },
         {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        },
-        {
           "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
           "url": "https://wallstreetcn.com/livenews/3058363",
           "source": "华尔街见闻-快讯",
@@ -358,6 +348,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 04时26分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时45分]"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -706,6 +708,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时45分]"
+        },
+        {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
           "url": "https://flash.jin10.com/detail/20260225040115362800",
           "source": "金十数据",
@@ -715,18 +730,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "韩女子用ChatGPT策划连环杀人案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时18分]"
         },
         {
           "title": "OpenAI赢得诉讼：法官驳回xAI关于员工及代码被窃的指控",
