@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:54:06.169556+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-02-25T15:47:41.035012+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时50分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[02时50分 ~ 15时47分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时58分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时58分 ~ 15时47分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -104,6 +104,29 @@
           "time_info": "[00时11分 ~ 09时22分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 15时47分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 15时47分]"
+        },
+        {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
           "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
@@ -119,29 +142,6 @@
           "time_info": "[00时11分 ~ 06时25分]"
         },
         {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时48分 ~ 14时54分]"
-        },
-        {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时48分 ~ 14时54分]"
-        },
-        {
           "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
           "url": "https://wallstreetcn.com/articles/3766059",
           "source": "华尔街见闻",
@@ -152,8 +152,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时48分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 15时47分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时47分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -168,17 +181,16 @@
           "time_info": "[00时11分 ~ 02时05分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            7
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时47分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -192,18 +204,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时22分 ~ 13时56分]"
-        },
-        {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时54分]"
         },
         {
           "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
@@ -502,8 +502,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 15时47分]"
         },
         {
           "title": "AI助盲眼镜成出行神器",
@@ -513,8 +513,30 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 15时47分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
+          "url": "https://www.cls.cn/detail/2294145",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "美联储理事库克：AI已经被纳入美联储的预测。",
