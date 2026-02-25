@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:06:27.789973+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-26T04:27:55.319693+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时27分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时27分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时27分]"
         },
         {
           "title": "AI短片 马上好",
@@ -47,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时27分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -62,8 +64,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时27分]"
         },
         {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
