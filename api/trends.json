@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T12:12:53.424444+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-02-25T13:56:18.728291+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -28,6 +28,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时11分 ~ 06时25分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时50分 ~ 13时56分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -53,22 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 12时12分]"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时50分 ~ 12时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 13时56分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -126,8 +126,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 13时56分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 13时56分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -142,18 +154,6 @@
           "time_info": "[00时11分 ~ 02时05分]"
         },
         {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 12时12分]"
-        },
-        {
           "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
           "url": "https://wallstreetcn.com/articles/3766059",
           "source": "华尔街见闻",
@@ -163,8 +163,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 13时56分]"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时48分 ~ 12时12分]"
+          "time_info": "[09时22分 ~ 13时56分]"
         },
         {
           "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
@@ -202,16 +215,16 @@
           "time_info": "[02时05分 ~ 03时45分]"
         },
         {
-          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
-          "url": "https://wallstreetcn.com/articles/3766046",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 13时56分]"
         },
         {
           "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
@@ -258,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -311,15 +335,16 @@
           "time_info": "[06时25分 ~ 07时48分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时56分]"
         },
         {
           "title": "Mosaic预计2026年资本开支大约15亿美元。",
@@ -439,19 +464,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 13时56分]"
         },
         {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
+          "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
+          "url": "https://www.cls.cn/detail/2294083",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "13时56分"
         },
         {
           "title": "美联储理事库克：AI已经被纳入美联储的预测。",
@@ -463,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "AI如果让90%的人都失业会怎样",
+          "url": "https://www.toutiao.com/trending/7610619092361285139/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
@@ -515,7 +551,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -529,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "研究机构：AI代理正掏空白领市场",
+          "url": "https://www.toutiao.com/trending/7610586211895217714/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "汤森路透股价大涨，该公司取得AI突破，提及与Anthropic的合作",
