@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T03:38:39.615219+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-02-27T04:27:44.171788+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -51,8 +51,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时27分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -68,29 +81,17 @@
           "time_info": "[01时52分 ~ 03时38分]"
         },
         {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时38分]"
-        },
-        {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
           "url": "https://wallstreetcn.com/livenews/3059712",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时27分]"
         },
         {
           "title": "科技巨头2万亿美元豪赌AI",
@@ -198,7 +199,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
