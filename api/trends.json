@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:34:44.188451+08:00",
-  "total_titles_processed": 1993,
+  "generated_at": "2026-02-27T23:32:17.373832+08:00",
+  "total_titles_processed": 2095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时40分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[15时40分 ~ 23时32分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时13分 ~ 22时34分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 23时32分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时05分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时05分 ~ 23时32分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -137,8 +137,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时47分 ~ 22时34分]"
+          "appearance_count": 26,
+          "time_info": "[00时47分 ~ 23时32分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -220,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -487,9 +498,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "避险情绪占主导且Block裁员加剧AI担忧，美股走低",
+          "url": "https://flash.jin10.com/detail/20260227230411009800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "Block飙涨20%，创2024年2月份以来最大盘中涨幅，该公司宣布裁员将近一半。 信用卡概念股走低，Block大规模裁员计划引发人工智能（AI）顾虑。 美国运通跌约5%，Capital One跌4.7%，Synchrony Financial跌3.9%。 Truist’s Brian Finneran告诉其客户，鉴于Block业绩和裁员安排，市场抛售一切与信用（卡）敏感的资产，鉴于白领群体的失业风险——专家们更侧重于关注美国运通。",
+          "url": "https://wallstreetcn.com/livenews/3060377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "现代汽车集团：计划从2026年起，在韩国Saemangeum地区投入约9万亿韩元，其中，4,000亿韩元建设机器人工厂，5.8万亿韩元建设AI数据中心，1万亿韩元建设氢气生产设施，1.3万亿韩元用于太阳能发电建设。据悉，该AI数据中心将安装50000块GPU，计划2029年底前完成AI数据中心和机器人工厂的建设。",
@@ -572,7 +605,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -696,7 +729,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -747,6 +780,17 @@
           "time_info": "[21时55分 ~ 22时34分]"
         },
         {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时32分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -775,7 +819,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -797,7 +841,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -824,6 +868,17 @@
           "time_info": "21时55分"
         },
         {
+          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
+          "url": "https://wallstreetcn.com/livenews/3060380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
           "url": "https://flash.jin10.com/detail/20260227213347014800",
           "source": "金十数据",
@@ -841,7 +896,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -863,7 +918,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -907,7 +962,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -918,7 +973,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -940,7 +995,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -978,24 +1033,13 @@
           "time_info": "21时55分"
         },
         {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：希望与亚马逊(AMZN.O)建立长期、深入的合作关系。",
           "url": "https://flash.jin10.com/detail/20260227215545958800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1006,7 +1050,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
