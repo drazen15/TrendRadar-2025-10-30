@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:26:42.121722+08:00",
-  "total_titles_processed": 1690,
+  "generated_at": "2026-02-27T20:38:14.790623+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 20时38分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时05分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时05分 ~ 20时38分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 20时38分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -95,6 +95,17 @@
           "time_info": "[00时47分 ~ 06时24分]"
         },
         {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时40分 ~ 20时38分]"
+        },
+        {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
           "url": "https://www.cls.cn/detail/2296619",
           "source": "财联社热门",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时13分 ~ 16时32分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 19时26分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -132,11 +132,12 @@
             16,
             23,
             17,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 19时26分]"
+          "appearance_count": 22,
+          "time_info": "[00时47分 ~ 20时38分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -147,11 +148,12 @@
             15,
             19,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 20时38分]"
         },
         {
           "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
