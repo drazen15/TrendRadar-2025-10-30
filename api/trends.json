@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:40:48.914445+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-02-27T16:32:35.929982+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 15时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 16时32分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -63,8 +63,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时32分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时32分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时32分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -76,35 +101,12 @@
             11,
             18,
             14,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 15时40分]"
-        },
-        {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时40分]"
-        },
-        {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 16时32分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -116,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 16时32分]"
         },
         {
           "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
@@ -130,6 +132,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 14时42分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时32分]"
+        },
+        {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            5,
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 16时32分]"
         },
         {
           "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
@@ -146,43 +177,15 @@
           "time_info": "[12时05分 ~ 15时40分]"
         },
         {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            5,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时40分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时40分]"
-        },
-        {
           "title": "AI的未来，马克思已经预言了？",
           "url": "https://wallstreetcn.com/articles/3766318",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时32分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -366,6 +369,28 @@
           "time_info": "12时05分"
         },
         {
+          "title": "恒生指数收盘涨0.95%，能源、资源、AI以及创新药板块不同程度反弹",
+          "url": "https://wallstreetcn.com/livenews/3060118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
           "url": "https://wallstreetcn.com/livenews/3059768",
           "source": "华尔街见闻-快讯",
@@ -469,8 +494,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 16时32分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
