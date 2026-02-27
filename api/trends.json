@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:55:02.046917+08:00",
-  "total_titles_processed": 1906,
+  "generated_at": "2026-02-27T22:34:44.188451+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时40分 ~ 21时55分]"
+          "appearance_count": 11,
+          "time_info": "[15时40分 ~ 22时34分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 21时55分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 22时34分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时05分 ~ 21时55分]"
+          "appearance_count": 15,
+          "time_info": "[12时05分 ~ 22时34分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -78,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 21时55分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 22时34分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -133,11 +133,12 @@
             23,
             17,
             21,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时47分 ~ 21时55分]"
+          "appearance_count": 25,
+          "time_info": "[00时47分 ~ 22时34分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -480,6 +481,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "现代汽车集团：计划从2026年起，在韩国Saemangeum地区投入约9万亿韩元，其中，4,000亿韩元建设机器人工厂，5.8万亿韩元建设AI数据中心，1万亿韩元建设氢气生产设施，1.3万亿韩元用于太阳能发电建设。据悉，该AI数据中心将安装50000块GPU，计划2029年底前完成AI数据中心和机器人工厂的建设。",
           "url": "https://wallstreetcn.com/livenews/3059948",
           "source": "华尔街见闻-快讯",
@@ -560,7 +572,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 28,
+      "match_count": 39,
       "titles": [
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -585,7 +597,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -596,18 +608,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3060342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -618,7 +619,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -629,18 +630,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
-          "url": "https://wallstreetcn.com/livenews/3060341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -651,7 +641,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -662,7 +652,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -673,7 +663,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -684,7 +674,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -700,15 +690,38 @@
           "time_info": "09时13分"
         },
         {
+          "title": "据华尔街日报报道，Sam Altman（OpenAI的CEO）与美国国防部合作，研究模型是否可用。 但双方尚未签署任何协议。 Altman呼吁五角大楼与Anthropic缓和争端。",
+          "url": "https://wallstreetcn.com/livenews/3060358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "微软(MSFT.O)：新融资不会改变与OpenAI的关系。",
           "url": "https://flash.jin10.com/detail/20260227213527626800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时34分]"
         },
         {
           "title": "OpenAI：协议涵盖Tranium 3和下一代Tranium 4。",
@@ -717,9 +730,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3060341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时34分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
@@ -739,9 +764,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与美国国防部尚未签署任何协议。",
+          "url": "https://flash.jin10.com/detail/20260227220453170800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "OpenAI基金会持有的OpenAI集团股份价值升至逾1800亿美元。",
@@ -750,9 +786,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼正与美国国防部合作，探讨是否可使用相关模型。",
+          "url": "https://flash.jin10.com/detail/20260227220430471800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "软银：交易完成后对OpenAI持股比例约为13%。",
@@ -761,7 +808,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -772,7 +819,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -783,9 +830,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：对在合适的时机上市持开放态度。 希望与亚马逊建立长期、深入的关系。",
+          "url": "https://wallstreetcn.com/livenews/3060349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "OpenAI与亚马逊(AMZN.O)将开发定制模型。",
@@ -794,9 +852,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼呼吁缓和美国国防部与Anthropic之间的争端。",
+          "url": "https://flash.jin10.com/detail/20260227220219102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "OpenAI的融资包括来自软银的300亿美元。",
@@ -805,7 +874,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -816,7 +885,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -827,9 +896,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：当前的融资提供了长期发展的保障。",
+          "url": "https://flash.jin10.com/detail/20260227215950428800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "OpenAI：以7300亿美元的估值完成创纪录的1100亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "亚马逊(AMZN.O)：亚马逊将向OpenAI投资500亿美元。",
@@ -838,9 +929,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不认为美国应该对人工智能公司实施数据保护法案的威胁。",
+          "url": "https://flash.jin10.com/detail/20260227215941059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "OpenAI：已解决ChatGPT相关问题。",
@@ -871,9 +973,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：希望与亚马逊(AMZN.O)建立长期、深入的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260227215545958800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：专注于降低服务交付成本。",
+          "url": "https://flash.jin10.com/detail/20260227215455321800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
