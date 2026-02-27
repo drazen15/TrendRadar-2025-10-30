@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:42:03.047659+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-02-27T15:40:48.914445+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -31,6 +31,17 @@
           "time_info": "[00时47分 ~ 07时22分]"
         },
         {
+          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766259",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 15时40分]"
+        },
+        {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
           "url": "https://wallstreetcn.com/articles/3766225",
           "source": "华尔街见闻",
@@ -44,15 +55,16 @@
           "time_info": "[00时47分 ~ 06时24分]"
         },
         {
-          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3766259",
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 15时40分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -67,20 +79,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 14时42分]"
-        },
-        {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 15时40分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -91,8 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 15时40分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -103,8 +103,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 15时40分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -112,11 +112,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 15时40分]"
         },
         {
           "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
@@ -137,11 +138,12 @@
           "ranks": [
             11,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 15时40分]"
         },
         {
           "title": "演员王劲松发文怒斥被AI盗用",
@@ -150,11 +152,12 @@
           "ranks": [
             28,
             5,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 15时40分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -163,11 +166,23 @@
           "ranks": [
             18,
             15,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 15时40分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -450,11 +465,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 15时40分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
