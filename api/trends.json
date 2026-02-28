@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T02:21:30.138100+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-03-01T03:15:55.425463+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时15分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时15分]"
         },
         {
           "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
@@ -50,8 +50,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时15分]"
         }
       ]
     },
@@ -66,11 +66,12 @@
           "ranks": [
             28,
             17,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时15分]"
         }
       ]
     }
