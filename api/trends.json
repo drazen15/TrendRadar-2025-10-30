@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T12:49:44.819918+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-02-28T13:27:50.354683+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时27分]"
+        },
+        {
+          "title": "外媒爆料：美军想用AI攻击中国电网",
+          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时27分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时21分]"
-        },
-        {
-          "title": "外媒爆料：美军想用AI攻击中国电网",
-          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时49分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -106,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时27分]"
         },
         {
           "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
@@ -118,8 +118,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时27分]"
         },
         {
           "title": "英伟达计划推出新芯片以加快AI处理速度",
@@ -127,11 +127,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时27分]"
         },
         {
           "title": "AI提供的虚拟微信号加到了真人",
@@ -139,11 +140,39 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时27分]"
+        },
+        {
+          "title": "AI算力需求驱动光纤行业步入景气周期",
+          "url": "https://wallstreetcn.com/livenews/3060569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时27分]"
+        },
+        {
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时27分]"
         },
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -159,19 +188,6 @@
           "time_info": "[02时31分 ~ 04时20分]"
         },
         {
-          "title": "AI算力需求驱动光纤行业步入景气周期",
-          "url": "https://wallstreetcn.com/livenews/3060569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时49分]"
-        },
-        {
           "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
           "url": "https://wallstreetcn.com/livenews/3060521",
           "source": "华尔街见闻-快讯",
@@ -182,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
+        },
+        {
+          "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
+          "url": "https://www.zhihu.com/question/2009928728206149091",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时27分]"
         },
         {
           "title": "中国AI调用量超越美国",
@@ -221,30 +249,6 @@
           "time_info": "[00时31分 ~ 01时28分]"
         },
         {
-          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
-          "url": "https://www.zhihu.com/question/2010773992567481420",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时49分]"
-        },
-        {
-          "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
-          "url": "https://www.zhihu.com/question/2009928728206149091",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时49分]"
-        },
-        {
           "title": "1.3万只基金里“万里挑一”太难，AI选基悄悄来了",
           "url": "https://www.cls.cn/detail/2297571",
           "source": "财联社热门",
@@ -254,6 +258,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "印度一公司拟利用英伟达GPU构建20亿美元AI中心并上市",
+          "url": "https://wallstreetcn.com/livenews/3060601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时27分]"
         },
         {
           "title": "AI机器人能全面替代人类工种吗",
@@ -298,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
-        },
-        {
-          "title": "印度一公司拟利用英伟达GPU构建20亿美元AI中心并上市",
-          "url": "https://wallstreetcn.com/livenews/3060601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         }
       ]
     },
@@ -316,19 +321,6 @@
       "keyword_group": "chatgpt openai",
       "match_count": 14,
       "titles": [
-        {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时28分 ~ 12时49分]"
-        },
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
           "url": "https://wallstreetcn.com/articles/3766389",
@@ -341,8 +333,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时21分 ~ 12时49分]"
+          "appearance_count": 10,
+          "time_info": "[05时21分 ~ 13时27分]"
+        },
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时28分 ~ 13时27分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -362,22 +367,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时49分]"
-        },
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时27分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -385,11 +380,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时27分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -437,6 +433,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 12时49分]"
+        },
+        {
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时27分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -501,8 +509,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 13时27分]"
         }
       ]
     }
