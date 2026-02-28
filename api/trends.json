@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T15:21:30.046093+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-02-28T16:19:50.627482+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -58,19 +58,6 @@
           "time_info": "[09时08分 ~ 15时21分]"
         },
         {
-          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时21分]"
-        },
-        {
           "title": "中国AI跑出马年加速度",
           "url": "https://www.douyin.com/hot/2414159",
           "source": "抖音",
@@ -78,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 16时19分]"
         },
         {
           "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
@@ -92,8 +79,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 16时19分]"
+        },
+        {
+          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时19分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -106,6 +106,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时21分]"
+        },
+        {
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 16时19分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -122,21 +137,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时17分]"
-        },
-        {
-          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
-          "url": "https://www.zhihu.com/question/2010773992567481420",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时21分]"
         },
         {
           "title": "英伟达计划推出新芯片以加快AI处理速度",
@@ -167,6 +167,18 @@
           "time_info": "[11时47分 ~ 14时27分]"
         },
         {
+          "title": "AI冲击之下，新一轮“次贷危机”来了？",
+          "url": "https://wallstreetcn.com/articles/3766407",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时19分]"
+        },
+        {
           "title": "AI算力需求驱动光纤行业步入景气周期",
           "url": "https://wallstreetcn.com/livenews/3060569",
           "source": "华尔街见闻-快讯",
@@ -192,17 +204,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时20分]"
-        },
-        {
-          "title": "AI冲击之下，新一轮“次贷危机”来了？",
-          "url": "https://wallstreetcn.com/articles/3766407",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
@@ -300,6 +301,17 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
+          "url": "https://www.cls.cn/detail/2298037",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
           "url": "https://wallstreetcn.com/livenews/3060531",
           "source": "华尔街见闻-快讯",
@@ -331,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "默茨在中国体验AI眼镜时玩上瘾",
+          "url": "https://www.toutiao.com/trending/7611202863113011219/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -350,8 +373,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时21分 ~ 15时21分]"
+          "appearance_count": 13,
+          "time_info": "[05时21分 ~ 16时19分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -364,8 +387,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时28分 ~ 15时21分]"
+          "appearance_count": 17,
+          "time_info": "[01时28分 ~ 16时19分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -455,6 +478,19 @@
           "time_info": "[11时48分 ~ 12时49分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时19分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
           "url": "https://flash.jin10.com/detail/20260228105836118800",
           "source": "金十数据",
@@ -503,18 +539,6 @@
           "time_info": "[11时48分 ~ 12时49分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时21分]"
-        },
-        {
           "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
           "url": "https://flash.jin10.com/detail/20260228132543765800",
           "source": "金十数据",
@@ -549,7 +573,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
