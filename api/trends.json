@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:18:25.973349+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2026-03-01T23:15:44.262129+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
@@ -122,6 +122,19 @@
           "time_info": "09时24分"
         },
         {
+          "title": "荣耀发布人形机器人与“机器人手机”，押注AI硬件转型",
+          "url": "https://wallstreetcn.com/livenews/3061196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时15分]"
+        },
+        {
           "title": "美国国防部官员Emil Michael：无论是否应用人工智能（AI）技术，五角大楼在美国本土的监控行动都将是合法的。",
           "url": "https://wallstreetcn.com/livenews/3061005",
           "source": "华尔街见闻-快讯",
@@ -147,16 +160,17 @@
           "time_info": "[00时17分 ~ 06时15分]"
         },
         {
-          "title": "荣耀发布人形机器人与“机器人手机”，押注AI硬件转型",
-          "url": "https://wallstreetcn.com/livenews/3061196",
-          "source": "华尔街见闻-快讯",
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            13
+            27,
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时15分]"
         },
         {
           "title": "【荣耀CEO李健：人工智能须兼备智能度与生命感】3月1日，在2026世界移动通信大会上，荣耀CEO李健提出Augmented Human Intelligence（简称AHI）理念，以实现AI从智能度到生命感的双重跃升，让AI既有IQ，又有EQ，并创造性地将AHI理念融入其阿尔法战略落地进程中。（澎湃）",
@@ -164,18 +178,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
             17
           ],
           "is_new": false,
@@ -228,8 +230,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时17分 ~ 22时18分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 23时15分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
