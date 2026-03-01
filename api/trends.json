@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T06:15:57.603532+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-03-02T07:16:46.284228+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -29,11 +29,12 @@
           "ranks": [
             2,
             10,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时15分]"
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 07时16分]"
         }
       ]
     },
@@ -52,8 +53,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时16分]"
         }
       ]
     }
