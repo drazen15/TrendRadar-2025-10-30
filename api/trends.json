@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T13:46:29.549093+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-02T14:45:58.072060+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI短剧",
@@ -49,6 +49,28 @@
           "time_info": "[09时16分 ~ 12时06分]"
         },
         {
+          "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
+          "url": "https://flash.jin10.com/detail/20260302141521033800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "Kpler AIS追踪数据显示，中东湾和霍尔木兹海峡以东的油轮排队现象愈发严重，3月1日从霍尔木兹海峡东行的油轮数量骤减，仅观测到三艘满载原油和成品油的船只。",
+          "url": "https://flash.jin10.com/detail/20260302141104126800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "阿里巴巴AI品牌统一为千问",
           "url": "https://wallstreetcn.com/livenews/3061466",
           "source": "华尔街见闻-快讯",
@@ -66,7 +88,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
