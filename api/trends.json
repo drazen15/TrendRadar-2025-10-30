@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T21:54:58.163915+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2026-03-02T22:38:20.438806+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 21时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 22时38分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 21时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 22时38分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 21时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 22时38分]"
         },
         {
           "title": "AI短剧",
@@ -67,11 +67,12 @@
           "url": "https://www.toutiao.com/trending/7612431152581967913/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时38分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -88,15 +89,17 @@
           "time_info": "[04时17分 ~ 07时16分]"
         },
         {
-          "title": "MiniMax创始人：AI办公的机会将比编程更大",
-          "url": "https://wallstreetcn.com/livenews/3061967",
-          "source": "华尔街见闻-快讯",
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            20,
+            16,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时38分]"
         },
         {
           "title": "Anthropic正在调查Claude AI错误较高的现象。（彭博）",
@@ -132,6 +135,18 @@
           "time_info": "16时34分"
         },
         {
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时38分]"
+        },
+        {
           "title": "演员逼真到根本看不出来是AI",
           "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -150,34 +165,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
         {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
+          "title": "MiniMax创始人：AI办公的机会将比编程更大",
+          "url": "https://wallstreetcn.com/livenews/3061967",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时54分]"
-        },
-        {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
+            5,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时54分]"
+          "time_info": "[21时54分 ~ 22时38分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -256,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "苹果发布配备MagSafe充电功能的iPhone 17e及性能更强的iPad Air",
+          "url": "https://wallstreetcn.com/livenews/3061982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "刘美含吐槽5家AI答案不一样",
@@ -341,7 +354,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         }
