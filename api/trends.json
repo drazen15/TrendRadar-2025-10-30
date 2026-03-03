@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:54:27.242496+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2026-03-03T22:38:40.097092+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时19分 ~ 21时54分]"
+          "appearance_count": 16,
+          "time_info": "[09时19分 ~ 22时38分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -107,6 +107,19 @@
           "time_info": "[00时34分 ~ 15时37分]"
         },
         {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 22时38分]"
+        },
+        {
           "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
           "source": "澎湃新闻",
@@ -117,19 +130,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时42分 ~ 14时40分]"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时54分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -237,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "伊拉克开始在Rumaila（鲁迈拉）停产石油，因为储油设施已满。 将Qurna 2的石油减产45万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3062839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
@@ -368,6 +379,17 @@
           "time_info": "[06时21分 ~ 07时18分]"
         },
         {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "周一（3月2日），存储芯片与硬件供应链指数跌1.99%，报109.53点。 信息科技指数涨0.58%，报273.65点。 人工智能（AI）赢家指数涨0.65%，AI软件先驱指数涨1.19%。",
           "url": "https://wallstreetcn.com/livenews/3062169",
           "source": "华尔街见闻-快讯",
@@ -432,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "韩国AI芯片初创公司Rebellions冲击今年上市 挑战英伟达市场地位",
+          "url": "https://flash.jin10.com/detail/20260303222048402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "人大代表：年轻人不要和AI比效率",
@@ -525,7 +558,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -538,8 +571,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 22时38分]"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -554,6 +598,17 @@
           "time_info": "[05时26分 ~ 06时21分]"
         },
         {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3062254",
           "source": "华尔街见闻-快讯",
@@ -563,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
@@ -585,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
