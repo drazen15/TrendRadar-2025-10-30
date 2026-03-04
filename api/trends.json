@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T20:37:01.741046+08:00",
-  "total_titles_processed": 1922,
+  "generated_at": "2026-03-04T21:52:06.962175+08:00",
+  "total_titles_processed": 2038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 21时52分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时37分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[13时37分 ~ 21时52分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -84,11 +84,12 @@
             20,
             19,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 21时52分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -129,11 +130,23 @@
           "ranks": [
             16,
             7,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 20时37分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 21时52分]"
+        },
+        {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -254,6 +267,17 @@
           "time_info": "[04时24分 ~ 05时26分]"
         },
         {
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
+        },
+        {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3063025",
           "source": "华尔街见闻-快讯",
@@ -283,7 +307,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -492,11 +516,12 @@
             15,
             12,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 21时52分]"
         }
       ]
     }
