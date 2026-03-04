@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T21:52:06.962175+08:00",
-  "total_titles_processed": 2038,
+  "generated_at": "2026-03-04T22:33:56.610254+08:00",
+  "total_titles_processed": 2106,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             10,
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时37分 ~ 21时52分]"
+          "appearance_count": 15,
+          "time_info": "[13时37分 ~ 22时33分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -85,11 +86,12 @@
             19,
             14,
             18,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 21时52分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 22时33分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -110,6 +112,20 @@
           "time_info": "[01时36分 ~ 17时32分]"
         },
         {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 22时33分]"
+        },
+        {
           "title": "19岁天才少年做AI应用年入2亿",
           "url": "https://www.toutiao.com/trending/7612983983969668662/",
           "source": "今日头条",
@@ -124,20 +140,6 @@
           "time_info": "[05时26分 ~ 12时02分]"
         },
         {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 21时52分]"
-        },
-        {
           "title": "AI真人微短剧爆火 演员会被替代吗",
           "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
           "source": "百度热搜",
@@ -145,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 22时33分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -274,8 +276,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 22时33分]"
         },
         {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
@@ -488,8 +490,19 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌Gemini被新诉讼指控诱导用户自杀",
+          "url": "https://wallstreetcn.com/livenews/3063696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
         {
           "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
           "url": "https://wallstreetcn.com/livenews/3062902",
@@ -520,8 +533,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 21时52分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 22时33分]"
         }
       ]
     }
