@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T15:37:32.030732+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-03-05T16:31:44.319050+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -73,22 +73,24 @@
             11,
             25,
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 16时31分]"
         },
         {
           "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
           "url": "https://www.zhihu.com/question/2007415716228330401",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时31分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -146,15 +148,38 @@
           "time_info": "12时05分"
         },
         {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时31分]"
+        },
+        {
           "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
           "url": "https://wallstreetcn.com/livenews/3064319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
+          "url": "https://wallstreetcn.com/livenews/3064358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -180,17 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -293,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3064333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美军称AI工具在对伊行动中发挥关键作用",
