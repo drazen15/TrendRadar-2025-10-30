@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:57:12.117071+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-03-05T22:41:33.784256+08:00",
+  "total_titles_processed": 2048,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,17 @@
           "time_info": "[00时33分 ~ 09时17分]"
         },
         {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时41分]"
+        },
+        {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
           "url": "https://www.cls.cn/detail/2303258",
           "source": "财联社热门",
@@ -107,19 +118,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 21时57分]"
-        },
-        {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 21时57分]"
+          "appearance_count": 24,
+          "time_info": "[00时33分 ~ 22时41分]"
         },
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -131,8 +131,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 21时57分]"
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 22时41分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -380,7 +380,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
