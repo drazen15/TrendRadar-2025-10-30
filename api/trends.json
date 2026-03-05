@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T22:41:33.784256+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2026-03-05T23:43:17.976397+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
@@ -62,6 +62,17 @@
           "time_info": "[12时05分 ~ 20时40分]"
         },
         {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时43分]"
+        },
+        {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
           "url": "https://www.cls.cn/detail/2302628",
           "source": "财联社热门",
@@ -75,17 +86,6 @@
           "time_info": "[00时33分 ~ 09时17分]"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时41分]"
-        },
-        {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
           "url": "https://www.cls.cn/detail/2303258",
           "source": "财联社热门",
@@ -97,6 +97,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时37分 ~ 20时40分]"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时27分 ~ 23时43分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -118,21 +132,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 22时41分]"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时41分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 23时43分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -421,7 +422,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据The Information：截至上月末，OpenAI年化收入已超过250亿美元。",
@@ -511,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
+          "url": "https://flash.jin10.com/detail/20260305230503213800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
