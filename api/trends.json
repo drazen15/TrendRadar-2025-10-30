@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T03:29:33.177245+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-03-07T04:23:01.999191+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -63,8 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -85,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -96,8 +96,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -192,11 +192,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时23分]"
         }
       ]
     }
