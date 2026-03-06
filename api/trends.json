@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T07:46:00.717046+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-06T09:20:44.841938+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时55分 ~ 07时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 09时20分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -52,11 +52,12 @@
             21,
             22,
             25,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时55分 ~ 07时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 09时20分]"
         },
         {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
@@ -89,7 +90,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -100,7 +101,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -111,7 +112,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -141,8 +142,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
         {
           "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
           "url": "https://flash.jin10.com/detail/20260306024056758800",
