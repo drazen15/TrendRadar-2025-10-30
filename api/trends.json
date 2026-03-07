@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T13:34:13.872564+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-03-07T14:29:30.219519+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时29分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -49,6 +49,18 @@
           "time_info": "[00时31分 ~ 13时34分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 14时29分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
           "source": "百度热搜",
@@ -61,18 +73,6 @@
           "time_info": "[00时31分 ~ 09时12分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 13时34分]"
-        },
-        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -82,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 13时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 14时29分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -105,17 +105,6 @@
           "time_info": "[00时31分 ~ 13时34分]"
         },
         {
-          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
-          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时34分]"
-        },
-        {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
           "source": "澎湃新闻",
@@ -124,8 +113,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 13时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 14时29分]"
+        },
+        {
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时29分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -151,8 +152,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 13时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 14时29分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -166,18 +167,6 @@
           "time_info": "[00时31分 ~ 05时23分]"
         },
         {
-          "title": "AI眼镜助失明姑娘独立出行",
-          "url": "https://www.toutiao.com/trending/7614054710404317238/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时34分]"
-        },
-        {
           "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
           "url": "https://www.zhihu.com/question/1992302419741266883",
           "source": "知乎",
@@ -187,6 +176,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 09时12分]"
+        },
+        {
+          "title": "AI眼镜助失明姑娘独立出行",
+          "url": "https://www.toutiao.com/trending/7614054710404317238/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 14时29分]"
         },
         {
           "title": "TESnaiyou 假赛",
