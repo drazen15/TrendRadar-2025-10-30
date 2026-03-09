@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T22:56:12.861624+08:00",
-  "total_titles_processed": 1921,
+  "generated_at": "2026-03-09T23:51:20.143209+08:00",
+  "total_titles_processed": 2008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时09分 ~ 22时56分]"
+          "appearance_count": 16,
+          "time_info": "[12时09分 ~ 23时51分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -110,6 +110,32 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时09分 ~ 23时51分]"
+        },
+        {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时37分 ~ 23时51分]"
+        },
+        {
           "title": "AI对老师的影响",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -126,30 +152,6 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时09分 ~ 22时56分]"
-        },
-        {
-          "title": "小片片解读AI神作牌子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时37分 ~ 22时56分]"
-        },
-        {
           "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
           "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
           "source": "澎湃新闻",
@@ -161,6 +163,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时52分 ~ 16时35分]"
+        },
+        {
+          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
+          "url": "https://www.zhihu.com/question/2014268583652320290",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时51分]"
         },
         {
           "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
@@ -177,28 +191,17 @@
           "time_info": "[13时52分 ~ 17时40分]"
         },
         {
-          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
-          "url": "https://www.zhihu.com/question/2014268583652320290",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时56分]"
-        },
-        {
           "title": "yilai加入BLG无畏契约",
           "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时56分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时51分]"
         },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
@@ -206,11 +209,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时56分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时51分]"
         },
         {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
@@ -248,6 +252,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时40分 ~ 19时30分]"
+        },
+        {
+          "title": "高中生评测M4 iPad Air",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%AF%84%E6%B5%8BM4%20iPad%20Air",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "网易“龙虾”LobsterAI 发布新版，接入企业微信、QQ、飞书、钉钉",
