@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T13:53:04.639091+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-03-09T14:52:09.481521+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 14时52分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -51,11 +51,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 14时52分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -82,6 +83,18 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
+          "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
+          "url": "https://www.cls.cn/detail/2306525",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时52分]"
+        },
+        {
           "title": "AI对老师的影响",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -98,18 +111,6 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
-          "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
-          "url": "https://www.cls.cn/detail/2306525",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 13时53分]"
-        },
-        {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
           "url": "https://wallstreetcn.com/articles/3766992",
           "source": "华尔街见闻",
@@ -118,8 +119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 14时52分]"
         },
         {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
@@ -129,19 +130,56 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 14时52分]"
         },
         {
           "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
           "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 14时52分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 14时52分]"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 14时52分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 14时52分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -167,40 +205,6 @@
           "time_info": "[00时18分 ~ 03时18分]"
         },
         {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时53分]"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 13时53分]"
-        },
-        {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
           "title": "王一博Mai合影",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9AMai%E5%90%88%E5%BD%B1%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -218,7 +222,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
