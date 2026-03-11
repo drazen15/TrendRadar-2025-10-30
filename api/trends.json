@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T00:42:10.000076+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-12T01:43:24.264507+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时43分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -26,8 +26,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时43分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时43分]"
         },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -41,37 +52,40 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
-        },
-        {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时43分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时43分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时43分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -81,19 +95,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时43分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
@@ -102,7 +105,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         }
