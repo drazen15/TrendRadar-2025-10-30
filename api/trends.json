@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T17:34:51.497993+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-11T18:32:07.568354+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -32,6 +32,34 @@
           "time_info": "[00时48分 ~ 12时02分]"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 18时32分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时41分 ~ 18时32分]"
+        },
+        {
           "title": "高校出手,AI龙虾被禁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
           "source": "贴吧",
@@ -40,11 +68,28 @@
             12,
             13,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 17时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时48分 ~ 18时32分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            10,
+            23,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 18时32分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -55,26 +100,36 @@
             12,
             20,
             21,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 17时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时48分 ~ 18时32分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9,
-            7,
-            6,
-            4
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时42分 ~ 17时34分]"
+          "time_info": "[15时38分 ~ 18时32分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时32分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -88,18 +143,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时24分 ~ 09时12分]"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时41分 ~ 17时34分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -116,42 +159,16 @@
           "time_info": "[01时39分 ~ 06时20分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            10,
-            23,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 17时34分]"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 17时34分]"
-        },
-        {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时34分]"
+          "time_info": "[17时34分 ~ 18时32分]"
         },
         {
           "title": "AI龙虾卸载潮,299元上门收尸",
@@ -196,17 +213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
@@ -303,6 +309,18 @@
           "time_info": "[06时20分 ~ 09时12分]"
         },
         {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时32分]"
+        },
+        {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
           "url": "https://wallstreetcn.com/livenews/3067481",
           "source": "华尔街见闻-快讯",
@@ -349,6 +367,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "据Business Insider：特斯拉加码类AI智能体项目，XAI的Macrohard项目陷入停滞。",
+          "url": "https://flash.jin10.com/detail/20260311180922364800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
           "url": "https://flash.jin10.com/detail/20260311035704540800",
           "source": "金十数据",
@@ -391,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
-          "url": "https://www.toutiao.com/trending/7615866634636365339/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         }
       ]
     },
