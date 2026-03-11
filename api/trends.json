@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-11T22:02:30.574232+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-03-11T22:49:45.089405+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时31分 ~ 22时49分]"
+        },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
           "url": "https://wallstreetcn.com/articles/3767089",
@@ -21,6 +35,19 @@
           "time_info": "[00时48分 ~ 07时20分]"
         },
         {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时38分 ~ 22时49分]"
+        },
+        {
           "title": "两会现场 我问了AI这样一个问题",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
           "source": "百度热搜",
@@ -30,20 +57,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时48分 ~ 12时02分]"
-        },
-        {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 22时02分]"
         },
         {
           "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
@@ -59,17 +72,17 @@
           "time_info": "[14时41分 ~ 20时39分]"
         },
         {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时38分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时49分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -85,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[12时02分 ~ 22时49分]"
         },
         {
           "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
@@ -105,19 +118,6 @@
           "time_info": "[13时42分 ~ 18时32分]"
         },
         {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时34分 ~ 22时02分]"
-        },
-        {
           "title": "高校出手,AI龙虾被禁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
           "source": "贴吧",
@@ -132,8 +132,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时48分 ~ 22时02分]"
+          "appearance_count": 27,
+          "time_info": "[00时48分 ~ 22时49分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -149,8 +149,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时48分 ~ 22时02分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 22时49分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -166,6 +166,18 @@
           "time_info": "[04时24分 ~ 09时12分]"
         },
         {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时49分]"
+        },
+        {
           "title": "工信部提醒AI养虾安全风险",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
           "source": "bilibili 热搜",
@@ -178,18 +190,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时39分 ~ 06时20分]"
-        },
-        {
-          "title": "AI龙虾爆火,大神在线答疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时02分]"
         },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -248,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "一只龙虾如何搅动整个AI圈",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%AA%E9%BE%99%E8%99%BE%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E6%95%B4%E4%B8%AAAI%E5%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
@@ -354,6 +365,19 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时49分]"
+        },
+        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -366,16 +390,16 @@
           "time_info": "[06时20分 ~ 09时12分]"
         },
         {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
+          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
+          "source": "澎湃新闻",
           "ranks": [
-            25,
-            26
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时02分]"
+          "time_info": "[22时01分 ~ 22时49分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -411,17 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 09时12分]"
-        },
-        {
-          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
@@ -477,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "引入AI不是开除员工的挡箭牌",
