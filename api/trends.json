@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T02:43:12.187888+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-12T03:37:44.500021+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -42,17 +42,6 @@
           "time_info": "[00时41分 ~ 01时43分]"
         },
         {
-          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
-          "url": "https://wallstreetcn.com/articles/3767211",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
-        },
-        {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
           "source": "澎湃新闻",
@@ -61,8 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -74,8 +63,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -86,8 +75,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -97,8 +86,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
+        },
+        {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 00时42分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
