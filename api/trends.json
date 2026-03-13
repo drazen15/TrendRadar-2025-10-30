@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T21:55:03.477569+08:00",
-  "total_titles_processed": 1929,
+  "generated_at": "2026-03-13T22:38:01.054862+08:00",
+  "total_titles_processed": 2014,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时39分 ~ 21时55分]"
+          "appearance_count": 12,
+          "time_info": "[15时39分 ~ 22时38分]"
         },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -56,11 +56,12 @@
             17,
             14,
             30,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时15分 ~ 21时55分]"
+          "appearance_count": 18,
+          "time_info": "[09时15分 ~ 22时38分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -134,11 +135,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 21时55分]"
+          "appearance_count": 4,
+          "time_info": "[21时54分 ~ 22时38分]"
         },
         {
           "title": "揭秘龙虾AI智能体",
@@ -214,7 +216,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -486,9 +488,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 为什么还不发布？",
+          "url": "https://www.zhihu.com/question/2014783631814580088",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
         }
       ]
     },
