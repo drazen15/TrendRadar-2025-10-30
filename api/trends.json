@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:39:18.824235+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-03-15T16:27:56.314792+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -55,11 +55,12 @@
             12,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -117,8 +118,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时27分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -126,11 +127,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时27分]"
         },
         {
           "title": "xAI核心团队基本跑光",
@@ -157,8 +159,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 15时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 16时27分]"
         }
       ]
     }
