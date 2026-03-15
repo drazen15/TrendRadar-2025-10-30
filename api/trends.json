@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T12:26:27.040286+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-03-15T14:02:25.265466+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时02分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -53,11 +53,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时02分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -92,9 +93,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "xAI核心团队跑光 马斯克致歉",
+          "url": "https://www.toutiao.com/trending/7617270651551747634/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "xAI核心团队基本跑光",
@@ -103,7 +137,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
@@ -120,9 +154,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 14时02分]"
         }
       ]
     }
