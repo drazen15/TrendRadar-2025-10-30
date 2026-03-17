@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:38:03.785128+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2026-03-17T20:51:36.287184+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -43,8 +43,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 20时51分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -104,11 +104,12 @@
             19,
             2,
             1,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 20时51分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -121,8 +122,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 09时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 20时51分]"
         },
         {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
@@ -213,6 +214,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "英国承诺加速AI应用以提振经济增长",
           "url": "https://flash.jin10.com/detail/20260317065413762800",
           "source": "金十数据",
@@ -277,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
@@ -792,8 +815,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时49分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 20时51分]"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
