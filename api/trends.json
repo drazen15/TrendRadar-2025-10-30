@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-03-19T06:49:57.605544+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-03-19T07:24:53.576676+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
-          "url": "https://www.zhihu.com/question/2017627475413262735",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
-        },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
           "url": "https://www.cls.cn/detail/2316633",
@@ -30,8 +16,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时24分]"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时24分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -43,20 +42,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时24分]"
         },
         {
-          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
-          "url": "https://wallstreetcn.com/articles/3767836",
-          "source": "华尔街见闻",
+          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
+          "url": "https://www.zhihu.com/question/2017627475413262735",
+          "source": "知乎",
           "ranks": [
-            7,
-            8
+            1,
+            2,
+            3,
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时24分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -65,22 +67,12 @@
           "ranks": [
             5,
             4,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
-        },
-        {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时24分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -90,11 +82,23 @@
             27,
             13,
             12,
-            21
+            21,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 07时24分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时24分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -107,19 +111,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时27分]"
-        },
-        {
-          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
-          "url": "https://wallstreetcn.com/livenews/3072722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时24分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -127,11 +120,35 @@
           "source": "抖音",
           "ranks": [
             16,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 07时24分]"
+        },
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
+          "url": "https://wallstreetcn.com/livenews/3072722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时24分]"
         },
         {
           "title": "短剧演员谈被AI替代",
@@ -208,7 +225,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         }
@@ -226,8 +243,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时24分]"
         }
       ]
     },
