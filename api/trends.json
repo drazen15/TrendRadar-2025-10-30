@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-21T09:12:42.413845+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-03-21T11:58:07.756748+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时12分]"
-        },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
           "url": "https://www.cls.cn/detail/2319626",
@@ -32,16 +20,30 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时58分]"
+        },
+        {
           "title": "配音圈集体声讨,抵制AI盗声",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时58分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -57,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时58分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -145,6 +147,17 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
+          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
+          "url": "https://www.zhihu.com/question/2017644548151616976",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
           "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
           "url": "https://wallstreetcn.com/livenews/3074229",
           "source": "华尔街见闻-快讯",
@@ -171,11 +184,12 @@
             16,
             9,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时30分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时30分 ~ 11时58分]"
         }
       ]
     }
