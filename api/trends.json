@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:21:49.627875+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-21T09:12:42.413845+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时12分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -35,11 +36,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时12分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -51,11 +53,12 @@
             10,
             12,
             13,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时12分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -69,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时12分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -80,11 +83,12 @@
             13,
             14,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时12分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -170,8 +174,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时30分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时30分 ~ 09时12分]"
         }
       ]
     }
