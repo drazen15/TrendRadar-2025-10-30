@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T11:58:07.756748+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-03-21T13:05:35.938538+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时05分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -39,11 +40,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时05分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -56,11 +58,12 @@
             12,
             13,
             18,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时05分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -151,11 +154,12 @@
           "url": "https://www.zhihu.com/question/2017644548151616976",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时05分]"
         },
         {
           "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
@@ -188,8 +192,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时30分 ~ 11时58分]"
+          "appearance_count": 13,
+          "time_info": "[01时30分 ~ 13时05分]"
         }
       ]
     }
