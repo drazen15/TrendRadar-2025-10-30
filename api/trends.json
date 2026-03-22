@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T22:20:59.154802+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-03-22T23:18:56.054061+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时12分 ~ 23时18分]"
         },
         {
           "title": "季冠霖发文抵制AI",
@@ -67,8 +67,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 22时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 23时18分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -80,11 +80,12 @@
             26,
             27,
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 22时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 23时18分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -139,6 +140,18 @@
           "time_info": "[15时33分 ~ 19时17分]"
         },
         {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时18分]"
+        },
+        {
           "title": "AI演员签约官宣",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E7%AD%BE%E7%BA%A6%E5%AE%98%E5%AE%A3%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -188,17 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时33分 ~ 16时24分]"
-        },
-        {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时20分]"
         },
         {
           "title": "用AI写作能暴富吗",
