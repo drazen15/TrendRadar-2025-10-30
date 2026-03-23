@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T18:45:20.784739+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-03-23T19:38:54.882153+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -139,6 +139,18 @@
           "time_info": "16时49分"
         },
         {
+          "title": "AI短剧付费后竟然变成PPT",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时38分]"
+        },
+        {
           "title": "世界周刊之当AI决定扣动扳机",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E5%BD%93AI%E5%86%B3%E5%AE%9A%E6%89%A3%E5%8A%A8%E6%89%B3%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -164,6 +176,17 @@
           "time_info": "[16时49分 ~ 18时45分]"
         },
         {
+          "title": "霍启刚形象被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时38分]"
+        },
+        {
           "title": "阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。",
           "url": "https://wallstreetcn.com/livenews/3074809",
           "source": "华尔街见闻-快讯",
@@ -173,28 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "AI短剧付费后竟然变成PPT",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "霍启刚形象被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "A股AI应用概念股多数走弱，天地在线跌停，卓易信息跌超8%，生意宝、真视通、创业黑马、新开普跌幅居前。",
@@ -225,8 +226,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时21分 ~ 18时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时21分 ~ 19时38分]"
         }
       ]
     }
