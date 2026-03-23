@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T05:28:59.384174+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-24T06:29:21.739871+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
+          "url": "https://flash.jin10.com/detail/20260324052732928800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -116,11 +127,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 06时29分]"
         }
       ]
     }
