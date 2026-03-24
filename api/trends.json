@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T13:55:10.660788+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-03-24T14:55:00.760720+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 14时55分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -36,11 +36,23 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 14时55分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 14时55分]"
         },
         {
           "title": "国有六大行AIC全部落地，银行系扩容至9家",
@@ -190,8 +202,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 14时55分]"
         }
       ]
     }
