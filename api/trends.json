@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T14:55:00.760720+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-03-24T15:49:51.892312+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -24,11 +24,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -40,19 +41,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时49分]"
         },
         {
           "title": "国有六大行AIC全部落地，银行系扩容至9家",
@@ -88,6 +90,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 03时44分]"
+        },
+        {
+          "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260324153218445800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "苹果将于6月召开年度全球开发者大会 料将发布一系列AI功能",
@@ -134,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
+          "url": "https://www.zhihu.com/question/2019761369977767358",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -202,8 +226,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 14时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 15时49分]"
         }
       ]
     }
