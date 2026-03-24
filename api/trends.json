@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-03-24T17:46:47.195338+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-03-24T18:42:54.446007+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 17时46分]"
-        },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
           "url": "https://www.cls.cn/detail/2322334",
@@ -29,11 +15,27 @@
             7,
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 17时46分]"
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 18时42分]"
+        },
+        {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 18时42分]"
         },
         {
           "title": "普通人如何制作AI视频",
@@ -55,11 +57,12 @@
             4,
             6,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时46分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时42分]"
         },
         {
           "title": "国有六大行AIC全部落地，银行系扩容至9家",
@@ -114,7 +117,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -136,9 +139,22 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
+          "url": "https://www.zhihu.com/question/2019761369977767358",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时42分]"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -153,19 +169,6 @@
           "time_info": "[12时10分 ~ 13时55分]"
         },
         {
-          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
-          "url": "https://www.zhihu.com/question/2019761369977767358",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时46分]"
-        },
-        {
           "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
           "url": "https://flash.jin10.com/detail/20260324052732928800",
           "source": "金十数据",
@@ -176,6 +179,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时25分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时42分]"
         },
         {
           "title": "Meta挖角AI初创公司Dreamer团队",
@@ -189,6 +203,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "“去人化”的AI影视 你还会看吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%BB%E4%BA%BA%E5%8C%96%E2%80%9D%E7%9A%84AI%E5%BD%B1%E8%A7%86+%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%9C%8B%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "港股收评：恒指收涨2.79% 新消费概念、AI应用股持续走强",
           "url": "https://flash.jin10.com/detail/20260324161539220800",
           "source": "金十数据",
@@ -198,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -228,7 +242,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -285,11 +299,12 @@
           "ranks": [
             11,
             12,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 17时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时48分 ~ 18时42分]"
         }
       ]
     }
