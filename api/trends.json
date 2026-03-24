@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T15:49:51.892312+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-03-24T16:41:31.496707+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时41分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -41,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时41分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -50,11 +51,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 16时41分]"
         },
         {
           "title": "国有六大行AIC全部落地，银行系扩容至9家",
@@ -98,7 +100,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -126,6 +128,18 @@
           "time_info": "[12时10分 ~ 13时55分]"
         },
         {
+          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
+          "url": "https://www.zhihu.com/question/2019761369977767358",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
+        },
+        {
           "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
           "url": "https://flash.jin10.com/detail/20260324052732928800",
           "source": "金十数据",
@@ -149,15 +163,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
-          "url": "https://www.zhihu.com/question/2019761369977767358",
-          "source": "知乎",
+          "title": "港股收评：恒指收涨2.79% 新消费概念、AI应用股持续走强",
+          "url": "https://flash.jin10.com/detail/20260324161539220800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时41分"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -226,8 +240,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 15时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 16时41分]"
         }
       ]
     }
