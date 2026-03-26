@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T18:44:51.127712+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-03-26T19:43:34.999618+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 18时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 19时43分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -37,6 +37,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时44分 ~ 09时25分]"
+        },
+        {
+          "title": "博鳌论坛上AI成为讨论焦点",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%E4%B8%8AAI%E6%88%90%E4%B8%BA%E8%AE%A8%E8%AE%BA%E7%84%A6%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时43分]"
         },
         {
           "title": "金融AI领跑者讯兔科技（Alpha派）完成近2亿A轮融资，携手战略伙伴共建产业生态",
@@ -59,17 +71,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "博鳌论坛上AI成为讨论焦点",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%E4%B8%8AAI%E6%88%90%E4%B8%BA%E8%AE%A8%E8%AE%BA%E7%84%A6%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "中国禁止AI公司Manus两名高管离境？外交部回应",
@@ -248,7 +249,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -293,8 +294,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 18时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 19时43分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -335,8 +336,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 18时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 19时43分]"
         }
       ]
     }
