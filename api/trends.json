@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T00:20:34.030074+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-03-27T01:54:45.646202+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时54分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时54分]"
         },
         {
           "title": "Xero与Anthropic达成多年合作伙伴关系，Xero称，合作将把Claude的人工智能直接接入Xero，并把Xero的财务数据和工具引入Claude.ai。",
@@ -51,11 +51,12 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时54分]"
         }
       ]
     },
@@ -85,11 +86,12 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时54分]"
         }
       ]
     }
