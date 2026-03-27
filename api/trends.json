@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T07:24:08.477119+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-03-27T09:25:28.815448+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时25分]"
         },
         {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
@@ -38,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -113,11 +114,12 @@
             11,
             12,
             13,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时25分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -177,11 +179,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时20分 ~ 07时24分]"
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 09时25分]"
         }
       ]
     },
