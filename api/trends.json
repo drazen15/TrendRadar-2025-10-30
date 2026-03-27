@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T06:23:38.703504+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-03-28T07:24:52.453858+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -89,11 +89,12 @@
             15,
             28,
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -117,8 +118,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时23分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时24分]"
         },
         {
           "title": "警惕AI“过度谄媚”",
