@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:45:06.145066+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-28T03:37:02.061184+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -39,8 +26,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -50,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -70,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -82,11 +84,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -94,11 +97,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 03时37分]"
         }
       ]
     }
