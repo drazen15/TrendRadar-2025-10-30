@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T17:45:48.884854+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-03-27T18:39:58.728198+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,22 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 18时39分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            5,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时27分 ~ 17时45分]"
+          "time_info": "[14时07分 ~ 18时39分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -47,18 +61,20 @@
           "time_info": "[00时20分 ~ 09时25分]"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            10,
-            5,
-            1
+            12,
+            18,
+            13,
+            26,
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时07分 ~ 17时45分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 18时39分]"
         },
         {
           "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
@@ -71,6 +87,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时27分 ~ 16时42分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时39分]"
         },
         {
           "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
@@ -86,19 +113,16 @@
           "time_info": "[12时27分 ~ 16时42分]"
         },
         {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            12,
-            18,
-            13,
-            26,
-            27
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 17时45分]"
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时39分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -106,22 +130,23 @@
           "source": "微博",
           "ranks": [
             4,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 18时39分]"
         },
         {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 18时39分]"
         },
         {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
@@ -133,28 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
@@ -209,7 +212,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
