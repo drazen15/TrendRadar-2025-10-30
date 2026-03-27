@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T00:44:36.187608+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-03-28T01:43:11.631246+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -59,41 +60,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
           "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "Naiyou终身禁赛",
           "url": "https://www.douyin.com/hot/2446027",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         }
       ]
     }
