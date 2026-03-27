@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:36:26.396018+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-03-27T20:43:08.526515+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时07分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时07分 ~ 20时43分]"
+        },
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 20时43分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -59,6 +71,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 09时25分]"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 20时43分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -89,18 +113,6 @@
           "time_info": "[16时42分 ~ 19时36分]"
         },
         {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时36分]"
-        },
-        {
           "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
           "url": "https://www.zhihu.com/question/2020423157757028308",
           "source": "知乎",
@@ -124,18 +136,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时27分 ~ 16时42分]"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时36分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -168,7 +168,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
