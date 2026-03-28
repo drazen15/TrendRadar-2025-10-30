@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:29:15.775110+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-03-28T18:23:59.048079+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,19 @@
           "time_info": "[00时44分 ~ 09时19分]"
         },
         {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 18时23分]"
+        },
+        {
           "title": "一行代码破甲,AI水军现原形",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
           "source": "贴吧",
@@ -41,8 +54,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时44分 ~ 17时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时44分 ~ 18时23分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -71,20 +84,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时44分 ~ 17时29分]"
-        },
-        {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 17时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时44分 ~ 18时23分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -140,8 +141,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时23分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
