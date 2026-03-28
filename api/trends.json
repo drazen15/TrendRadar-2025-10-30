@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:52:02.736643+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-03-28T14:48:12.624007+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 13时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 14时48分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -53,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 13时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 14时48分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -119,11 +119,12 @@
           "url": "https://www.cls.cn/detail/2327720",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 14时48分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
