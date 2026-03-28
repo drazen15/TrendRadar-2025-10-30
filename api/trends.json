@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-29T02:28:57.964476+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-29T03:24:44.056102+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 9,
       "titles": [
-        {
-          "title": "一个视频了解AI常识",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
-        },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
           "url": "https://www.cls.cn/detail/2327720",
@@ -27,8 +16,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时24分]"
+        },
+        {
+          "title": "一个视频了解AI常识",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时24分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -51,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时24分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -63,8 +64,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时24分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -75,8 +76,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时24分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -86,8 +87,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时24分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
