@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:22:05.596983+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-03-28T20:35:22.092813+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时51分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时51分 ~ 20时35分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -67,11 +67,12 @@
             11,
             12,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时44分 ~ 19时22分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 20时35分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -84,11 +85,12 @@
             13,
             14,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时44分 ~ 19时22分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 20时35分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -129,11 +131,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 20时35分]"
         },
         {
           "title": "Naiyou终身禁赛",
