@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T12:12:10.983654+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-03-28T13:52:02.736643+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -19,18 +19,6 @@
           "time_info": "[00时44分 ~ 09时19分]"
         },
         {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 12时12分]"
-        },
-        {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
           "url": "https://news.ifeng.com/c/8rpvER227kd",
           "source": "凤凰网",
@@ -42,17 +30,31 @@
           "time_info": "[00时44分 ~ 09时19分]"
         },
         {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 13时52分]"
+        },
+        {
           "title": "假赛挨重拳,naiyou终身禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
             4,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 12时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 13时52分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -111,6 +113,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 04时29分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
