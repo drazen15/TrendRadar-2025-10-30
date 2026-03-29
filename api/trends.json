@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:35:54.472018+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-03-29T21:47:01.944696+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时31分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时31分 ~ 21时47分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 21时47分]"
         },
         {
           "title": "一个视频了解AI常识",
@@ -35,11 +46,26 @@
             10,
             13,
             20,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 18时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 21时47分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 21时47分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -53,8 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时23分 ~ 20时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 21时47分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -67,22 +93,12 @@
             16,
             18,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时31分 ~ 20时35分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时31分 ~ 21时47分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -100,8 +116,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时23分 ~ 20时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 21时47分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -133,20 +149,6 @@
           "time_info": "[00时23分 ~ 15时47分]"
         },
         {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时35分]"
-        },
-        {
           "title": "做量化搞 quant 会被 ai 取代吗?",
           "url": "https://www.zhihu.com/question/598668295",
           "source": "知乎",
@@ -171,6 +173,17 @@
           "time_info": "[00时23分 ~ 07时23分]"
         },
         {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时47分]"
+        },
+        {
           "title": "AI债务风险风向标：甲骨文债券CDS创新高",
           "url": "https://wallstreetcn.com/articles/3768647",
           "source": "华尔街见闻",
@@ -180,17 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
-          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
-          "url": "https://wallstreetcn.com/articles/3768659",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
