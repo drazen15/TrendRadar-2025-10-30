@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T14:08:08.573437+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-03-29T15:47:52.927648+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             4,
             9,
             10,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 15时47分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -31,11 +32,12 @@
             7,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时08分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 15时47分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -45,11 +47,12 @@
             12,
             13,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时08分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 15时47分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -58,11 +61,12 @@
           "ranks": [
             19,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时08分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 15时47分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -71,11 +75,12 @@
           "ranks": [
             21,
             22,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时08分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 15时47分]"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -107,11 +112,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时47分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -119,11 +125,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时47分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
