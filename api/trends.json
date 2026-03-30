@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T03:50:29.490233+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-31T04:36:58.289974+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             23,
             21,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时36分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -30,8 +31,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时36分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -40,7 +41,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -53,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时36分]"
         },
         {
           "title": "文科生能吃到什么 ai 红利？",
@@ -63,7 +64,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         }
@@ -80,11 +81,12 @@
           "ranks": [
             30,
             26,
-            19
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时36分]"
         }
       ]
     }
