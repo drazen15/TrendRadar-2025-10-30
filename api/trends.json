@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T00:02:15.725236+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-01T01:01:55.033972+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850496&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/pEoR4RSJC0TRuYt187f-f.jpg/lite\" height=\"120\"/></a>",
@@ -14,9 +14,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "国行版苹果AI",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -26,8 +37,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时01分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -37,8 +48,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时01分]"
         }
       ]
     }
