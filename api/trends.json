@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T19:55:50.745940+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-04-01T20:58:30.359981+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             20,
             24,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时01分 ~ 19时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 20时58分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -52,6 +53,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 14时23分]"
+        },
+        {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 20时58分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850496&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/pEoR4RSJC0TRuYt187f-f.jpg/lite\" height=\"120\"/></a>",
@@ -110,16 +123,16 @@
           "time_info": "01时01分"
         },
         {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            24
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时01分 ~ 19时55分]"
+          "time_info": "[19时01分 ~ 20时58分]"
         },
         {
           "title": "UP主用AI还原奶奶的笑脸",
@@ -128,7 +141,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -151,18 +164,6 @@
           "ranks": [
             6,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时55分]"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
