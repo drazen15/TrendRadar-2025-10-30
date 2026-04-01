@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T14:23:21.455169+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-04-01T16:11:22.104994+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             15,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 14时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 16时11分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -29,11 +30,12 @@
             22,
             23,
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 14时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 16时11分]"
         },
         {
           "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
@@ -165,7 +167,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
@@ -179,6 +181,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 14时23分]"
+        },
+        {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时11分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
@@ -214,16 +228,15 @@
           "time_info": "04时35分"
         },
         {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
           "ranks": [
-            12,
-            10
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -244,7 +257,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -270,11 +283,12 @@
           "url": "https://www.zhihu.com/question/2022371409997947809",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时11分]"
         }
       ]
     }
