@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:02:00.034539+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-04-01T19:55:50.745940+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -18,11 +18,12 @@
             18,
             20,
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 19时01分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 19时55分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -53,17 +54,6 @@
           "time_info": "[09时47分 ~ 14时23分]"
         },
         {
-          "title": "12家企业宣布无限Token计划，支持深度使用飞书AI产品",
-          "url": "https://wallstreetcn.com/livenews/3080861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850496&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/pEoR4RSJC0TRuYt187f-f.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260331233130499800",
           "source": "金十数据",
@@ -73,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
-          "url": "https://wallstreetcn.com/livenews/3080859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -104,7 +83,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -139,8 +118,55 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时55分]"
+        },
+        {
+          "title": "UP主用AI还原奶奶的笑脸",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%BF%98%E5%8E%9F%E5%A5%B6%E5%A5%B6%E7%9A%84%E7%AC%91%E8%84%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "12家企业宣布无限Token计划，支持深度使用飞书AI产品",
+          "url": "https://wallstreetcn.com/livenews/3080861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时01分 ~ 19时01分]"
+          "time_info": "[19时01分 ~ 19时55分]"
+        },
+        {
+          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
+          "url": "https://wallstreetcn.com/livenews/3080859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时55分]"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时55分]"
         },
         {
           "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
@@ -167,6 +193,18 @@
           "time_info": "[03时53分 ~ 05时31分]"
         },
         {
+          "title": "周深新歌禁止用于AI训练",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时55分]"
+        },
+        {
           "title": "英国央行：金融体系迄今表现出韧性，但风险上升，多项脆弱性可能同时暴露。 中东冲突已对全球经济造成“重大负面供应冲击”。 主权债务市场、高风险资产估值、私募信贷领域仍存在风险。 外债市场或股票估值出现冲击，可能传导至英国。 MFS违约凸显高风险信贷市场的弱点。 美国科技公司估值“依然明显偏高”，伊朗冲突加剧风险，因AI数据中心和供应链能源消耗巨大。 市场预计中东冲突为短期事件，但对其走势和长期影响存在高度不确定性。 按当前市场利率预期，到2028年第四季度，58%的英国房贷持有人还款将增加，且大多数幅度较为温和。 银行使用人工智能带来的风险可能会“迅速增加”。",
           "url": "https://wallstreetcn.com/livenews/3080798",
           "source": "华尔街见闻-快讯",
@@ -176,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -209,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "周深新歌禁止用于AI训练",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
         },
         {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
@@ -319,6 +335,18 @@
           "time_info": "04时35分"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 19时55分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
           "url": "https://flash.jin10.com/detail/20260401041908272800",
           "source": "金十数据",
@@ -329,18 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时31分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 19时01分]"
         },
         {
           "title": "OpenAI创下史上最大融资纪录",
@@ -379,8 +395,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 19时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 19时55分]"
         }
       ]
     }
