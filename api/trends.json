@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T04:36:55.487316+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-04-02T05:35:04.872980+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时35分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -27,8 +27,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时35分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -37,11 +37,23 @@
           "ranks": [
             17,
             16,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时35分]"
+        },
+        {
+          "title": "如何把 AI 训练成自己的「第二大脑」？",
+          "url": "https://www.zhihu.com/question/2017266017961736190",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 05时35分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "如何把 AI 训练成自己的「第二大脑」？",
-          "url": "https://www.zhihu.com/question/2017266017961736190",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
         }
       ]
     },
