@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-02T07:29:46.327172+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-04-02T09:25:35.227331+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时25分]"
+        },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
           "url": "https://www.cls.cn/detail/2332176",
@@ -15,17 +26,6 @@
             12,
             11,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时29分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -55,8 +55,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 09时25分]"
+        },
+        {
+          "title": "央视AI奇谈 流金谷恩仇录",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86AI%E5%A5%87%E8%B0%88%20%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时29分]"
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -101,7 +112,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -123,7 +134,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
