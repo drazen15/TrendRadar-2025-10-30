@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:27:36.490668+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-04-03T05:29:48.326939+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 05时29分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 05时29分]"
         },
         {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
@@ -36,7 +36,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
