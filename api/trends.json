@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T12:23:30.962461+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-04-03T14:08:07.687032+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 14时08分]"
         },
         {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
@@ -86,7 +86,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
