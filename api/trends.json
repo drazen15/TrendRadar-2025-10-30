@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T20:42:52.026822+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2026-04-03T21:58:08.821196+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -35,8 +35,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 20时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时47分 ~ 21时58分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时57分 ~ 19时32分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
