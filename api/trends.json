@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T17:45:35.999174+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-04-03T18:36:18.345473+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             11,
             16,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 17时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 18时36分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -45,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 18时36分]"
         },
         {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
