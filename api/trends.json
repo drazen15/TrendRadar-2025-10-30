@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T15:58:07.681959+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-04-03T16:47:30.795669+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,24 @@
           "ranks": [
             10,
             11,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 16时47分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 16时47分]"
         },
         {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
@@ -67,17 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时26分]"
-        },
-        {
-          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2023359161887450046",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
