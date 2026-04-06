@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T09:30:00.717048+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-04-06T12:38:26.275591+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 12时38分]"
         },
         {
           "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
@@ -39,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 12时38分]"
         },
         {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
@@ -71,8 +72,41 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 12时38分]"
+        },
+        {
+          "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
+          "url": "https://flash.jin10.com/detail/20260406121342962800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "AirAsia X创始人：飞机交付未出现延误；今年将按计划接收四架新机。",
+          "url": "https://flash.jin10.com/detail/20260406120359099800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "AirAsia X创始人：不受林吉特汇率波动影响；油价是最关键因素。",
+          "url": "https://flash.jin10.com/detail/20260406120353341800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "男子用AI写歌仅版权赚了5位数",
@@ -84,6 +118,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
+          "url": "https://wallstreetcn.com/livenews/3082722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "AirAsia X创始人：马来西亚国家石油公司告知我们，燃油储备可维持至6月。越南和泰国对飞机加油仍有一定限制。",
+          "url": "https://flash.jin10.com/detail/20260406120124811800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "AirAsia X创始人：市场需求依然存在，人们仍想出行。",
+          "url": "https://flash.jin10.com/detail/20260406112211334800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "AirAsia X创始人：我们将不得不削减部分运力，因为预计无法在那些航线上覆盖燃油成本。将不得不提高票价、削减成本。",
+          "url": "https://flash.jin10.com/detail/20260406112153034800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
