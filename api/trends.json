@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T07:28:23.526097+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-04-07T09:28:03.053689+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时28分]"
         },
         {
           "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
@@ -28,11 +28,12 @@
             14,
             10,
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 09时28分]"
         },
         {
           "title": "如何看软著申请严查AI新规",
@@ -54,11 +55,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时28分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -87,6 +89,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 03时46分]"
+        },
+        {
+          "title": "中国AI大模型调用量连续五周超美国",
+          "url": "https://www.toutiao.com/trending/7625463207994179611/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "美媒：Meta将发布其下一代AI模型的开源版本",
@@ -143,7 +167,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
