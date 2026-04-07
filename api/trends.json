@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T04:38:18.797625+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-04-08T05:36:22.669291+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 05时36分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 05时36分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -36,7 +36,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -79,8 +79,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 05时36分]"
         }
       ]
     }
