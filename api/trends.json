@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T02:01:47.209138+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-09T03:49:26.268443+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时49分]"
         },
         {
           "title": "谷歌云：推出GKE云存储FUSE配置文件，旨在自动化性能调优，加速AI/ML工作负载的数据访问。",
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时49分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -48,8 +48,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时49分]"
         },
         {
           "title": "高盛资产管理的Brook Dane表示，随着人工智能（AI）支出加速，即便伊朗战争加剧地缘政治紧张，投资者仍需配置半导体公司及其他AI“卖铲人”类资产。",
@@ -58,7 +58,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
@@ -88,8 +88,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时49分]"
         }
       ]
     }
