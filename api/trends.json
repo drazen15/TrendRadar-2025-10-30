@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T14:17:18.864012+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-04-08T16:07:56.071626+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 14时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 16时07分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -27,22 +28,24 @@
           "ranks": [
             13,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 14时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 16时07分]"
         },
         {
           "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
           "url": "https://www.zhihu.com/question/2023389785188745917",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时07分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -141,7 +144,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -155,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "AI时代下设计师的竞争力在哪里",
+          "url": "https://www.toutiao.com/trending/7626222534932860422/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     },
@@ -163,27 +177,29 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时17分]"
-        },
-        {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
           "url": "https://www.zhihu.com/question/2024876426596291384",
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时07分]"
+        },
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时07分]"
         },
         {
           "title": "DeepSeek迎来大更新 V4不远了？业内人士：这一更新或是官方应对现实成本的必然选择",
@@ -203,7 +219,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -225,8 +241,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 14时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 16时07分]"
         }
       ]
     }
