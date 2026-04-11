@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T18:26:09.692158+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-04-11T19:24:09.180049+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -35,6 +35,32 @@
           "time_info": "[02时40分 ~ 07时28分]"
         },
         {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 19时24分]"
+        },
+        {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 19时24分]"
+        },
+        {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
           "url": "https://flash.jin10.com/detail/20260411041419863800",
           "source": "金十数据",
@@ -59,17 +85,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时52分 ~ 17时33分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -98,20 +113,6 @@
           "time_info": "[03时38分 ~ 07时28分]"
         },
         {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 18时26分]"
-        },
-        {
           "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
           "url": "https://flash.jin10.com/detail/20260411141004111800",
           "source": "金十数据",
@@ -136,6 +137,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时55分 ~ 15时44分]"
+        },
+        {
+          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "AI被投毒引发宝妈湿巾焦虑",
@@ -210,19 +222,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 19时24分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2026136705757902456",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 19时24分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
