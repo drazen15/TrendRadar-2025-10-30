@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T21:49:50.928049+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-04-11T22:31:43.420802+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[18时25分 ~ 22时31分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -42,11 +43,12 @@
             16,
             17,
             14,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时44分 ~ 21时49分]"
+          "appearance_count": 11,
+          "time_info": "[15时44分 ~ 22时31分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -224,7 +226,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -238,8 +240,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时55分 ~ 21时49分]"
+          "appearance_count": 14,
+          "time_info": "[13时55分 ~ 22时31分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -248,11 +250,12 @@
           "ranks": [
             5,
             6,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时30分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
@@ -267,6 +270,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时28分 ~ 13时55分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
