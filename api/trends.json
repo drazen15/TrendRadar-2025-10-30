@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T06:25:31.613417+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-04-13T07:27:05.711422+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时27分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时27分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时27分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -54,11 +54,12 @@
             27,
             30,
             29,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时27分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -70,8 +71,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时25分]"
+          "appearance_count": 6,
+          "time_info": "[03时33分 ~ 07时27分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -80,11 +81,12 @@
           "ranks": [
             26,
             25,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 07时27分]"
         }
       ]
     },
