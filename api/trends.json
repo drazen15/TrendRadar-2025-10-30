@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T07:25:25.421606+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-12T09:47:26.755666+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时47分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -32,8 +33,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时47分]"
+        },
+        {
+          "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
+          "url": "https://www.zhihu.com/question/2025885699283382999",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
@@ -45,6 +57,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 01时25分]"
+        },
+        {
+          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "法律角度解析AI炼化真人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%BE%8B%E8%A7%92%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E7%82%BC%E5%8C%96%E7%9C%9F%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -57,11 +91,12 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时47分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -70,11 +105,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时47分]"
         }
       ]
     }
