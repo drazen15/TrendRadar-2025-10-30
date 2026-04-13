@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T19:10:40.574761+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-04-13T21:04:22.832150+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 19时10分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 21时04分]"
         },
         {
           "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
@@ -68,11 +68,12 @@
           "ranks": [
             19,
             4,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 21时04分]"
         },
         {
           "title": "战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利",
@@ -115,6 +116,17 @@
           "time_info": "[12时52分 ~ 15时10分]"
         },
         {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 21时04分]"
+        },
+        {
           "title": "AI 会有情绪吗？",
           "url": "https://www.zhihu.com/question/583568899",
           "source": "知乎",
@@ -126,17 +138,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时33分 ~ 07时27分]"
-        },
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "软银成立新公司开发日本国产AI",
@@ -170,9 +171,22 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 21时04分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -186,18 +200,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 19时10分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时10分]"
         },
         {
           "title": "被央视曝光涉黄AI软件未下架",
@@ -222,6 +224,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "北京最火饺子馆开始喂AI龙虾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "荣耀发布自研龙虾AI智能体YOYO Claw",
           "url": "https://wallstreetcn.com/livenews/3086808",
           "source": "华尔街见闻-快讯",
@@ -242,12 +255,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "Pershing Square USAIPO预计将于4月28日定价。",
+          "url": "https://wallstreetcn.com/livenews/3086953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "AI换脸速度已达毫秒级",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8D%A2%E8%84%B8%E9%80%9F%E5%BA%A6%E5%B7%B2%E8%BE%BE%E6%AF%AB%E7%A7%92%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -260,6 +295,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时25分]"
+        },
+        {
+          "title": "OpenAI在备忘录中称赞与亚马逊的联盟，称微软“限制了我们接触客户的能力”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3086976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "据CNBC：OpenAI在备忘录中盛赞与亚马逊(AMZN.O)的联盟，称微软(MSFT.O)“限制了其触达客户的能力”。",
+          "url": "https://flash.jin10.com/detail/20260413203327986800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     }
