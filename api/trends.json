@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T05:40:56.394322+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-04-14T06:36:53.332343+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -48,11 +48,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时03分 ~ 05时40分]"
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 06时36分]"
         },
         {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
+          "url": "https://wallstreetcn.com/livenews/3087180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
@@ -111,7 +123,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
