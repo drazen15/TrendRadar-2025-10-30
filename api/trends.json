@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T16:38:20.763117+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-04-14T18:08:48.157701+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -33,8 +33,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 16时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 18时08分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -48,8 +48,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 16时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 18时08分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -63,6 +63,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时03分 ~ 07时36分]"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时08分]"
         },
         {
           "title": "日产：计划在未来90%的车型中应用日产AI驾驶技术。",
@@ -87,15 +99,15 @@
           "time_info": "03时03分"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
+          "title": "网易云音乐就AI广告诡异画面道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%B0%B1AI%E5%B9%BF%E5%91%8A%E8%AF%A1%E5%BC%82%E7%94%BB%E9%9D%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "18时08分"
         },
         {
           "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
@@ -109,6 +121,18 @@
           "time_info": "06时36分"
         },
         {
+          "title": "AI突袭短剧 “霸总爹”失业",
+          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时08分]"
+        },
+        {
           "title": "北京最火饺子馆开始喂AI龙虾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -118,6 +142,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "特朗普发布AI“耶稣自画像”，核心票仓爆发最强烈抗议",
@@ -159,18 +194,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "AI突袭短剧 “霸总爹”失业",
-          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -181,7 +205,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
