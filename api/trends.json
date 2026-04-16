@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T19:54:37.081726+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-04-16T21:09:27.511259+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 21时09分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -47,11 +47,12 @@
             12,
             17,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 19时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 21时09分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -62,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 21时09分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -74,11 +75,12 @@
             14,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 21时09分]"
         },
         {
           "title": "台积电：鉴于中东局势，正谨慎进行业务规划。 人工智能需求依然“极为强劲”。 客户向我们传递了非常强烈的需求信号。 公司产能依然紧张。 关注组件价格上涨带来的影响。 N2工艺已进入大规模量产。 为满足强劲的AI需求，正在加大资本支出以提升N3产能。 正在提升日本和德国的成熟制程产能。 计划逐步关闭6英寸晶圆厂。 将继续优化我们的产能策略。",
@@ -109,9 +111,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/rwMtworB3_eETzNHmOVPB.jpg/lite\" height=\"120\"/></a>",
@@ -131,7 +144,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -188,7 +201,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -323,7 +336,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
@@ -340,7 +353,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
