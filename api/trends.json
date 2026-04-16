@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T06:32:52.495708+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-17T07:33:55.790866+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时33分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时33分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时33分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -50,8 +50,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时33分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -61,8 +61,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时33分]"
         },
         {
           "title": "解读AI蒸馏攻防战",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：各国应密切关注经济转型中的“赢家”与“输家”。 AI革命不应重蹈全球化时期的覆辙，当时许多失去工作的人从未能重新融入经济体系。 她担心如果人们相信冲突会很快结束，那么节能的意愿将会降低。",
