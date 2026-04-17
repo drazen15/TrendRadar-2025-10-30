@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T12:43:37.298157+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-04-17T14:31:52.114375+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             6,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 12时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 14时31分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -70,15 +71,26 @@
           "time_info": "[01时05分 ~ 09时46分]"
         },
         {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.toutiao.com/trending/7628666147721740329/",
-          "source": "今日头条",
+          "title": "AI来了消博会 消费行业会怎么变",
+          "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
+          "source": "百度热搜",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时43分]"
+          "time_info": "[12时43分 ~ 14时31分]"
+        },
+        {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时31分]"
         },
         {
           "title": "解读AI蒸馏攻防战",
@@ -104,26 +116,16 @@
           "time_info": "01时05分"
         },
         {
-          "title": "AI来了消博会 消费行业会怎么变",
-          "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
-          "source": "百度热搜",
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.toutiao.com/trending/7628666147721740329/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 14时31分]"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -148,37 +150,52 @@
           "time_info": "04时02分"
         },
         {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时31分]"
+        },
+        {
           "title": "苹果公司负责手表、AirPods和智能家居的营销副总裁Stan Ng即将退休。Stan Ng在网页发文称，将在任职31年后离开公司。",
           "url": "https://wallstreetcn.com/livenews/3089779",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时31分]"
         },
         {
           "title": "曝常春藤名校用打字机对抗AI",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 14时31分]"
         },
         {
           "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
           "url": "https://www.zhihu.com/question/2013899380286047376",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时31分]"
         },
         {
           "title": "朱珠版wait一开口对味了",
@@ -186,11 +203,24 @@
           "source": "抖音",
           "ranks": [
             15,
-            18
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 14时31分]"
+        },
+        {
+          "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
+          "url": "https://www.zhihu.com/question/2025259986431787811",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时43分]"
+          "time_info": "[12时43分 ~ 14时31分]"
         },
         {
           "title": "搭上AI数据中心热潮 美工业公司股价上市首日即涨两成",
@@ -199,9 +229,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "很多人难以接受自己喜欢的歌是 AI 生成的，你怎么看？ 音乐要有情感和内涵，必须得有人的参与吗？",
@@ -213,28 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
-          "url": "https://www.zhihu.com/question/2025259986431787811",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         },
         {
           "title": "用 ai 写的代码，最终会不会让整个项目成为屎山？",
@@ -273,8 +292,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 14时31分]"
         },
         {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
