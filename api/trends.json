@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T19:29:25.088336+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-04-19T20:40:56.456118+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
             11,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 20时40分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -61,11 +62,12 @@
             15,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 20时40分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -75,11 +77,12 @@
             20,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 20时40分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -155,7 +158,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -179,8 +182,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 20时40分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -191,11 +194,12 @@
             12,
             11,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -259,6 +263,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 03时36分]"
+        },
+        {
+          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
+          "url": "https://www.zhihu.com/question/2029139595183367444",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     }
