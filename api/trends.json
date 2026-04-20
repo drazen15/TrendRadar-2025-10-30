@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T03:56:12.066970+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-04-21T04:38:52.421491+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -40,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -54,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -65,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -75,11 +76,12 @@
           "ranks": [
             28,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 04时38分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -90,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -103,6 +105,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时52分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时38分]"
+        },
+        {
+          "title": "华为首款AI眼镜来了",
+          "url": "https://www.toutiao.com/trending/7630378679035101225/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 04时38分]"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
@@ -131,30 +159,6 @@
           "time_info": "[00时56分 ~ 02时54分]"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 02时54分]"
-        },
-        {
-          "title": "华为首款AI眼镜来了",
-          "url": "https://www.toutiao.com/trending/7630378679035101225/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 03时56分]"
-        },
-        {
           "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
           "source": "澎湃新闻",
@@ -162,8 +166,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 04时38分]"
         },
         {
           "title": "AI版成何体统逐玉",
