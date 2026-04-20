@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T07:29:14.067915+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-04-20T09:52:45.813405+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时52分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时52分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -40,8 +40,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时52分]"
         },
         {
           "title": "我们要不要向AI说谢谢？",
@@ -49,11 +49,34 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时36分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[03时36分 ~ 09时52分]"
+        },
+        {
+          "title": "中石油天然气集团等成立数科科技公司，含AI业务",
+          "url": "https://flash.jin10.com/detail/20260420094913700800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -90,6 +113,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "中国AI大模型周调用量环比降23.8%，美国近两个月来首次反超，阿里Qwen3.6 Plus由榜首跌出前十",
+          "url": "https://flash.jin10.com/detail/20260420093401358800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
           "url": "https://flash.jin10.com/detail/20260419221748740800",
           "source": "金十数据",
@@ -118,8 +152,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时52分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -130,11 +164,12 @@
             15,
             10,
             13,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时52分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
