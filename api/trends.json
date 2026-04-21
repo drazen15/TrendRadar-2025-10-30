@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T14:32:06.713067+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-04-21T16:29:24.158234+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 14时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 16时29分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -82,11 +82,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 14时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 16时29分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -102,6 +103,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时52分 ~ 05时39分]"
+        },
+        {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 16时29分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -129,18 +142,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 14时32分]"
-        },
-        {
-          "title": "拆解AI艺人库背后野心",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时32分]"
         },
         {
           "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
@@ -198,7 +199,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -225,6 +226,19 @@
           "time_info": "07时36分"
         },
         {
+          "title": "AI短剧是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 16时29分]"
+        },
+        {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
           "source": "百度热搜",
@@ -239,25 +253,13 @@
           "time_info": "[00时56分 ~ 07时36分]"
         },
         {
-          "title": "AI短剧是如何诞生的",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时32分]"
-        },
-        {
           "title": "上海：实施“AI+制造”和“5G+工业互联网”专项行动，支持研发行业垂类大模型",
           "url": "https://flash.jin10.com/detail/20260421140824808800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -280,11 +282,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 16时29分]"
         },
         {
           "title": "曝王楚然早就融了AI",
@@ -352,7 +355,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -407,7 +410,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
