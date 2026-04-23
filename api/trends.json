@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T02:57:28.637690+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-04-24T04:03:32.152601+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -59,11 +60,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -73,8 +75,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "Meta内部宣布将裁员10%来提升效率，弥补AI方面高额支出",
@@ -83,7 +85,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -111,7 +113,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -122,7 +124,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -133,7 +135,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -144,7 +146,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -155,7 +157,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -174,8 +176,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时03分]"
         }
       ]
     }
