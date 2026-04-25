@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T03:39:31.902541+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-26T04:31:07.503974+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -40,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -52,8 +52,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -63,8 +63,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -92,8 +92,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -103,8 +103,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
+        },
+        {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -116,18 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "DeepSeek V4换芯片的背后",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时39分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
