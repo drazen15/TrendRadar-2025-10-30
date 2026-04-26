@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T20:44:31.184169+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-04-26T22:02:20.182019+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,35 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时52分 ~ 22时02分]"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时52分 ~ 20时44分]"
+          "time_info": "[12时54分 ~ 22时02分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 22时02分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -48,33 +75,6 @@
           "time_info": "[00时32分 ~ 12时54分]"
         },
         {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 20时44分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 20时44分]"
-        },
-        {
           "title": "DeepSeek V4换芯片的背后",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
@@ -87,6 +87,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时32分 ~ 14时56分]"
+        },
+        {
+          "title": "DeepSeek V4发布意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -120,18 +133,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时54分 ~ 19时34分]"
-        },
-        {
-          "title": "DeepSeek V4发布意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 20时44分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -180,8 +181,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek在等一个更大的爆点",
@@ -201,7 +202,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -268,11 +269,12 @@
             19,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 20时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 22时02分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -296,6 +298,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 09时53分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            22,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 22时02分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -323,17 +339,15 @@
           "time_info": "[12时54分 ~ 16时13分]"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            21,
-            22
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时02分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -346,17 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时13分 ~ 17时45分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "AI对广告行业有何冲击",
