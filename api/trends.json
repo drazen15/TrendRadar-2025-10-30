@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T16:17:16.598923+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-05-01T18:17:28.492897+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "假如AI能模拟去世亲人",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时50分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[05时50分 ~ 18时17分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -61,8 +61,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 18时17分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时17分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -78,17 +89,6 @@
           "time_info": "[00时22分 ~ 05时50分]"
         },
         {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时17分]"
-        },
-        {
           "title": "AI古代铠甲勇士完结篇",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
           "source": "bilibili 热搜",
@@ -98,8 +98,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 18时17分]"
         },
         {
           "title": "人民日报：不能让AI生成内容误导公众",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 05时50分]"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
@@ -256,11 +267,12 @@
             2,
             3,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 18时17分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -287,6 +299,18 @@
           "time_info": "[00时22分 ~ 10时09分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时17分]"
+        },
+        {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
@@ -298,18 +322,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 04时06分]"
-        },
-        {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时17分]"
         },
         {
           "title": "DeepSeek思考过程好萌",
@@ -329,7 +341,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
