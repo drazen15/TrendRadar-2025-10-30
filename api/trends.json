@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T20:58:34.344259+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-05-01T22:17:04.900254+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,22 @@
           "time_info": "[00时22分 ~ 07时44分]"
         },
         {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[05时50分 ~ 22时17分]"
+        },
+        {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
           "url": "https://www.cls.cn/detail/2361477",
           "source": "财联社热门",
@@ -37,20 +53,20 @@
           "time_info": "[00时22分 ~ 16时17分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            10,
+            1,
             8,
-            11,
-            9,
-            13
+            20,
+            21,
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时50分 ~ 20时58分]"
+          "appearance_count": 9,
+          "time_info": "[10时09分 ~ 22时17分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -64,23 +80,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 20时58分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            8,
-            20,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 20时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 22时17分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -105,6 +106,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 05时50分]"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时52分 ~ 22时17分]"
         },
         {
           "title": "人民日报：不能让AI生成内容误导公众",
@@ -143,18 +157,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时17分 ~ 20时58分]"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 20时58分]"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
@@ -290,7 +292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -311,11 +313,12 @@
             9,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 20时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 22时17分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
