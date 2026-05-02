@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T02:44:55.110390+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-05-03T03:48:35.117728+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时48分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时48分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时48分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -85,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时48分]"
         },
         {
           "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
@@ -98,8 +98,21 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时48分]"
+        },
+        {
+          "title": "误导女子闯入毒蛇窝AI道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时48分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时38分]"
-        },
-        {
-          "title": "误导女子闯入毒蛇窝AI道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时44分]"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
@@ -195,8 +196,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -221,11 +222,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时48分]"
         }
       ]
     }
