@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-05-03T20:49:50.241008+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-05-03T22:07:50.818730+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 30,
       "titles": [
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            3,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时59分 ~ 22时07分]"
+        },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
           "url": "https://www.cls.cn/detail/2362027",
@@ -18,8 +34,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 20时49分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 22时07分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -34,22 +50,6 @@
           "time_info": "[00时37分 ~ 09时59分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 20时49分]"
-        },
-        {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
           "url": "https://wallstreetcn.com/articles/3771504",
           "source": "华尔街见闻",
@@ -59,8 +59,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 22时07分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时31分 ~ 20时49分]"
+          "time_info": "[15时49分 ~ 22时07分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 22时07分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -76,30 +100,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时35分]"
-        },
-        {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 20时49分]"
-        },
-        {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 20时49分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -125,22 +125,40 @@
             14,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 20时49分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 22时07分]"
         },
         {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
           "ranks": [
-            9
+            14,
+            7,
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时49分 ~ 20时49分]"
+          "time_info": "[17时14分 ~ 22时07分]"
+        },
+        {
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 22时07分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -171,20 +189,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时35分]"
-        },
-        {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 20时49分]"
         },
         {
           "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
@@ -227,6 +231,19 @@
           "time_info": "[15时49分 ~ 19时37分]"
         },
         {
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时07分]"
+        },
+        {
           "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
           "url": "https://wallstreetcn.com/articles/3771481",
           "source": "华尔街见闻",
@@ -237,18 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 09时59分]"
-        },
-        {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时49分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
