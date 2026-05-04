@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T06:02:10.182942+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-05T07:44:45.944720+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时44分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
           "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时44分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时44分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时44分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -58,22 +59,24 @@
           "source": "知乎",
           "ranks": [
             11,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时44分]"
         },
         {
           "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
           "url": "https://wallstreetcn.com/articles/3771542",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时15分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[03时15分 ~ 07时44分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -84,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时44分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -97,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时44分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -106,22 +109,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 07时44分]"
         },
         {
           "title": "被AI抢走工作的人在忙什么",
           "url": "https://www.toutiao.com/trending/7636039859584372251/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 07时44分]"
         },
         {
           "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
@@ -141,6 +146,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 07时44分]"
+        },
+        {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
           "url": "https://wallstreetcn.com/livenews/3098593",
           "source": "华尔街见闻-快讯",
@@ -150,17 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
         },
         {
           "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
