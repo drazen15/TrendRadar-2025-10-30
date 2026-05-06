@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T07:41:24.960046+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-05-06T10:01:46.999406+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -13,25 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 07时41分]"
-        },
-        {
-          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
-          "url": "https://www.zhihu.com/question/2034044394312037174",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 10时01分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -41,8 +28,45 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 10时01分]"
+        },
+        {
+          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
+          "url": "https://www.zhihu.com/question/2034044394312037174",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            3,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 10时01分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 10时01分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 10时01分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -55,28 +79,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时39分 ~ 05时55分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 07时41分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 07时41分]"
         },
         {
           "title": "从猫狗到水果 AI短剧还能火多久",
@@ -110,7 +112,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -121,7 +123,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -184,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时41分]"
+        },
+        {
+          "title": "黄仁勋反驳AI末日论",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%8D%E9%A9%B3AI%E6%9C%AB%E6%97%A5%E8%AE%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
         },
         {
           "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
@@ -277,7 +290,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -328,11 +341,12 @@
           "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 10时01分]"
         },
         {
           "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
@@ -345,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 03时08分]"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
         },
         {
           "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
@@ -437,11 +462,12 @@
             24,
             13,
             19,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 07时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时39分 ~ 10时01分]"
         }
       ]
     },
