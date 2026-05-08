@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T15:19:29.843231+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-05-08T17:15:03.421051+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时00分 ~ 01时50分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时15分]"
         },
         {
           "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接 铜线已无法满足需求",
@@ -91,6 +104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "AI四小龙估值破万亿",
@@ -151,16 +175,26 @@
           "time_info": "[10时08分 ~ 13时24分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时19分]"
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "日媒：软银拟携手英伟达、富士康，打造日本国产AI服务器",
@@ -191,7 +225,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -224,8 +258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时27分 ~ 15时19分]"
+          "appearance_count": 15,
+          "time_info": "[03时27分 ~ 17时15分]"
         },
         {
           "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
@@ -234,7 +268,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
