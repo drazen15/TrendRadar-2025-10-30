@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:38:47.589480+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-05-11T07:43:03.803097+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -28,8 +28,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -40,22 +52,12 @@
             6,
             10,
             8,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
-        },
-        {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -84,8 +86,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -105,11 +107,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "世界周刊谈美国AI暗钱网络",
@@ -136,11 +139,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -151,8 +155,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -163,8 +167,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时43分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
