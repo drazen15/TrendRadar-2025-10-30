@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T20:57:36.552838+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-05-10T22:19:13.613336+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[10时02分 ~ 22时19分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时56分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[13时56分 ~ 22时19分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -106,8 +106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时56分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[13时56分 ~ 22时19分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -143,11 +143,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 22时19分]"
         },
         {
           "title": "用AI花3个月完成百名程序员7年工作",
@@ -163,6 +164,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时56分 ~ 19时43分]"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 22时19分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -213,19 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 20时57分]"
         },
         {
           "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
@@ -304,11 +305,12 @@
             11,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 20时57分]"
+          "appearance_count": 23,
+          "time_info": "[00时43分 ~ 22时19分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -425,9 +427,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时19分]"
         }
       ]
     }
