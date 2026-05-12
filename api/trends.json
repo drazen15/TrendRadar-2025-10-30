@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T19:15:01.862698+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-05-12T22:03:03.270701+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 22时03分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -48,11 +48,12 @@
             24,
             15,
             12,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 22时03分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -65,11 +66,12 @@
             27,
             22,
             21,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 22时03分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -91,25 +93,26 @@
           "time_info": "[00时25分 ~ 19时15分]"
         },
         {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时15分]"
-        },
-        {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
           "ranks": [
             10,
             11,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 22时03分]"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
             5
           ],
           "is_new": false,
