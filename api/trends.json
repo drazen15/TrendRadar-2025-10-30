@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T10:13:56.447742+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-05-13T14:19:35.454440+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 10时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 14时19分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 14时19分]"
         },
         {
           "title": "韩国AI红利：闪崩之后，悬念才刚开始",
@@ -84,8 +84,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 14时19分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "李彦宏：AI时代的度量衡是日活智能体数（DAA）",
@@ -94,7 +105,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -117,7 +128,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -128,7 +139,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -139,7 +150,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -327,11 +338,12 @@
           "url": "https://www.zhihu.com/question/2036544679387341657",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 14时19分]"
         }
       ]
     }
