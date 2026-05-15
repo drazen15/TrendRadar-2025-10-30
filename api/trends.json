@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T14:26:24.812570+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-15T17:40:07.299554+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -72,6 +72,19 @@
           "time_info": "[00时05分 ~ 07时47分]"
         },
         {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 17时40分]"
+        },
+        {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
           "url": "https://wallstreetcn.com/articles/3772269",
           "source": "华尔街见闻",
@@ -94,6 +107,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时05分 ~ 07时47分]"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 17时40分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "黄仁勋谈中国AI发展",
@@ -121,6 +157,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
           "title": "xAI正式推出Grok Build早期测试版，旨在为超级Grok重度用户提供编码代理服务。",
           "url": "https://flash.jin10.com/detail/20260515021742369800",
           "source": "金十数据",
@@ -132,16 +179,15 @@
           "time_info": "02时31分"
         },
         {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 17时40分]"
         },
         {
           "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
@@ -178,26 +224,15 @@
           "time_info": "[04时25分 ~ 06时02分]"
         },
         {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
+          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
+          "url": "https://wallstreetcn.com/livenews/3104308",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 14时26分]"
+          "time_info": "17时40分"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -210,6 +245,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 06时02分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
