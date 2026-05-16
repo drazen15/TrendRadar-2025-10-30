@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T13:47:20.968787+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-05-16T15:52:12.503331+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,25 @@
           "ranks": [
             7,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 15时52分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时46分 ~ 15时52分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -37,16 +51,16 @@
           "time_info": "[01时24分 ~ 10时06分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时52分]"
         },
         {
           "title": "高校生录视频获赞“AI建模脸”出圈",
@@ -91,17 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 03时18分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
