@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T21:02:12.764893+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-05-16T22:24:00.602775+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时46分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[07时46分 ~ 22时24分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时47分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时47分 ~ 22时24分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -51,6 +51,20 @@
           "time_info": "[01时24分 ~ 10时06分]"
         },
         {
+          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
+          "url": "https://wallstreetcn.com/articles/3772409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 22时24分]"
+        },
+        {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
@@ -60,24 +74,25 @@
             14,
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时24分 ~ 21时02分]"
+          "appearance_count": 19,
+          "time_info": "[01时24分 ~ 22时24分]"
         },
         {
-          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
-          "url": "https://wallstreetcn.com/articles/3772409",
-          "source": "华尔街见闻",
+          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7,
-            6
+            14,
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 22时24分]"
         },
         {
           "title": "高校生录视频获赞“AI建模脸”出圈",
@@ -102,6 +117,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
+          "url": "https://wallstreetcn.com/articles/3772419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "席瑞对话 Cecilia，他认为「AI 能给答案，但给不了孩子问出好问题的能力」，你认可这个观点吗？",
           "url": "https://www.zhihu.com/question/2038564529353839746",
           "source": "知乎",
@@ -124,16 +150,15 @@
           "time_info": "[01时24分 ~ 03时18分]"
         },
         {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
+          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
+          "url": "https://wallstreetcn.com/articles/3772426",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时02分]"
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "张凌赫Mai晚宴合照",
@@ -159,6 +184,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "英伟达市值破 5.5 万亿美元，超世界第三大经济体德国 GDP，如何看待 AI 的财富效应？",
+          "url": "https://www.zhihu.com/question/2038563006892568719",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -196,18 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时45分]"
-        },
-        {
-          "title": "英伟达市值破 5.5 万亿美元，超世界第三大经济体德国 GDP，如何看待 AI 的财富效应？",
-          "url": "https://www.zhihu.com/question/2038563006892568719",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时44分]"
         },
         {
           "title": "云南小伙用AI制作短片爆红",
@@ -265,11 +290,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 22时24分]"
+        },
+        {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 22时24分]"
         },
         {
           "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
@@ -281,18 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20260516184026768800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 21时02分]"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -354,11 +381,12 @@
           "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 22时24分]"
         }
       ]
     }
