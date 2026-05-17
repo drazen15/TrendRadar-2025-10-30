@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:59:20.212027+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-05-17T18:22:37.715036+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -17,21 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 16时59分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 16时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 18时22分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -44,6 +31,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 07时43分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 18时22分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -80,8 +81,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 16时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 18时22分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
@@ -102,11 +103,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 18时22分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 16时59分]"
+          "time_info": "[16时59分 ~ 18时22分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -120,24 +134,13 @@
           "time_info": "00时47分"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
           "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
           "url": "https://flash.jin10.com/detail/20260517152451542800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
