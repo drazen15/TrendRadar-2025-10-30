@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T07:43:14.429627+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-17T10:09:34.507395+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 10时09分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 10时09分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -32,27 +44,17 @@
           "time_info": "[00时47分 ~ 07时43分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时43分]"
-        },
-        {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
           "url": "https://wallstreetcn.com/articles/3772419",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 10时09分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -73,19 +75,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 10时09分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
           "url": "https://wallstreetcn.com/articles/3772426",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 10时09分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -142,11 +145,12 @@
           "ranks": [
             17,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 10时09分]"
         }
       ]
     }
