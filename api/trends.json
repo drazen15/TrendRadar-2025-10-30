@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T10:30:58.580864+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-05-20T14:51:22.233543+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -52,11 +52,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 10时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 14时51分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -64,11 +65,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 10时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 14时51分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -87,11 +89,12 @@
           "url": "https://www.cls.cn/detail/2376057",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时51分]"
         },
         {
           "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
@@ -101,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时51分]"
         },
         {
           "title": "Meta在AI推动的效率提升计划中开始裁员",
@@ -218,6 +221,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "机构：北美CSP大举购置NVIDIA GB/Rubin整柜式方案，今年AI推理算力将跃升1.2倍",
+          "url": "https://wallstreetcn.com/livenews/3106515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
           "url": "https://wallstreetcn.com/livenews/3106284",
           "source": "华尔街见闻-快讯",
@@ -268,7 +282,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         }
@@ -276,7 +290,7 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -284,11 +298,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 10时30分]"
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 14时51分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -296,22 +311,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时51分]"
         },
         {
           "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
           "url": "https://www.cls.cn/detail/2376118",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时51分]"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -384,11 +401,23 @@
           "url": "https://www.cls.cn/detail/2376047",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时51分]"
+        },
+        {
+          "title": "如何看待 Google I/O 发布的 Gemini 3.5 Flash？在大模型竞争中处于什么位置？",
+          "url": "https://www.zhihu.com/question/2040264585383507841",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "谷歌发布Gemini 3.5系列模型",
