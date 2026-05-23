@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T07:01:34.323592+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-23T08:11:29.331677+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 08时11分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -42,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 08时11分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -52,11 +52,12 @@
           "ranks": [
             17,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 08时11分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -68,20 +69,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 07时01分]"
-        },
-        {
-          "title": "ai漫剧硬通货 泡面火腿纯净水",
-          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时11分]"
         },
         {
           "title": "夏奇拉来批daidai作业啦",
@@ -91,11 +80,25 @@
             30,
             22,
             27,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时29分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 08时11分]"
+        },
+        {
+          "title": "ai漫剧硬通货 泡面火腿纯净水",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时59分 ~ 08时11分]"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -114,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时00分 ~ 08时11分]"
         },
         {
           "title": "马斯克重建xAI组织图曝光",
@@ -142,11 +146,12 @@
           "url": "https://www.zhihu.com/question/2041260640740927118",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 08时11分]"
         }
       ]
     }
