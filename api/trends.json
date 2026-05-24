@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T00:54:08.376774+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T01:54:12.429456+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时54分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时54分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时54分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -48,14 +48,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时54分]"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -65,8 +65,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时54分]"
+        },
+        {
+          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
+          "url": "https://flash.jin10.com/detail/20260525012651977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -75,9 +86,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时54分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 01时54分]"
         }
       ]
     }
