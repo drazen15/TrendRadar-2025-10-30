@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T06:03:11.237972+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-26T07:57:58.549781+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时57分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时57分]"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -61,11 +61,12 @@
             16,
             14,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时57分]"
         },
         {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
