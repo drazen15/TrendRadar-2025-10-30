@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T10:44:44.864493+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-05-26T14:39:33.921463+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 14时39分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -74,11 +75,23 @@
           "url": "https://www.douyin.com/hot/2512287",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时39分]"
+        },
+        {
+          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
+          "url": "https://wallstreetcn.com/articles/3773084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "14时39分"
         },
         {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
@@ -115,13 +128,24 @@
           "time_info": "[04时20分 ~ 06时03分]"
         },
         {
+          "title": "京东AI静音口罩工位k歌神器",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9CAI%E9%9D%99%E9%9F%B3%E5%8F%A3%E7%BD%A9%E5%B7%A5%E4%BD%8Dk%E6%AD%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "高盛CEO驳斥AI“就业末日论”，称AI将提高生产率、创造新岗位",
           "url": "https://flash.jin10.com/detail/20260526095105373800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
@@ -136,11 +160,12 @@
           "url": "https://www.zhihu.com/question/2033335202307647295",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时39分]"
         }
       ]
     }
