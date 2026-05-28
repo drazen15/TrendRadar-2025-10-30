@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T04:11:55.864640+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-29T06:27:46.102936+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -40,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "美联储Barkin：AI投资给中性利率带来压力。 某些AI相关的领域正表现出通胀压力。",
@@ -61,7 +62,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -97,8 +98,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
@@ -108,19 +109,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
@@ -130,8 +132,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -141,8 +143,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "小说AI直出?8u评论区吵翻",
@@ -152,8 +154,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "野生vs养殖,AI大战鲤鱼图",
@@ -163,8 +165,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         },
         {
           "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
@@ -173,7 +175,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -212,7 +214,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -223,7 +225,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         }
@@ -241,8 +243,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 06时27分]"
         }
       ]
     }
