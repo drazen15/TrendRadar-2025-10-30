@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T10:37:04.899541+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-05-31T14:52:04.621556+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 10时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 14时52分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -27,11 +27,12 @@
             7,
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 10时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 14时52分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -52,11 +53,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 10时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 14时52分]"
         },
         {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
@@ -66,11 +68,24 @@
             2,
             5,
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时45分 ~ 10时37分]"
+          "appearance_count": 6,
+          "time_info": "[04时45分 ~ 14时52分]"
+        },
+        {
+          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 14时52分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -86,15 +101,15 @@
           "time_info": "[00时05分 ~ 07时54分]"
         },
         {
-          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
-          "url": "https://wallstreetcn.com/articles/3773499",
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
+          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
