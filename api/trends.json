@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T02:33:04.585016+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T05:42:41.813836+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
           "title": "微软发布可充当行政助理的AI软件",
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -80,9 +80,32 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时42分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
           "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
@@ -96,37 +119,26 @@
           "time_info": "[02时32分 ~ 02时33分]"
         },
         {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
-        },
-        {
           "title": "微软展示用于办公的桌面AI设备。 微软展示用于AI互联办公的数字工牌。 微软正与高通、联发科合作开发新设备。",
           "url": "https://wallstreetcn.com/livenews/3113218",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
+          "url": "https://wallstreetcn.com/livenews/3113281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
@@ -135,9 +147,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
+          "url": "https://wallstreetcn.com/livenews/3113280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "微软推出Web IQ套件，包含一系列AI原生Grounding API。 Web IQ是一款针对AI系统的搜索引擎。 针对新AI设备推出Project Solara。 推出可让OpenClaw在Windows系统上顺畅运行的技术支持方案。",
@@ -146,7 +169,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -157,7 +180,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -174,7 +197,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -185,7 +208,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
