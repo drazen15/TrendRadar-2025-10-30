@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T17:19:37.100001+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-06-06T19:18:22.944268+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -23,6 +23,17 @@
           "time_info": "[00时26分 ~ 14时47分]"
         },
         {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时00分 ~ 19时18分]"
+        },
+        {
           "title": "严防作弊!高考期间AI搜题关停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
@@ -32,22 +43,12 @@
             11,
             16,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 17时19分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时00分 ~ 17时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 19时18分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -88,6 +89,18 @@
           "time_info": "[00时26分 ~ 06时10分]"
         },
         {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 19时18分]"
+        },
+        {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
           "url": "https://wallstreetcn.com/articles/3773907",
           "source": "华尔街见闻",
@@ -98,18 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时10分]"
-        },
-        {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 17时19分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -134,6 +135,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时00分 ~ 17时19分]"
+        },
+        {
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 19时18分]"
         },
         {
           "title": "以色列国防军：针对敌方飞行器侵入泽拉伊特（Zerait）地区发出警报后，监测到一架无人机在以色列国防军于黎巴嫩南部开展行动的区域附近坠落。该飞行器未进入以色列领土，未造成人员伤亡。",
@@ -214,6 +229,18 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 19时18分]"
+        },
+        {
           "title": "高考要用AI改卷系谣言",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
@@ -235,19 +262,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时10分]"
-        },
-        {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 17时19分]"
         },
         {
           "title": "阿波罗资管和黑石集团已为Anthropic敲定350亿美元的融资方案，用于扩建其AI基础设施。",
@@ -297,6 +311,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "无锡：聚焦AIDC、Token等前沿赛道 分层分类梳理项目清单、建立推进机制",
+          "url": "https://flash.jin10.com/detail/20260606174628008800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
           "url": "https://wallstreetcn.com/livenews/3115385",
           "source": "华尔街见闻-快讯",
@@ -341,15 +366,15 @@
           "time_info": "04时46分"
         },
         {
-          "title": "AI文风太好认",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "美股黄金大跌 AI泡沫要破了吗",
+          "url": "https://www.toutiao.com/trending/7648202638936247849/",
+          "source": "今日头条",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "19时18分"
         },
         {
           "title": "AI炒完“传、存、算”，下一张牌桌在哪里？",
@@ -401,8 +426,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 19时18分]"
         }
       ]
     }
