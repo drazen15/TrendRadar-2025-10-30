@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T03:08:07.629064+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-06-08T05:02:07.774103+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时02分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时02分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时02分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -64,11 +65,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时02分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -78,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时02分]"
         }
       ]
     }
