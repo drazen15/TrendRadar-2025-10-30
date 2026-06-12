@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T01:33:03.640583+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T03:54:58.454836+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时54分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时54分]"
         },
         {
           "title": "作家自曝用AI写作",
