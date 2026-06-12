@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T03:54:58.454836+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-13T05:26:06.792279+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 05时26分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -27,8 +27,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 05时26分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "作家自曝用AI写作",
