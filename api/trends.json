@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T05:04:08.391674+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-06-14T06:55:53.083124+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时55分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时55分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -36,22 +37,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时55分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
           "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时55分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -59,11 +62,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时55分]"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
@@ -103,8 +107,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时55分]"
         }
       ]
     }
