@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T14:50:50.981060+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-06-13T17:52:27.404710+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[01时32分 ~ 10时33分]"
         },
         {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 17时52分]"
+        },
+        {
           "title": "抖音AI反网暴行动来了",
           "url": "https://www.douyin.com/hot/2531858",
           "source": "抖音",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 07时09分]"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
@@ -72,9 +73,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 17时52分]"
         },
         {
           "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
@@ -129,18 +142,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
