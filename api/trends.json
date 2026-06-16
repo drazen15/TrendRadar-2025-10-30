@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T08:27:07.296129+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-06-16T14:26:15.488563+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -58,6 +58,18 @@
           "time_info": "[01时59分 ~ 08时27分]"
         },
         {
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时26分 ~ 14时26分]"
+        },
+        {
           "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
           "url": "https://www.zhihu.com/question/2049845138457719674",
           "source": "知乎",
@@ -93,15 +105,15 @@
           "time_info": "[04时47分 ~ 06时57分]"
         },
         {
-          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
-          "url": "https://www.cls.cn/detail/2400563",
+          "title": "机构全面看好AI赋能的锡稀土钨钼 稀土板块有望演绎估值业绩双升",
+          "url": "https://www.cls.cn/detail/2400646",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时26分 ~ 08时27分]"
+          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
