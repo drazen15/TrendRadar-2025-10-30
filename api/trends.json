@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T13:29:38.359150+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-06-18T18:07:13.464375+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时45分 ~ 08时20分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时01分 ~ 18时07分]"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -46,17 +60,16 @@
           "time_info": "[01时45分 ~ 04时02分]"
         },
         {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
             9,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时01分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 18时07分]"
         },
         {
           "title": "00后股民全仓AI股2个月赚30万",
@@ -65,7 +78,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -81,6 +94,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时45分 ~ 08时20分]"
+        },
+        {
+          "title": "用AI打开端午的一百种方式",
+          "url": "https://www.douyin.com/hot/2539388",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "AI Agent 的核心技术是什么？",
@@ -100,20 +124,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
         {
-          "title": "黄金和AI：谁在见顶？",
-          "url": "https://wallstreetcn.com/articles/3774914",
-          "source": "华尔街见闻",
+          "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
+          "url": "https://wallstreetcn.com/livenews/3121595",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "18时07分"
         },
         {
           "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
@@ -138,6 +162,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时01分 ~ 06时04分]"
+        },
+        {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 18时07分]"
+        },
+        {
+          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
+          "url": "https://www.cls.cn/detail/2403255",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "黄仁勋呼吁全民拥抱AI：社会需重塑规则体系 能源短缺成美国AI发展最大短板",
@@ -180,7 +227,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -224,9 +271,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
+          "url": "https://flash.jin10.com/detail/20260618172120453800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "苹果筹备第二代iPhone Air，预计2027年春季推出",
@@ -238,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "端午和周星驰拍上AI食神大片了",
-          "url": "https://www.douyin.com/hot/2538982",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
         },
         {
           "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
@@ -265,7 +312,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
@@ -279,13 +326,24 @@
           "time_info": "01时46分"
         },
         {
+          "title": "OpenAI将与Dentsu等公司合作，在日本开展ChatGPT广告业务。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3121588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "谷歌明星研究员跳槽至OpenAI",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%98%8E%E6%98%9F%E7%A0%94%E7%A9%B6%E5%91%98%E8%B7%B3%E6%A7%BD%E8%87%B3OpenAI",
           "source": "百度热搜",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
@@ -300,11 +358,12 @@
           "url": "https://www.zhihu.com/question/2050272536898835791",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 18时07分]"
         }
       ]
     }
