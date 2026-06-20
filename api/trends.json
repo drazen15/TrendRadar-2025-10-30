@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-20T21:30:58.049956+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-06-20T23:30:05.130231+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 23时30分]"
+        },
         {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
           "url": "https://wallstreetcn.com/articles/3775091",
@@ -33,18 +45,6 @@
           "time_info": "[01时49分 ~ 08时02分]"
         },
         {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 21时30分]"
-        },
-        {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 21时30分]"
+          "appearance_count": 6,
+          "time_info": "[19时08分 ~ 23时30分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -65,8 +65,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时08分 ~ 23时30分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时08分 ~ 21时30分]"
+          "time_info": "[21时29分 ~ 23时30分]"
         },
         {
           "title": "第一次见心眼这么多的AI",
@@ -118,17 +129,6 @@
           "time_info": "[06时45分 ~ 13时04分]"
         },
         {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
-        },
-        {
           "title": "美国电网扛不住AI热潮",
           "url": "https://wallstreetcn.com/livenews/3122234",
           "source": "华尔街见闻-快讯",
@@ -139,6 +139,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时09分 ~ 21时30分]"
+        },
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时30分]"
         },
         {
           "title": "腾讯：微信正在灰度测试 AI助手“小微”",
@@ -153,15 +165,15 @@
           "time_info": "[19时09分 ~ 21时30分]"
         },
         {
-          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
-          "source": "澎湃新闻",
+          "title": "AI短剧“买脸” 每张脸500元一年",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "1年500元你会把脸卖给AI短剧吗",
