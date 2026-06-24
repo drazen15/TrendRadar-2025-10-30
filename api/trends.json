@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T12:58:58.625723+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-24T16:21:29.927339+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 12时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 16时21分]"
         },
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
@@ -95,6 +95,22 @@
           "time_info": "[00时21分 ~ 08时02分]"
         },
         {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            14,
+            16,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 16时21分]"
+        },
+        {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
           "url": "https://www.cls.cn/detail/2407361",
           "source": "财联社热门",
@@ -107,19 +123,16 @@
           "time_info": "[07时01分 ~ 12时58分]"
         },
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13,
-            14,
-            16,
-            20
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 16时21分]"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
@@ -135,29 +148,29 @@
           "time_info": "[03时04分 ~ 08时02分]"
         },
         {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时58分]"
-        },
-        {
           "title": "用AI小卡应援世界杯",
           "url": "https://www.douyin.com/hot/2544441",
           "source": "抖音",
           "ranks": [
             20,
             22,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时04分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[03时04分 ~ 16时21分]"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
@@ -171,6 +184,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 07时01分]"
+        },
+        {
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
@@ -219,6 +243,17 @@
           "time_info": "[07时01分 ~ 08时02分]"
         },
         {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时21分]"
+        },
+        {
           "title": "Meta Platforms(META.O)：支持政府推动美国在强大且安全的前沿AI领域的领导地位的目标。",
           "url": "https://flash.jin10.com/detail/20260624054508672800",
           "source": "金十数据",
@@ -252,17 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时01分]"
-        },
-        {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "美国参议院共和党成员Steve Daines：参议院正酝酿自己版本的加密货币税收草案。 预计将“宜早不宜迟地”披露我们的计划。 可能会在秋季公之于众。",
@@ -326,7 +350,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -410,7 +434,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
