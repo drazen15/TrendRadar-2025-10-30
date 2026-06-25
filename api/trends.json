@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T18:35:30.322916+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-06-25T21:12:23.384522+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -83,8 +83,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 18时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时59分 ~ 21时12分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 21时12分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -122,19 +135,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 08时02分]"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 18时35分]"
         },
         {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
@@ -175,6 +175,30 @@
           "time_info": "[08时01分 ~ 15时35分]"
         },
         {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 21时12分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 21时12分]"
+        },
+        {
           "title": "用AI小卡应援世界杯",
           "url": "https://www.douyin.com/hot/2544441",
           "source": "抖音",
@@ -187,29 +211,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时28分 ~ 11时40分]"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 18时35分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 18时35分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -234,6 +235,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时01分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 21时12分]"
         },
         {
           "title": "AI 对制造业的影响预计何时显现？",
@@ -277,7 +290,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -299,20 +312,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
-        },
-        {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 18时35分]"
         },
         {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
@@ -348,6 +350,18 @@
           "time_info": "04时29分"
         },
         {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时12分]"
+        },
+        {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
           "url": "https://flash.jin10.com/detail/20260625071208706800",
           "source": "金十数据",
@@ -357,6 +371,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时12分]"
         },
         {
           "title": "AI时代计算机专业怎么选",
@@ -404,26 +430,15 @@
           "time_info": "[04时28分 ~ 04时29分]"
         },
         {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
           "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
-          "url": "https://www.cls.cn/detail/2409082",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "21时12分"
         },
         {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
@@ -468,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "SpaceX投资者Andreessen：“星舰”为太空AI发展铺平了道路",
@@ -617,6 +643,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "屎山BUG半决赛之DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%8E%E5%B1%B1BUG%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B9%8BDeepSeek",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     },
