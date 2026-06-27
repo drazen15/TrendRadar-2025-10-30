@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:56:09.108611+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-06-28T06:56:39.119557+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -38,8 +38,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -50,8 +50,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时03分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[04时03分 ~ 06时56分]"
         }
       ]
     },
@@ -68,19 +68,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -88,11 +89,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时56分]"
         }
       ]
     },
@@ -105,22 +107,24 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         }
       ]
     }
