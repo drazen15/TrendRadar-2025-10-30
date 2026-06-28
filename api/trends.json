@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T04:07:44.573830+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-29T05:55:41.421934+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时55分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时55分]"
         },
         {
           "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时55分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时55分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时55分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -72,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 05时55分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -83,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时07分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 05时55分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -108,8 +108,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时55分]"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
@@ -146,11 +146,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 05时55分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -178,8 +179,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时55分]"
         }
       ]
     }
