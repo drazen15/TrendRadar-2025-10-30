@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T17:50:33.694199+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-07-03T20:02:50.045016+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -71,6 +71,18 @@
           "time_info": "[01时28分 ~ 07时11分]"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 20时02分]"
+        },
+        {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
           "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
@@ -80,6 +92,33 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 04时56分]"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 20时02分]"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 20时02分]"
         },
         {
           "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
@@ -95,43 +134,6 @@
           "time_info": "[10时03分 ~ 17时50分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 17时50分]"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 17时50分]"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 17时50分]"
-        },
-        {
           "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
           "url": "https://wallstreetcn.com/articles/3776055",
           "source": "华尔街见闻",
@@ -141,6 +143,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时01分 ~ 07时11分]"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 20时02分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -155,6 +170,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 07时11分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 20时02分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 20时02分]"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -181,15 +222,15 @@
           "time_info": "03时10分"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://wallstreetcn.com/livenews/3128681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时50分"
+          "time_info": "20时02分"
         },
         {
           "title": "美国总统特朗普：无论好坏，我们都有AI。",
@@ -213,31 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时56分]"
-        },
-        {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 17时50分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 17时50分]"
         },
         {
           "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
@@ -292,9 +308,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850565&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/9snI_dUsRlH22meUzc1Wr.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260703193019074800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "全球AI疯狂重创千元机市场",
@@ -328,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "微软高管：微软可以帮助企业改进AI使用方式",
@@ -462,6 +500,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "鹏鼎控股：拟定增募资不超96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://flash.jin10.com/detail/20260703191133168800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "AI泡沫破裂会有什么后果",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8E%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -493,6 +542,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
+          "url": "https://www.zhihu.com/question/2056064893745193207",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 10时03分]"
+        },
+        {
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 10时03分]"
+        },
+        {
+          "title": "出现性能下降问题 DeepSeek回应",
+          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            19,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时11分]"
+        },
+        {
+          "title": "腾讯云：DeepSeek-V4正式版“原厂直供”模型计划于7月中上线",
+          "url": "https://wallstreetcn.com/livenews/3128693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "腾讯云：DeepSeek-V4正式版“原厂直供”模型计划于7月中上线",
+          "url": "https://flash.jin10.com/detail/20260703192746070800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -543,56 +664,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
-          "url": "https://www.zhihu.com/question/2056064893745193207",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 10时03分]"
-        },
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 10时03分]"
-        },
-        {
-          "title": "出现性能下降问题 DeepSeek回应",
-          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 07时11分]"
         }
       ]
     }
