@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T18:02:34.567417+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-07-04T19:35:43.697942+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -43,6 +43,19 @@
           "time_info": "[01时14分 ~ 06时59分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时03分 ~ 19时35分]"
+        },
+        {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
           "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
           "source": "澎湃新闻",
@@ -55,19 +68,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时14分 ~ 12时29分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 18时02分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -241,6 +241,17 @@
           "time_info": "[08时03分 ~ 08时04分]"
         },
         {
+          "title": "曝摄像头AirPodsPro项目暂停",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
           "url": "https://flash.jin10.com/detail/20260704095032353800",
           "source": "金十数据",
@@ -274,11 +285,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 19时35分]"
         }
       ]
     },
@@ -311,11 +323,12 @@
           "ranks": [
             4,
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 19时35分]"
         }
       ]
     }
