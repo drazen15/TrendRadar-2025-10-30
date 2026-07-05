@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T03:11:06.604335+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-07-06T04:48:46.678711+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时48分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时48分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时48分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -48,11 +48,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时48分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -60,11 +61,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时48分]"
         }
       ]
     },
@@ -81,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时48分]"
         }
       ]
     }
