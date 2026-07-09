@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T18:52:06.034905+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-07-09T21:45:13.782762+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -23,6 +23,19 @@
           "time_info": "[01时21分 ~ 15时32分]"
         },
         {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 21时45分]"
+        },
+        {
           "title": "日本高中生携AI爆破被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
@@ -30,11 +43,12 @@
             15,
             22,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 18时52分]"
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 21时45分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -49,17 +63,27 @@
           "time_info": "[01时21分 ~ 08时02分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            4
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 21时45分]"
+        },
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时37分 ~ 18时52分]"
+          "time_info": "[18时51分 ~ 21时45分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -99,27 +123,15 @@
           "time_info": "[15时32分 ~ 18时52分]"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
+          "title": "海力士美股IPO点燃AI热情，美光盘前涨3%、康宁涨5%，韩股弱势反弹，黄金触及4100",
+          "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时52分]"
-        },
-        {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
+          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "美联储纪要：官员警告通胀风险或迫使利率走高，AI投资成新变量",
@@ -199,13 +211,24 @@
           "time_info": "[18时51分 ~ 18时52分]"
         },
         {
+          "title": "AI预测法国夺冠概率居首",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%B1%85%E9%A6%96%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
+        },
+        {
           "title": "星巴克借助AI减少对微软和IBM软件的依赖",
           "url": "https://flash.jin10.com/detail/20260709183036556800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -271,9 +294,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.08%，标普500指数涨0.2%，纳指涨0.2%。美光科技(MU.O)涨超6%，公司到2035年在美投资规模将扩大至逾2500亿美元。高通(QCOM.O)涨1.9%，Meta Platforms(META.O)跌3.4%，公司计划于9月开始生产一款AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260709213031263800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
