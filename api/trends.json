@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T07:59:03.180761+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-07-10T10:50:00.329375+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 10时50分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 07时59分]"
+        },
+        {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时42分 ~ 10时50分]"
         },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -57,18 +71,15 @@
           "time_info": "[00时23分 ~ 04时43分]"
         },
         {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7,
-            2,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时42分 ~ 07时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 10时50分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -95,15 +106,15 @@
           "time_info": "[06时14分 ~ 07时59分]"
         },
         {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "time_info": "[10时49分 ~ 10时50分]"
         },
         {
           "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
@@ -126,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "中科曙光宣布国内首个全国产十万卡AI超集群曙光8000（登峰）落成投用",
+          "url": "https://flash.jin10.com/detail/20260710103347691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "一条AI短片演绎杨戬劈山",
@@ -152,6 +174,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "市场监管总局举办AI赋能信用监管专题讲座",
+          "url": "https://flash.jin10.com/detail/20260710103109396800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "AI和空调开始抢电",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%92%8C%E7%A9%BA%E8%B0%83%E5%BC%80%E5%A7%8B%E6%8A%A2%E7%94%B5",
           "source": "bilibili 热搜",
@@ -161,6 +194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "AI成为国家资本新战场 主权财富基金竞相加码科技赛道",
+          "url": "https://flash.jin10.com/detail/20260710103026201800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
@@ -243,8 +287,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 10时50分]"
+        },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
           "url": "https://flash.jin10.com/detail/20260710070918440800",
@@ -252,7 +307,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -263,7 +318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -274,7 +329,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
