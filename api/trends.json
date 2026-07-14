@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-15T06:48:16.590562+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-07-15T07:44:24.979062+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时48分]"
-        },
         {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
           "url": "https://www.zhihu.com/question/2060385485915263811",
@@ -28,8 +17,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时44分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时44分]"
         },
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -38,11 +39,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时44分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -50,11 +52,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时44分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -64,11 +67,12 @@
             8,
             10,
             13,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时44分]"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -78,11 +82,12 @@
             22,
             8,
             10,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时44分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -90,11 +95,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时44分]"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -131,6 +137,17 @@
           "time_info": "[04时51分 ~ 05时49分]"
         },
         {
+          "title": "白宫启动网络安全“金鹰”AI倡议，优先应对网络安全漏洞",
+          "url": "https://wallstreetcn.com/livenews/3133922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
           "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
           "url": "https://wallstreetcn.com/livenews/3133872",
           "source": "华尔街见闻-快讯",
@@ -141,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时49分]"
+        },
+        {
+          "title": "白宫启动网络安全“金鹰”AI倡议",
+          "url": "https://flash.jin10.com/detail/20260715065824346800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC在AI繁荣期没能实现关键的电力供应目标。 该公司与可靠的电力需求目标之间存在6.8 GW缺口。",
@@ -177,6 +205,39 @@
           "time_info": "01时04分"
         },
         {
+          "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://wallstreetcn.com/livenews/3133917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://flash.jin10.com/detail/20260715064114258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "为什么目前 AI 得设备是用 mac 为主，而不是熟知的 Windows？",
+          "url": "https://www.zhihu.com/question/2059660303915397288",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
           "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
           "url": "https://wallstreetcn.com/livenews/3133777",
           "source": "华尔街见闻-快讯",
@@ -202,7 +263,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
@@ -262,6 +323,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "OpenAI计划推出家用智能音箱",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E6%8E%A8%E5%87%BA%E5%AE%B6%E7%94%A8%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
           "url": "https://wallstreetcn.com/livenews/3133848",
           "source": "华尔街见闻-快讯",
@@ -286,8 +358,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时44分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
