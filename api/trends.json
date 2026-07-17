@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T03:59:50.609051+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-18T04:54:26.499476+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -63,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -75,8 +76,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
+        },
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
+        },
+        {
+          "title": "AI，刻在Shanghai的名字里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -88,30 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
-        },
-        {
-          "title": "AI，刻在Shanghai的名字里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -166,7 +167,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -240,8 +241,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时54分]"
         }
       ]
     }
