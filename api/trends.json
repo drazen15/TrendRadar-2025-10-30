@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T20:10:12.219593+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-07-20T23:03:56.160981+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -37,6 +37,19 @@
           "time_info": "[01时51分 ~ 14时02分]"
         },
         {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 23时03分]"
+        },
+        {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
           "url": "https://www.cls.cn/detail/2430367",
           "source": "财联社热门",
@@ -47,6 +60,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时51分 ~ 07时49分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 23时03分]"
         },
         {
           "title": "院士谈年轻人该如何学AI",
@@ -60,6 +85,46 @@
           "time_info": "[17时20分 ~ 20时10分]"
         },
         {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 23时03分]"
+        },
+        {
+          "title": "清华姚班 全球AI半壁江山",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 23时03分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 23时03分]"
+        },
+        {
           "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
           "url": "https://www.cls.cn/detail/2430847",
           "source": "财联社热门",
@@ -70,30 +135,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时01分 ~ 17时20分]"
-        },
-        {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时10分]"
-        },
-        {
-          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
-          "url": "https://wallstreetcn.com/articles/3777388",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时10分]"
         },
         {
           "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
@@ -135,18 +176,6 @@
           "time_info": "[14时01分 ~ 17时20分]"
         },
         {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时10分]"
-        },
-        {
           "title": "中国开辟AI发展新路径",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%80%E8%BE%9FAI%E5%8F%91%E5%B1%95%E6%96%B0%E8%B7%AF%E5%BE%84%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -158,27 +187,29 @@
           "time_info": "[14时01分 ~ 14时02分]"
         },
         {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 23时03分]"
+        },
+        {
           "title": "王祖贤肖像授权网易AI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时10分]"
-        },
-        {
-          "title": "清华姚班 全球AI半壁江山",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 23时03分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850576&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/xEC23L5QlNQqzCmzOgQ3x.jpg/lite\" height=\"120\"/></a>",
@@ -187,7 +218,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -201,31 +232,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 20时10分]"
-        },
-        {
-          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
-          "url": "https://wallstreetcn.com/articles/3777377",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "用AI预测西班牙vs阿根廷",
@@ -356,6 +362,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+          "url": "https://www.zhihu.com/question/2061405940272960418",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "用AI撬开沃什的嘴？华尔街机构推出“WarshGPT”",
           "url": "https://www.cls.cn/detail/2430794",
           "source": "财联社热门",
@@ -376,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "建议普通人都尽早用上AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E4%BA%BA%E9%83%BD%E5%B0%BD%E6%97%A9%E7%94%A8%E4%B8%8AAI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "王祖贤AI人脸授权",
@@ -414,7 +442,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -446,11 +474,23 @@
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 23时03分]"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
