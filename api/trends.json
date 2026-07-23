@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T04:14:13.684391+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-07-24T05:58:11.617874+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -62,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "不要随意把照片和视频发给AI",
@@ -83,11 +83,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
@@ -98,8 +99,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         },
         {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
@@ -199,7 +200,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -271,7 +272,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -341,8 +342,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 05时58分]"
         }
       ]
     }
