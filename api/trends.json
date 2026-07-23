@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T13:46:09.580822+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-07-23T16:13:39.814635+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "用AI通关高难度跑步游戏",
@@ -15,11 +15,12 @@
             6,
             5,
             21,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 13时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 16时13分]"
         },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -36,6 +37,17 @@
           "time_info": "[00时18分 ~ 08时01分]"
         },
         {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时59分 ~ 16时13分]"
+        },
+        {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 05时58分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时59分 ~ 13时46分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -112,6 +113,18 @@
           "time_info": "[00时18分 ~ 06时59分]"
         },
         {
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 16时13分]"
+        },
+        {
           "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
           "url": "https://www.cls.cn/detail/2434534",
           "source": "财联社热门",
@@ -139,38 +152,28 @@
           "time_info": "[04时07分 ~ 10时55分]"
         },
         {
-          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
-          "url": "https://wallstreetcn.com/articles/3777694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时46分]"
-        },
-        {
           "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
           "url": "https://www.cls.cn/detail/2434755",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 16时13分]"
         },
         {
           "title": "男子AI伪造烂水果仅退款连累全县",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 16时13分]"
         },
         {
           "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
@@ -182,6 +185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
+          "url": "https://www.cls.cn/detail/2434908",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "谷歌Q2云业务超预期飙升82%，云积压订单达5140亿美元，AI投入开始兑现｜财报见闻",
@@ -202,8 +227,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 16时13分]"
         },
         {
           "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
@@ -251,6 +276,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "黄仁勋反对美国封禁中国AI模型",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%B0%81%E7%A6%81%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "rain淘汰猎鹰高光集锦",
           "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
           "source": "bilibili 热搜",
@@ -260,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "rain回应战胜猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         }
       ]
     },
@@ -277,8 +324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 13时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 16时13分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -522,8 +569,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 16时13分]"
         },
         {
           "title": "谷歌母公司Alphabet的CEO：公司在Gemini 4侧重于AI计算。 公司将加快发布AI模型的速度。 TPU作为独立系统的需求强劲。",
