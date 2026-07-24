@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T05:57:43.106296+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-07-25T06:56:54.833108+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -19,27 +19,16 @@
           "time_info": "[02时12分 ~ 05时57分]"
         },
         {
-          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时57分]"
-        },
-        {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时12分 ~ 06时56分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -47,7 +36,20 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时12分 ~ 06时56分]"
+        },
+        {
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -71,11 +73,12 @@
           "ranks": [
             28,
             20,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时12分 ~ 06时56分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -166,11 +169,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时12分 ~ 06时56分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
