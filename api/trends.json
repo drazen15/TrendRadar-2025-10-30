@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T20:24:29.314473+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-07-30T23:04:24.523672+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -19,8 +19,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时55分 ~ 23时04分]"
+        },
+        {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时55分 ~ 20时24分]"
+          "time_info": "[09时29分 ~ 23时04分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -49,19 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 09时29分]"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 20时24分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -103,6 +103,28 @@
           "time_info": "[07时55分 ~ 18时14分]"
         },
         {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 23时04分]"
+        },
+        {
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 23时04分]"
+        },
+        {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
           "url": "https://www.zhihu.com/question/2065710393360479149",
           "source": "知乎",
@@ -119,26 +141,17 @@
           "time_info": "[01时07分 ~ 07时55分]"
         },
         {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
           "ranks": [
-            9
+            4,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 20时24分]"
-        },
-        {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 20时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 23时04分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -165,18 +178,6 @@
           "time_info": "[12时50分 ~ 15时29分]"
         },
         {
-          "title": "硅谷烧书训AI,焚书坑儒2.0",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 20时24分]"
-        },
-        {
           "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
           "url": "https://flash.jin10.com/detail/20260730073649960800",
           "source": "金十数据",
@@ -194,7 +195,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -326,6 +327,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "大空头继续追杀AI，2000年的崩盘暗线回来了？",
           "url": "https://flash.jin10.com/detail/20260730122308806800",
           "source": "金十数据",
@@ -370,6 +382,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "AI公司开始抢绝版纸质书",
+          "url": "https://www.toutiao.com/trending/7668311942666128942/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "Meta营收创纪录，但AI成本拖累股价下跌",
           "url": "https://flash.jin10.com/detail/20260730044136462800",
           "source": "金十数据",
@@ -409,7 +432,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -448,11 +471,12 @@
           "url": "https://www.cls.cn/detail/2441076",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 23时04分]"
         },
         {
           "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
