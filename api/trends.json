@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T21:02:15.238975+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-08-02T22:38:12.030752+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -31,8 +31,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 22时38分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时50分 ~ 22时38分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -91,6 +106,20 @@
           "time_info": "[00时50分 ~ 16时07分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 22时38分]"
+        },
+        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -100,20 +129,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时45分]"
-        },
-        {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时50分 ~ 21时02分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -127,20 +142,6 @@
           "time_info": "[00时50分 ~ 06时45分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 21时02分]"
-        },
-        {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
           "url": "https://wallstreetcn.com/articles/3778505",
           "source": "华尔街见闻",
@@ -150,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 22时38分]"
         },
         {
           "title": "中国AI大模型的优势在哪里",
@@ -163,6 +164,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时07分 ~ 19时55分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时07分 ~ 22时38分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -182,23 +196,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 22时38分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时02分]"
-        },
-        {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 21时02分]"
+          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
@@ -235,6 +249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时55分 ~ 21时02分]"
+        },
+        {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -380,11 +405,12 @@
             4,
             9,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 22时38分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
