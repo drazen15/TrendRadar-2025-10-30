@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:38:12.030752+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-08-02T23:55:01.650081+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,21 @@
           "time_info": "[00时50分 ~ 13时19分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 23时55分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -31,8 +46,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 22时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 23时55分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -46,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时50分 ~ 22时38分]"
+          "appearance_count": 12,
+          "time_info": "[07时50分 ~ 23时55分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -106,36 +121,11 @@
           "time_info": "[00时50分 ~ 16时07分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 22时38分]"
-        },
-        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时45分]"
-        },
-        {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -151,8 +141,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 22时38分]"
+          "appearance_count": 8,
+          "time_info": "[18时26分 ~ 23时55分]"
+        },
+        {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时45分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时07分 ~ 23时55分]"
         },
         {
           "title": "中国AI大模型的优势在哪里",
@@ -166,17 +181,15 @@
           "time_info": "[16时07分 ~ 19时55分]"
         },
         {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时07分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[22时37分 ~ 23时55分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -197,22 +210,23 @@
           "ranks": [
             1,
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 23时55分]"
         },
         {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[22时37分 ~ 23时55分]"
         },
         {
           "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
@@ -249,17 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时55分 ~ 21时02分]"
-        },
-        {
-          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -331,7 +334,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -357,6 +360,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时26分 ~ 21时02分]"
+        },
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+          "url": "https://www.zhihu.com/question/2067212789714778007",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "DeepSeek又发重磅更新",
@@ -406,11 +431,13 @@
             9,
             12,
             15,
-            16
+            16,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 22时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 23时55分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
