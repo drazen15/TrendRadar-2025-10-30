@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T00:09:00.084634+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-05T02:38:10.620674+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,16 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -26,30 +27,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
+        },
+        {
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
           "url": "https://www.zhihu.com/question/2066578072997049748",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
         },
         {
           "title": "张月遭AI生成兽图涉嫌双重侵权",
@@ -106,11 +109,24 @@
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
+        },
+        {
+          "title": "中国版“生物DeepSeek”诞生",
+          "url": "https://www.toutiao.com/trending/7670182284162502194/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
         },
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -120,19 +136,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "中国版“生物DeepSeek”诞生",
-          "url": "https://www.toutiao.com/trending/7670182284162502194/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -142,8 +147,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
         }
       ]
     },
@@ -170,8 +175,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时38分]"
         }
       ]
     }
