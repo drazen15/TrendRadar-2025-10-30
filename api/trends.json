@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-06T18:29:46.338956+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-08-06T20:52:10.383268+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 20时52分]"
+        },
         {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
           "url": "https://www.cls.cn/detail/2446407",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 09时45分]"
-        },
-        {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 18时29分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -55,6 +55,17 @@
           "time_info": "[01时21分 ~ 04时58分]"
         },
         {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
           "url": "https://www.cls.cn/detail/2446947",
           "source": "财联社热门",
@@ -73,7 +84,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -155,7 +166,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -169,6 +180,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时52分]"
         },
         {
           "title": "Meta旗下AI入侵一公司系统",
@@ -206,6 +229,18 @@
           "time_info": "[04时58分 ~ 06时10分]"
         },
         {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时52分]"
+        },
+        {
           "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
           "source": "百度热搜",
@@ -229,15 +264,15 @@
           "time_info": "[15时35分 ~ 15时36分]"
         },
         {
-          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
-          "url": "https://www.cls.cn/detail/2447281",
-          "source": "财联社热门",
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
           "ranks": [
-            11
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
         },
         {
           "title": "深圳华强北AI眼镜销量激增100%",
@@ -246,18 +281,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "戚薇真的把自己做成AI了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -353,7 +377,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -361,24 +385,25 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 20时52分]"
         },
         {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            2,
-            20
+            9,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 20时52分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -389,20 +414,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 20时52分]"
         },
         {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            3
+            1,
+            2,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 20时52分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 20时52分]"
         },
         {
           "title": "DeepSeek拟上调API服务定价",
@@ -429,6 +470,17 @@
           "time_info": "[01时21分 ~ 03时16分]"
         },
         {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "DeepSeek API即将大幅涨价",
           "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "百度热搜",
@@ -440,17 +492,15 @@
           "time_info": "12时57分"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E3%80%81%E8%85%BE%E8%AE%AF%E7%AD%89%E8%8E%B7%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%88%98%E7%95%A5%E9%85%8D%E5%94%AE",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            14,
-            12
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 18时29分]"
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
         },
         {
           "title": "DeepSeek推理到一半说自己饿了",
@@ -473,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
