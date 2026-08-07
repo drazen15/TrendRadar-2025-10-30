@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:31:11.138936+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-08-08T06:27:03.184540+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -54,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -65,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -78,8 +78,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时45分 ~ 06时27分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -91,17 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 05时31分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -163,11 +163,12 @@
             18,
             19,
             23,
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -177,8 +178,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -188,8 +189,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[03时45分 ~ 06时27分]"
         }
       ]
     },
@@ -235,8 +236,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时27分]"
         }
       ]
     }
