@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T20:42:08.990844+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-08-07T22:06:46.055900+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时52分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时52分 ~ 22时06分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
@@ -57,11 +57,12 @@
             25,
             14,
             13,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时07分 ~ 20时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时07分 ~ 22时06分]"
         },
         {
           "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
@@ -73,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时52分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时52分 ~ 22时06分]"
         },
         {
           "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
@@ -85,8 +86,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时07分 ~ 20时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时07分 ~ 22时06分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 22时06分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -98,19 +113,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时10分 ~ 14时06分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时43分 ~ 20时42分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -364,9 +366,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "中欧基金杜厚良：经过近期调整，AI产业链中部分公司估值已处于相对低位区间",
+          "url": "https://wallstreetcn.com/livenews/3146756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美科研团队利用AI设计出可复制的新型噬菌体",
@@ -516,6 +529,17 @@
           "time_info": "[07时51分 ~ 19时39分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时07分 ~ 22时06分]"
+        },
+        {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
           "url": "https://wallstreetcn.com/articles/3778849",
           "source": "华尔街见闻",
@@ -526,17 +550,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时07分 ~ 18时44分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时07分 ~ 20时42分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -561,6 +574,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时10分]"
+        },
+        {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时06分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -596,17 +621,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时48分 ~ 14时06分]"
-        },
-        {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -657,6 +671,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     }
