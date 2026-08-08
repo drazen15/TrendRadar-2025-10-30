@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:21:49.522905+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-08-08T20:28:57.611941+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -41,11 +41,26 @@
             11,
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时06分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 20时28分]"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 20时28分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -59,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时42分 ~ 19时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时42分 ~ 20时28分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -83,20 +98,6 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时42分 ~ 19时21分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 19时21分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -138,8 +139,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时45分 ~ 19时21分]"
+          "appearance_count": 21,
+          "time_info": "[03时45分 ~ 20时28分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -214,8 +215,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时28分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -256,6 +257,18 @@
           "time_info": "[15时42分 ~ 18时23分]"
         },
         {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时28分]"
+        },
+        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -273,17 +286,6 @@
           "source": "百度热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时21分]"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -323,6 +325,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "AI大模型迈向分时定价",
           "url": "https://wallstreetcn.com/livenews/3146821",
           "source": "华尔街见闻-快讯",
@@ -332,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -369,11 +393,12 @@
             7,
             5,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时56分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[08时56分 ~ 20时28分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -405,8 +430,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时45分 ~ 19时21分]"
+          "appearance_count": 21,
+          "time_info": "[03时45分 ~ 20时28分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -503,11 +528,12 @@
             22,
             24,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时42分 ~ 19时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时42分 ~ 20时28分]"
         }
       ]
     }
